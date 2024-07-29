@@ -1,9 +1,9 @@
 Place,Country,Name,Age,RT,Status,Time,50 Split,100 Split,Event,Round
-1,ITA,Thomas CECCON,23,0.62,52.00,,25.10,26.90,Mens 100M Backstroke,Finals
-2,CHN,Jiayu XU,28,0.50,52.32,,24.88,27.44,Mens 100M Backstroke,Finals
-3,USA,Ryan MURPHY,29,0.52,52.39,,25.04,27.35,Mens 100M Backstroke,Finals
-4,GRE,Apostolos CHRISTOU,27,0.58,52.41,,25.21,27.20,Mens 100M Backstroke,Finals
-5,RSA,Pieter COETZE,20,0.67,52.58,,25.37,27.21,Mens 100M Backstroke,Finals
-6,ESP,Hugo GONZALEZ,25,0.59,52.73,,25.52,27.21,Mens 100M Backstroke,Finals
-7,FRA,Yohann NDOYE-BROUARD,23,0.52,52.77,,25.37,27.40,Mens 100M Backstroke,Finals
-8,GBR,Oliver MORGAN,21,0.60,52.84,,25.50,27.34,Mens 100M Backstroke,Finals
+1,ITA,Thomas CECCON,23,0.62,GOLD,52.00,25.10,26.90,Mens 100M Backstroke,Finals
+2,CHN,Jiayu XU,28,0.50,SILVER,52.32,24.88,27.44,Mens 100M Backstroke,Finals
+3,USA,Ryan MURPHY,29,0.52,BRONZE,52.39,25.04,27.35,Mens 100M Backstroke,Finals
+4,GRE,Apostolos CHRISTOU,27,0.58,FINALIST,52.41,25.21,27.20,Mens 100M Backstroke,Finals
+5,RSA,Pieter COETZE,20,0.67,FINALIST,52.58,25.37,27.21,Mens 100M Backstroke,Finals
+6,ESP,Hugo GONZALEZ,25,0.59,FINALIST,52.73,25.52,27.21,Mens 100M Backstroke,Finals
+7,FRA,Yohann NDOYE-BROUARD,23,0.52,FINALIST,52.77,25.37,27.40,Mens 100M Backstroke,Finals
+8,GBR,Oliver MORGAN,21,0.60,FINALIST,52.84,25.50,27.34,Mens 100M Backstroke,Finals
