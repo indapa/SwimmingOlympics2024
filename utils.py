@@ -28,7 +28,7 @@ def parse_100_heats(fname, event, round):
         country = rec[1].strip()
         country = country[0:3]
         name = rec[2].strip()
-
+      
         age_rt_status_points = rec[5].strip()
         age,rt,status_time = age_rt_status_points.split()[0:3]
         status = status_time[0:9]
@@ -45,40 +45,10 @@ def parse_100_heats(fname, event, round):
 
     return df
 
-def parse_200_heats(fname, event, round):
     
-        with open(fname, 'r') as file:
-            content = file.readlines()
-    
-        # Split the content into records
-        # every record is 11 lines long
-    
-        # Splitting the content into records, each record is 11 lines long
-        records = [content[i:i + 15] for i in range(0, len(content), 15)]
-    
-        results = []
-    
-        for rec in records:
-            place = rec[0].strip().split()[0]
-            country = rec[1].strip()
-            country = country[0:3]
-            name = rec[2].strip()
-    
-            age_rt_status_points = rec[5].strip()
-            age,rt,status_time = age_rt_status_points.split()[0:3]
-            status = status_time[0:9]
-            time = status_time[9::]
-    
-            
-    
-            #res = [place, country, name, age, rt, status, time, fifty_split, one_hundred_split, one_fifty_split, event, round]
-            #results.append(res)
-    
-        #df = pd.DataFrame(results, columns=['Place', 'Country', 'Name', 'Age', 'RT', 'Status', 'Time', '50 Split', '100 Split', '150 Split', 'Event', 'Round'])
-    
-        #return df
+         
 
-def parse_800_heats (fname, event, round='Heats'):
+def parse_800_heats (fname, event, round=round):
     with open(fname, 'r') as file:
         content = file.readlines()
     records = [content[i:i + 39] for i in range(0, len(content), 39)]
@@ -194,7 +164,7 @@ def parse_200_heats (fname, event, round='Heats'):
         split_times = [split.split('\t')[0] for split in splits_times]
         res = [place, country, name, age, rt, status, time]
         res.extend(split_times)
-        res.extend([event, 'Heats'])
+        res.extend([event, round])
         results.append(res)
 
         
@@ -227,10 +197,12 @@ def sort_heats(df, topN=16):
     #reset the place column to be the row index + 1
     df['Place'] = df.index + 1
 
-    # the first 16 swimmers are qualified, the rest are eliminated
-    df.loc[topN:, 'Status'] = 'ELIMINATED'
+  
+    df.loc[df['Place']<=topN, 'Status']='QUALIFIED'
 
-    df.loc[0:topN, 'Status'] = 'QUALIFIED'
+    # the rest of the swimmers to 'Eliminated'
+    df.loc[df['Place']>8, 'Status']='ELIMINATED'
+
 
 
     return df
