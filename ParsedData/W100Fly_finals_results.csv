@@ -1,9 +1,9 @@
 Place,Country,Name,Age,RT,Status,Time,50 Split,100 Split,Event,Round
-1,USA,Torri HUSKE,21,0.63,55.59,,25.61,29.98,Womens 100M Butterfly,Finals
-2,USA,Gretchen WALSH,21,0.75,55.63,,25.40,30.23,Womens 100M Butterfly,Finals
-3,CHN,Yufei ZHANG,26,0.66,56.21,,25.42,30.79,Womens 100M Butterfly,Finals
-4,GER,Angelina KOHLER,23,0.72,56.42,,26.35,30.07,Womens 100M Butterfly,Finals
-5,CAN,Margaret MACNEIL,24,0.68,56.44,,25.94,30.50,Womens 100M Butterfly,Finals
-6,AUS,Emma MCKEON,30,0.71,56.93,,26.40,30.53,Womens 100M Butterfly,Finals
-7,JPN,Mizuki HIRAI,17,0.59,57.19,,26.66,30.53,Womens 100M Butterfly,Finals
-8,SWE,Louise HANSSON,27,0.71,57.34,,26.61,30.73,Womens 100M Butterfly,Finals
+1,USA,Torri HUSKE,21,0.63,GOLD,55.59,25.61,29.98,Womens 100M Butterfly,Finals
+2,USA,Gretchen WALSH,21,0.75,SILVER,55.63,25.40,30.23,Womens 100M Butterfly,Finals
+3,CHN,Yufei ZHANG,26,0.66,BRONZE,56.21,25.42,30.79,Womens 100M Butterfly,Finals
+4,GER,Angelina KOHLER,23,0.72,FINALIST,56.42,26.35,30.07,Womens 100M Butterfly,Finals
+5,CAN,Margaret MACNEIL,24,0.68,FINALIST,56.44,25.94,30.50,Womens 100M Butterfly,Finals
+6,AUS,Emma MCKEON,30,0.71,FINALIST,56.93,26.40,30.53,Womens 100M Butterfly,Finals
+7,JPN,Mizuki HIRAI,17,0.59,FINALIST,57.19,26.66,30.53,Womens 100M Butterfly,Finals
+8,SWE,Louise HANSSON,27,0.71,FINALIST,57.34,26.61,30.73,Womens 100M Butterfly,Finals

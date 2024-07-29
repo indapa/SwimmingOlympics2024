@@ -178,6 +178,20 @@ def parse_200_heats (fname, event, round='Heats'):
     return df
 
 
+def modify_finals_df(df):
+    " Modify the dataframe for the finals"
+
+    #copy values from Status to Time if Status is not equal to QUALIFIED
+    df.loc[df['Status']!='QUALIFIED', 'Time'] = df['Status']
+
+    #make the first 3 rows of status be GOLD, SILVER, BRONZE, the rest FINAlISTS
+    df.loc[0:1, 'Status'] = 'GOLD'
+    df.loc[1:2, 'Status'] = 'SILVER'
+    df.loc[2:3, 'Status'] = 'BRONZE'
+    df.loc[3:, 'Status'] = 'FINALIST'
+
+    return df
+
 
 def sort_heats(df, topN=16):
 
