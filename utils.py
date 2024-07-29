@@ -78,7 +78,52 @@ def parse_200_heats(fname, event, round):
     
         #return df
 
-def parse_400_heats (fname, event, round='Heats'):
+def parse_800_heats (fname, event, round='Heats'):
+    with open(fname, 'r') as file:
+        content = file.readlines()
+    records = [content[i:i + 39] for i in range(0, len(content), 39)]
+
+    results = []
+    for rec in records:
+        #print (rec)
+        #print (rec[0])
+        place = rec[0].strip().split()[0]
+        country = rec[1].strip()
+        country = country[0:3]
+        name = rec[2].strip()
+        #print (rec[5])
+        age_rt_status_points = rec[5].strip()
+
+        
+        age,rt,status_time = age_rt_status_points.split()[0:3]
+        
+
+        status = status_time[0:9]
+        time = status_time[9::]
+
+        splits = rec[7::]
+        splits_times= splits[1::2]
+        distances = splits[0::2]
+        distances = [dist.strip() for dist in distances]
+
+        split_times = [split.split('\t')[0] for split in splits_times]
+        res = [place, country, name, age, rt, status, time]
+        res.extend(split_times)
+        res.extend([event, round])
+        results.append(res)
+
+        
+        
+    columns=['Place', 'Country', 'Name', 'Age', 'RT', 'Status', 'Time']
+    columns=['Place', 'Country', 'Name', 'Age', 'RT', 'Status', 'Time']
+    columns.extend(distances)
+    columns.extend(['Event', 'Round'])
+    df = pd.DataFrame(results, columns=columns)
+
+    return df
+
+
+def parse_400_heats (fname, event, round=round):
     with open(fname, 'r') as file:
         content = file.readlines()
     records = [content[i:i + 23] for i in range(0, len(content), 23)]
@@ -164,7 +209,7 @@ def parse_200_heats (fname, event, round='Heats'):
 
 
 
-def sort_heats(df):
+def sort_heats(df, topN=16):
 
     # if status is not equal QUALIFIED, then copy the value in the status column to the time column
     df.loc[df['Status']!='QUALIFIED', 'Time'] = df['Status']
@@ -181,6 +226,12 @@ def sort_heats(df):
 
     #reset the place column to be the row index + 1
     df['Place'] = df.index + 1
+
+    # the first 16 swimmers are qualified, the rest are eliminated
+    df.loc[topN:, 'Status'] = 'ELIMINATED'
+
+    df.loc[0:topN, 'Status'] = 'QUALIFIED'
+
 
     return df
 
