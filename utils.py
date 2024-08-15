@@ -30,7 +30,7 @@ def parse_100_heats(fname, event, round):
         name = rec[2].strip()
       
         age_rt_status_points = rec[5].strip()
-        print (age_rt_status_points)
+        #print (age_rt_status_points)
         age,rt,status_time = age_rt_status_points.split()[0:3]
         status = status_time[0:9]
         time = status_time[9::]
