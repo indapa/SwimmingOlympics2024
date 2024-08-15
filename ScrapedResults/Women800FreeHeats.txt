@@ -1,0 +1,18 @@
+Country Code,Full Name,First Name,Last Name,Age,Event
+ARG,Agostina HEIN,Agostina,HEIN,16,Women800Free
+AUS,Lani PALLISTER,Lani,PALLISTER,22,Women800Free
+AUS,Ariarne TITMUS,Ariarne,TITMUS,23,Women800Free
+BRA,Maria Fernanda DE OLIVEIRA DA SILVA COSTA,Maria Fernanda,DE OLIVEIRA DA SILVA COSTA,21,Women800Free
+CHI,Kristel KOBRICH,Kristel,KOBRICH,38,Women800Free
+CHN,Bingjie LI,Bingjie,LI,22,Women800Free
+FRA,Anastasiia KIRPICHNIKOVA,Anastasiia,KIRPICHNIKOVA,24,Women800Free
+GER,Isabel GOSE,Isabel,GOSE,22,Women800Free
+HUN,Ajna KESELY,Ajna,KESELY,22,Women800Free
+ITA,Simona QUADARELLA,Simona,QUADARELLA,25,Women800Free
+MKD,Eva PETROVSKA,Eva,PETROVSKA,19,Women800Free
+NZL,Erika FAIRWEATHER,Erika,FAIRWEATHER,20,Women800Free
+NZL,Eve THOMAS,Eve,THOMAS,23,Women800Free
+SGP,Ching Hwee GAN,Ching Hwee,GAN,21,Women800Free
+TUN,Jamila BOULAKBECH,Jamila,BOULAKBECH,17,Women800Free
+USA,Katie LEDECKY,Katie,LEDECKY,27,Women800Free
+USA,Paige MADDEN,Paige,MADDEN,25,Women800Free

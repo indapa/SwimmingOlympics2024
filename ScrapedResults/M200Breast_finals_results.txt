@@ -1,0 +1,120 @@
+1	4	
+FRAFRA
+Leon MARCHAND
+Leon
+MARCHAND
+22	0.64	2:05.85 -	991	
+Distance	Split Time	Cumulative Time
+ 50m
+28.42	28.42
+ 100m
+32.17	01:00.59
+ 150m
+32.53	01:33.12
+ 200m
+32.73	02:05.85
+2	5	
+AUSAUS
+Zac STUBBLETY-COOK
+Zac
+STUBBLETY-COOK
+25	0.66	2:06.79	+00.94	969	
+Distance	Split Time	Cumulative Time
+ 50m
+29.30	29.30
+ 100m
+32.26	01:01.56
+ 150m
+32.74	01:34.30
+ 200m
+32.49	02:06.79
+3	6	
+NEDNED
+Caspar CORBEAU
+Caspar
+CORBEAU
+23	0.68	2:07.90	+02.05	944	
+Distance	Split Time	Cumulative Time
+ 50m
+29.19	29.19
+ 100m
+32.21	01:01.40
+ 150m
+33.37	01:34.77
+ 200m
+33.13	02:07.90
+4	3	
+CHNCHN
+Zhihao DONG
+Zhihao
+DONG
+19	0.64	2:08.46	+02.61	932	
+Distance	Split Time	Cumulative Time
+ 50m
+29.05	29.05
+ 100m
+33.19	01:02.24
+ 150m
+33.92	01:36.16
+ 200m
+32.30	02:08.46
+5	1	
+JPNJPN
+Yu HANAGURUMA
+Yu
+HANAGURUMA
+24	0.66	2:08.79	+02.94	924	
+Distance	Split Time	Cumulative Time
+ 50m
+29.32	29.32
+ 100m
+32.88	01:02.20
+ 150m
+33.06	01:35.26
+ 200m
+33.53	02:08.79
+6	2	
+JPNJPN
+Ippei WATANABE
+Ippei
+WATANABE
+27	0.71	2:08.83	+02.98	924	
+Distance	Split Time	Cumulative Time
+ 50m
+29.44	29.44
+ 100m
+33.00	01:02.44
+ 150m
+32.93	01:35.37
+ 200m
+33.46	02:08.83
+7	7	
+USAUSA
+Josh MATHENY
+Josh
+MATHENY
+21	0.67	2:09.52	+03.67	909	
+Distance	Split Time	Cumulative Time
+ 50m
+29.17	29.17
+ 100m
+32.84	01:02.01
+ 150m
+33.72	01:35.73
+ 200m
+33.79	02:09.52
+8	8	
+AUSAUS
+Joshua YONG
+Joshua
+YONG
+23	0.69	2:11.44	+05.59	870	
+Distance	Split Time	Cumulative Time
+ 50m
+29.72	29.72
+ 100m
+32.94	01:02.66
+ 150m
+34.26	01:36.92
+ 200m
+34.52	02:11.44

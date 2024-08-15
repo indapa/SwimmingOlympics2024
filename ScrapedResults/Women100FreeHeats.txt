@@ -1,0 +1,30 @@
+Country Code,Full Name,First Name,Last Name,Age,Event
+ALG,Nesrine MEDJAHED,Nesrine,MEDJAHED,24,Women100Free
+AUS,Shayna JACK,Shayna,JACK,25,Women100Free
+AUS,Mollie O'CALLAGHAN,Mollie,O'CALLAGHAN,20,Women100Free
+BOT,Maxine EGNER,Maxine,EGNER,20,Women100Free
+CAN,Margaret MACNEIL,Margaret,MACNEIL,24,Women100Free
+CAY,Jillian Janis Geohagan CROOKS,Jillian Janis Geohagan,CROOKS,18,Women100Free
+CHN,Qingfeng WU,Qingfeng,WU,21,Women100Free
+CHN,Junxuan YANG,Junxuan,YANG,22,Women100Free
+CRO,Jana PAVALIC,Jana,PAVALIC,17,Women100Free
+CYP,Kalia ANTONIOU,Kalia,ANTONIOU,24,Women100Free
+CZE,Barbora SEEMANOVA,Barbora,SEEMANOVA,24,Women100Free
+FRA,Beryl GASTALDELLO,Beryl,GASTALDELLO,29,Women100Free
+FRA,Marie WATTEL,Marie,WATTEL,27,Women100Free
+GBR,Anna HOPKIN,Anna,HOPKIN,28,Women100Free
+GRN,Tilly COLLYMORE,Tilly,COLLYMORE,16,Women100Free
+GUY,Aleka Kylela PERSAUD,Aleka Kylela,PERSAUD,18,Women100Free
+HKG,Siobhan Bernadette HAUGHEY,Siobhan Bernadette,HAUGHEY,26,Women100Free
+ISL,Snaefridur Sol JORUNNARDOTTIR,Snaefridur Sol,JORUNNARDOTTIR,23,Women100Free
+NED,Marrit STEENBERGEN,Marrit,STEENBERGEN,24,Women100Free
+PHI,Kayla SANCHEZ,Kayla,SANCHEZ,23,Women100Free
+POL,Kornelia FIEDKIEWICZ,Kornelia,FIEDKIEWICZ,22,Women100Free
+SLO,Neza KLANCAR,Neza,KLANCAR,24,Women100Free
+SUD,Rana SAADELDIN,Rana,SAADELDIN,15,Women100Free
+SWE,Michelle COLEMAN,Michelle,COLEMAN,30,Women100Free
+SWE,Sarah SJOESTROEM,Sarah,SJOESTROEM,30,Women100Free
+UGA,Gloria Anna MUZITO,Gloria Anna,MUZITO,21,Women100Free
+USA,Torri HUSKE,Torri,HUSKE,21,Women100Free
+USA,Gretchen WALSH,Gretchen,WALSH,21,Women100Free
+ZIM,Paige VAN DER WESTHUIZEN,Paige,VAN DER WESTHUIZEN,21,Women100Free

@@ -1,0 +1,32 @@
+Country Code,Full Name,First Name,Last Name,Age,Event
+ALB,Kaltra MECA,Kaltra,MECA,16,Women200Free
+AUS,Mollie O'CALLAGHAN,Mollie,O'CALLAGHAN,20,Women200Free
+AUS,Ariarne TITMUS,Ariarne,TITMUS,23,Women200Free
+BEL,Valentine DUMONT,Valentine,DUMONT,24,Women200Free
+BRA,Maria Fernanda DE OLIVEIRA DA SILVA COSTA,Maria Fernanda,DE OLIVEIRA DA SILVA COSTA,21,Women200Free
+CAN,Mary-Sophie HARVEY,Mary-Sophie,HARVEY,24,Women200Free
+CHN,Bingjie LI,Bingjie,LI,22,Women200Free
+CHN,Junxuan YANG,Junxuan,YANG,22,Women200Free
+CUB,Andrea BECALI,Andrea,BECALI,20,Women200Free
+CZE,Barbora SEEMANOVA,Barbora,SEEMANOVA,24,Women200Free
+EGY,Lojine ABDALLA SALAH,Lojine,ABDALLA SALAH,19,Women200Free
+GER,Julia MROZINSKI,Julia,MROZINSKI,24,Women200Free
+HKG,Siobhan Bernadette HAUGHEY,Siobhan Bernadette,HAUGHEY,26,Women200Free
+HON,Julimar AVILA MANCIA,Julimar,AVILA MANCIA,27,Women200Free
+HUN,Lilla Minna ABRAHAM,Lilla Minna,ABRAHAM,18,Women200Free
+HUN,Nikolett PADAR,Nikolett,PADAR,18,Women200Free
+IND,Dhinidhi DESINGHU,Dhinidhi,DESINGHU,14,Women200Free
+ISL,Snaefridur Sol JORUNNARDOTTIR,Snaefridur Sol,JORUNNARDOTTIR,23,Women200Free
+ISR,Lea POLONSKY,Lea,POLONSKY,22,Women200Free
+KSA,Mashael Meshari A ALAYED,Mashael Meshari A,ALAYED,17,Women200Free
+LAO,Ariana Southa DIRKZWAGER,Ariana Southa,DIRKZWAGER,20,Women200Free
+MGL,Enkhkhuslen BATBAYAR,Enkhkhuslen,BATBAYAR,22,Women200Free
+NEP,Duana LAMA,Duana,LAMA,18,Women200Free
+NZL,Erika FAIRWEATHER,Erika,FAIRWEATHER,20,Women200Free
+PAK,Jehanara NABI,Jehanara,NABI,20,Women200Free
+ROU,Rebecca-Aimee DIACONESCU,Rebecca-Aimee,DIACONESCU,18,Women200Free
+RSA,Aimee CANNY,Aimee,CANNY,20,Women200Free
+UAE,Maha ALSHEHHI,Maha,ALSHEHHI,18,Women200Free
+USA,Erin GEMMELL,Erin,GEMMELL,19,Women200Free
+USA,Claire WEINSTEIN,Claire,WEINSTEIN,17,Women200Free
+VEN,Maria Victoria YEGRES COTTIN,Maria Victoria,YEGRES COTTIN,18,Women200Free

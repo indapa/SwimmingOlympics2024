@@ -1,0 +1,88 @@
+1	4	
+CHNCHN
+Zhanle PAN
+Zhanle
+PAN
+19	0.62	46.40    -	1030	
+Distance	Split Time	Cumulative Time
+ 50m
+22.28	22.28
+ 100m
+24.12	46.40
+2	5	
+AUSAUS
+Kyle CHALMERS
+Kyle
+CHALMERS
+26	0.70	47.48	+01.08	961	
+Distance	Split Time	Cumulative Time
+ 50m
+23.03	23.03
+ 100m
+24.45	47.48
+3	2	
+ROUROU
+David POPOVICI
+David
+POPOVICI
+19	0.66	47.49	+01.09	960	
+Distance	Split Time	Cumulative Time
+ 50m
+22.94	22.94
+ 100m
+24.55	47.49
+4	3	
+HUNHUN
+Nandor NEMETH
+Nandor
+NEMETH
+24	0.64	47.50	+01.10	960	
+Distance	Split Time	Cumulative Time
+ 50m
+22.90	22.90
+ 100m
+24.60	47.50
+5	6	
+FRAFRA
+Maxime GROUSSET
+Maxime
+GROUSSET
+25	0.62	47.71	+01.31	947	
+Distance	Split Time	Cumulative Time
+ 50m
+22.61	22.61
+ 100m
+25.10	47.71
+6	8	
+GERGER
+Josha SALCHOW
+Josha
+SALCHOW
+25	0.69	47.80	+01.40	942	
+Distance	Split Time	Cumulative Time
+ 50m
+22.93	22.93
+ 100m
+24.87	47.80
+7	7	
+USAUSA
+Jack ALEXY
+Jack
+ALEXY
+21	0.68	47.96	+01.56	932	
+Distance	Split Time	Cumulative Time
+ 50m
+22.63	22.63
+ 100m
+25.33	47.96
+8	1	
+USAUSA
+Chris GUILIANO
+Chris
+GUILIANO
+21	0.61	47.98	+01.58	931	
+Distance	Split Time	Cumulative Time
+ 50m
+22.82	22.82
+ 100m
+25.16	47.98

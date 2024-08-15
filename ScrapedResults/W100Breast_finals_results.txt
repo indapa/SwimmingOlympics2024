@@ -1,0 +1,88 @@
+1	4	
+RSARSA
+Tatjana SCHOENMAKER
+Tatjana
+SMITH
+27	0.68	1:05.28	-	948	
+Distance	Split Time	Cumulative Time
+ 50m
+30.62	30.62
+ 100m
+34.66	01:05.28
+2	6	
+CHNCHN
+Qianting TANG
+Qianting
+TANG
+20	0.72	1:05.54	+00.26	936	
+Distance	Split Time	Cumulative Time
+ 50m
+29.94	29.94
+ 100m
+35.60	01:05.54
+3	5	
+IRLIRL
+Mona MC SHARRY
+Mona
+MC SHARRY
+23	0.69	1:05.59	+00.31	934	
+Distance	Split Time	Cumulative Time
+ 50m
+30.56	30.56
+ 100m
+35.03	01:05.59
+4	1	
+ITAITA
+Benedetta PILATO
+Benedetta
+PILATO
+19	0.66	1:05.60	+00.32	934	
+Distance	Split Time	Cumulative Time
+ 50m
+30.62	30.62
+ 100m
+34.98	01:05.60
+4	3	
+USAUSA
+Lilly KING
+Lilly
+KING
+27	0.66	1:05.60	+00.32	934	
+Distance	Split Time	Cumulative Time
+ 50m
+31.00	31.00
+ 100m
+34.60	01:05.60
+6	7	
+GBRGBR
+Angharad EVANS
+Angharad
+EVANS
+21	0.68	1:05.85	+00.57	923	
+Distance	Split Time	Cumulative Time
+ 50m
+30.61	30.61
+ 100m
+35.24	01:05.85
+7	8	
+ESTEST
+Eneli JEFIMOVA
+Eneli
+JEFIMOVA
+17	0.66	1:06.50	+01.22	896	
+Distance	Split Time	Cumulative Time
+ 50m
+30.69	30.69
+ 100m
+35.81	01:06.50
+8	2	
+AINAIN
+Alina ZMUSHKA
+Alina
+ZMUSHKA
+27	0.68	1:06.54	+01.26	895	
+Distance	Split Time	Cumulative Time
+ 50m
+31.12	31.12
+ 100m
+35.42	01:06.54

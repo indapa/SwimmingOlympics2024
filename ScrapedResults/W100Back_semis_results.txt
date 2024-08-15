@@ -1,0 +1,176 @@
+1	4	
+USAUSA
+Regan SMITH
+Regan
+SMITH
+22	0.56	QUALIFIED57.97	-	967	
+Distance	Split Time	Cumulative Time
+ 50m
+28.19	28.19
+ 100m
+29.78	57.97
+2	5	
+CANCAN
+Kylie MASSE
+Kylie
+MASSE
+28	0.56	QUALIFIED58.82	+00.85	925	
+Distance	Split Time	Cumulative Time
+ 50m
+28.24	28.24
+ 100m
+30.58	58.82
+3	7	
+CANCAN
+Ingrid WILM
+Ingrid
+WILM
+26	0.61	QUALIFIED59.10	+01.13	912	
+Distance	Split Time	Cumulative Time
+ 50m
+28.80	28.80
+ 100m
+30.30	59.10
+4	3	
+FRAFRA
+Beryl GASTALDELLO
+Beryl
+GASTALDELLO
+29	0.57	QUALIFIED59.29	+01.32	904	
+Distance	Split Time	Cumulative Time
+ 50m
+28.53	28.53
+ 100m
+30.76	59.29
+5	6	
+ESPESP
+Carmen WEILER SASTRE
+Carmen
+WEILER SASTRE
+19	0.64	59.72	+01.75	884	
+Distance	Split Time	Cumulative Time
+ 50m
+29.07	29.07
+ 100m
+30.65	59.72
+6	1	
+CHNCHN
+Xueer WANG
+Xueer
+WANG
+26	0.62	59.89	+01.92	877	
+Distance	Split Time	Cumulative Time
+ 50m
+28.48	28.48
+ 100m
+31.41	59.89
+7	2	
+NEDNED
+Kira TOUSSAINT
+Kira
+TOUSSAINT
+30	0.53	1:00.37	+02.40	856	
+Distance	Split Time	Cumulative Time
+ 50m
+28.64	28.64
+ 100m
+31.73	01:00.37
+8	8	
+IRLIRL
+Danielle HILL
+Danielle
+HILL
+24	0.57	1:00.80	+02.83	838	
+Distance	Split Time	Cumulative Time
+ 50m
+28.92	28.92
+ 100m
+31.88	01:00.80
+1	5	
+AUSAUS
+Kaylee MCKEOWN
+Kaylee
+MCKEOWN
+23	0.55	QUALIFIED57.99	-	966	
+Distance	Split Time	Cumulative Time
+ 50m
+28.23	28.23
+ 100m
+29.76	57.99
+2	4	
+USAUSA
+Katharine BERKOFF
+Katharine
+BERKOFF
+23	0.61	QUALIFIED58.27	+00.28	952	
+Distance	Split Time	Cumulative Time
+ 50m
+28.31	28.31
+ 100m
+29.96	58.27
+3	6	
+AUSAUS
+Iona ANDERSON
+Iona
+ANDERSON
+18	0.61	QUALIFIED58.63	+00.64	934	
+Distance	Split Time	Cumulative Time
+ 50m
+28.62	28.62
+ 100m
+30.01	58.63
+4	3	
+FRAFRA
+Emma TEREBO
+Emma
+TEREBO
+26	0.61	QUALIFIED59.50	+01.51	894	
+Distance	Split Time	Cumulative Time
+ 50m
+28.70	28.70
+ 100m
+30.80	59.50
+5	2	
+BELBEL
+Roos VANOTTERDIJK
+Roos
+VANOTTERDIJK
+19	0.55	59.86	+01.87	878	
+Distance	Split Time	Cumulative Time
+ 50m
+29.03	29.03
+ 100m
+30.83	59.86
+6	7	
+CHNCHN
+Letian WAN
+Letian
+WAN
+19	0.55	1:00.06	+02.07	869	
+Distance	Split Time	Cumulative Time
+ 50m
+28.55	28.55
+ 100m
+31.51	01:00.06
+7	1	
+NEDNED
+Maaike DE WAARD
+Maaike
+DE WAARD
+27	0.69	1:00.22	+02.23	862	
+Distance	Split Time	Cumulative Time
+ 50m
+28.83	28.83
+ 100m
+31.39	01:00.22
+8	8	
+SWESWE
+Louise HANSSON
+Louise
+HANSSON
+27	0.64	1:00.47	+02.48	852	
+Distance	Split Time	Cumulative Time
+ 50m
+28.89	28.89
+ 100m
+31.58	01:00.47

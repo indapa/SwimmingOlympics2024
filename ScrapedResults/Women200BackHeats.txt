@@ -1,0 +1,29 @@
+Country Code,Full Name,First Name,Last Name,Age,Event
+AUS,Jaclyn BARCLAY,Jaclyn,BARCLAY,17,Women200Back
+AUS,Kaylee MCKEOWN,Kaylee,MCKEOWN,23,Women200Back
+BUL,Gabriela GEORGIEVA,Gabriela,GEORGIEVA,27,Women200Back
+CAN,Kylie MASSE,Kylie,MASSE,28,Women200Back
+CAN,Regan RATHWELL,Regan,RATHWELL,20,Women200Back
+CHN,Yaxin LIU,Yaxin,LIU,25,Women200Back
+CHN,Xuwei PENG,Xuwei,PENG,21,Women200Back
+ESP,Carmen WEILER SASTRE,Carmen,WEILER SASTRE,19,Women200Back
+ESP,Africa ZAMORANO SANZ,Africa,ZAMORANO SANZ,26,Women200Back
+FRA,Pauline MAHIEU,Pauline,MAHIEU,25,Women200Back
+FRA,Emma TEREBO,Emma,TEREBO,26,Women200Back
+GBR,Honey OSRIN,Honey,OSRIN,21,Women200Back
+GBR,Katie SHANAHAN,Katie,SHANAHAN,20,Women200Back
+HKG,Sum Yuet Cindy CHEUNG,Sum Yuet Cindy,CHEUNG,17,Women200Back
+HUN,Dora MOLNAR,Dora,MOLNAR,18,Women200Back
+HUN,Eszter SZABO-FELTOTHY,Eszter,SZABO-FELTOTHY,22,Women200Back
+ISR,Aviv BARZELAY,Aviv,BARZELAY,22,Women200Back
+ISR,Anastasia GORBENKO,Anastasia,GORBENKO,20,Women200Back
+ITA,Margherita PANZIERA,Margherita,PANZIERA,28,Women200Back
+KOR,Eunji LEE,Eunji,LEE,18,Women200Back
+MDA,Tatiana SALCUTAN,Tatiana,SALCUTAN,23,Women200Back
+MRI,Anishta TEELUCK,Anishta,TEELUCK,23,Women200Back
+AIN,Anastasiya SHKURDAI,Anastasiya,SHKURDAI,21,Women200Back
+POL,Laura BERNAT,Laura,BERNAT,18,Women200Back
+POL,Adela PISKORSKA,Adela,PISKORSKA,20,Women200Back
+POR,Camila REBELO,Camila,REBELO,21,Women200Back
+USA,Phoebe BACON,Phoebe,BACON,21,Women200Back
+USA,Regan SMITH,Regan,SMITH,22,Women200Back

@@ -1,0 +1,88 @@
+1	5	
+ITAITA
+Thomas CECCON
+Thomas
+CECCON
+23	0.62	52.00	-	977	
+Distance	Split Time	Cumulative Time
+ 50m
+25.10	25.10
+ 100m
+26.90	52.00
+2	4	
+CHNCHN
+Jiayu XU
+Jiayu
+XU
+28	0.50	52.32	+00.32	959	
+Distance	Split Time	Cumulative Time
+ 50m
+24.88	24.88
+ 100m
+27.44	52.32
+3	2	
+USAUSA
+Ryan MURPHY
+Ryan
+MURPHY
+29	0.52	52.39	+00.39	955	
+Distance	Split Time	Cumulative Time
+ 50m
+25.04	25.04
+ 100m
+27.35	52.39
+4	7	
+GREGRE
+Apostolos CHRISTOU
+Apostolos
+CHRISTOU
+27	0.58	52.41	+00.41	954	
+Distance	Split Time	Cumulative Time
+ 50m
+25.21	25.21
+ 100m
+27.20	52.41
+5	6	
+RSARSA
+Pieter COETZE
+Pieter
+COETZE
+20	0.67	52.58   +00.58	945	
+Distance	Split Time	Cumulative Time
+ 50m
+25.37	25.37
+ 100m
+27.21	52.58
+6	8	
+ESPESP
+Hugo GONZALEZ
+Hugo
+GONZALEZ
+25	0.59	52.73	+00.73	937	
+Distance	Split Time	Cumulative Time
+ 50m
+25.52	25.52
+ 100m
+27.21	52.73
+7	3	
+FRAFRA
+Yohann NDOYE-BROUARD
+Yohann
+NDOYE-BROUARD
+23	0.52	52.77	+00.77	934	
+Distance	Split Time	Cumulative Time
+ 50m
+25.37	25.37
+ 100m
+27.40	52.77
+8	1	
+GBRGBR
+Oliver MORGAN
+Oliver
+MORGAN
+21	0.60	52.84	+00.84	931	
+Distance	Split Time	Cumulative Time
+ 50m
+25.50	25.50
+ 100m
+27.34	52.84

@@ -1,0 +1,38 @@
+Country Code,Full Name,First Name,Last Name,Age,Event
+ANT,Ellie SHAW,Ellie,SHAW,15,Women100Breast
+ARG,Macarena CEBALLOS,Macarena,CEBALLOS,29,Women100Breast
+AUS,Jenna STRAUCH,Jenna,STRAUCH,27,Women100Breast
+CAN,Sophie ANGUS,Sophie,ANGUS,25,Women100Breast
+CHN,Qianting TANG,Qianting,TANG,20,Women100Breast
+CHN,Chang YANG,Chang,YANG,22,Women100Breast
+COK,Lanihei CONNOLLY,Lanihei,CONNOLLY,18,Women100Breast
+COL,Stefania GOMEZ HURTADO,Stefania,GOMEZ HURTADO,20,Women100Breast
+CZE,Kristyna HORSKA,Kristyna,HORSKA,26,Women100Breast
+ESP,Jessica VALL MONTERO,Jessica,VALL MONTERO,35,Women100Breast
+EST,Eneli JEFIMOVA,Eneli,JEFIMOVA,17,Women100Breast
+FIN,Ida HULKKO,Ida,HULKKO,25,Women100Breast
+GAM,Aminata Nia-Maria BARROW,Aminata Nia-Maria,BARROW,20,Women100Breast
+GBR,Angharad EVANS,Angharad,EVANS,21,Women100Breast
+GER,Anna ELENDT,Anna,ELENDT,22,Women100Breast
+IRL,Mona MC SHARRY,Mona,MC SHARRY,23,Women100Breast
+ISR,Anastasia GORBENKO,Anastasia,GORBENKO,20,Women100Breast
+ITA,Lisa ANGIOLINI,Lisa,ANGIOLINI,29,Women100Breast
+ITA,Benedetta PILATO,Benedetta,PILATO,19,Women100Breast
+JPN,Reona AOKI,Reona,AOKI,29,Women100Breast
+JPN,Satomi SUZUKI,Satomi,SUZUKI,33,Women100Breast
+KUW,Lara DASHTI,Lara,DASHTI,20,Women100Breast
+LBN,Lynn EL HAJJ,Lynn,EL HAJJ,17,Women100Breast
+LTU,Ruta MEILUTYTE,Ruta,MEILUTYTE,27,Women100Breast
+LTU,Kotryna TETEREVKOVA,Kotryna,TETEREVKOVA,22,Women100Breast
+MAR,Imane Houda EL BARODI,Imane Houda,EL BARODI,23,Women100Breast
+MAS,Rouxin TAN,Rouxin,TAN,18,Women100Breast
+NED,Tes SCHOUTEN,Tes,SCHOUTEN,23,Women100Breast
+AIN,Alina ZMUSHKA,Alina,ZMUSHKA,27,Women100Breast
+PAN,Emily EMILY SANTOS,Emily,EMILY SANTOS,19,Women100Breast
+POL,Dominika SZTANDERA,Dominika,SZTANDERA,27,Women100Breast
+RSA,Tatjana SCHOENMAKER,Tatjana,SMITH,27,Women100Breast
+SGP,En Yi Letitia SIM,En Yi Letitia,SIM,21,Women100Breast
+SUI,Lisa MAMIE,Lisa,MAMIE,25,Women100Breast
+SWE,Sophie HANSSON,Sophie,HANSSON,25,Women100Breast
+USA,Lilly KING,Lilly,KING,27,Women100Breast
+USA,Emma WEBER,Emma,WEBER,20,Women100Breast

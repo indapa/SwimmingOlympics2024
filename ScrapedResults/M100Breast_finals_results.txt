@@ -1,0 +1,88 @@
+1	7	
+ITAITA
+Nicolo MARTINENGHI
+Nicolo
+MARTINENGHI
+24	0.63	59.03	-	894	
+Distance	Split Time	Cumulative Time
+ 50m
+27.34	27.34
+ 100m
+31.69	59.03
+2	4	
+GBRGBR
+Adam PEATY
+Adam
+PEATY
+29	0.62	59.05	+00.02	893	
+Distance	Split Time	Cumulative Time
+ 50m
+27.08	27.08
+ 100m
+31.97	59.05
+2	6	
+USAUSA
+Nic FINK
+Nic
+FINK
+31	0.69	59.05	+00.02	893	
+Distance	Split Time	Cumulative Time
+ 50m
+27.45	27.45
+ 100m
+31.60	59.05
+4	8	
+GERGER
+Melvin IMOUDU
+Melvin
+IMOUDU
+25	0.69	59.11	+00.08	891	
+Distance	Split Time	Cumulative Time
+ 50m
+27.37	27.37
+ 100m
+31.74	59.11
+5	1	
+GERGER
+Lucas MATZERATH
+Lucas
+MATZERATH
+24	0.72	59.30	+00.27	882	
+Distance	Split Time	Cumulative Time
+ 50m
+27.56	27.56
+ 100m
+31.74	59.30
+6	3	
+NEDNED
+Arno KAMMINGA
+Arno
+KAMMINGA
+28	0.63	59.32	+00.29	881	
+Distance	Split Time	Cumulative Time
+ 50m
+27.94	27.94
+ 100m
+31.38	59.32
+7	5	
+CHNCHN
+Haiyang QIN
+Haiyang
+QIN
+25	0.63	59.50	+00.47	873	
+Distance	Split Time	Cumulative Time
+ 50m
+27.03	27.03
+ 100m
+32.47	59.50
+8	2	
+NEDNED
+Caspar CORBEAU
+Caspar
+CORBEAU
+23	0.68	59.98	+00.95	852	
+Distance	Split Time	Cumulative Time
+ 50m
+27.91	27.91
+ 100m
+32.07	59.98

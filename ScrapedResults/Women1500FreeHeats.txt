@@ -1,0 +1,18 @@
+Country Code,Full Name,First Name,Last Name,Age,Event
+AUS,Moesha JOHNSON,Moesha,JOHNSON,26,Women1500Free
+AUS,Lani PALLISTER,Lani,PALLISTER,22,Women1500Free
+BRA,Beatriz DIZOTTI,Beatriz,DIZOTTI,24,Women1500Free
+CHI,Kristel KOBRICH,Kristel,KOBRICH,38,Women1500Free
+CHN,Weizhong GAO,Weizhong,GAO,16,Women1500Free
+CHN,Bingjie LI,Bingjie,LI,22,Women1500Free
+FRA,Anastasiia KIRPICHNIKOVA,Anastasiia,KIRPICHNIKOVA,24,Women1500Free
+GER,Isabel GOSE,Isabel,GOSE,22,Women1500Free
+GER,Leonie MARTENS,Leonie,MARTENS,20,Women1500Free
+HUN,Vivien JACKL,Vivien,JACKL,15,Women1500Free
+ITA,Simona QUADARELLA,Simona,QUADARELLA,25,Women1500Free
+ITA,Ginevra TADDEUCCI,Ginevra,TADDEUCCI,27,Women1500Free
+MLT,Sasha GATT,Sasha,GATT,19,Women1500Free
+NZL,Eve THOMAS,Eve,THOMAS,23,Women1500Free
+SGP,Ching Hwee GAN,Ching Hwee,GAN,21,Women1500Free
+USA,Katie GRIMES,Katie,GRIMES,18,Women1500Free
+USA,Katie LEDECKY,Katie,LEDECKY,27,Women1500Free

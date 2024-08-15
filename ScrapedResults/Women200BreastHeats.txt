@@ -1,0 +1,24 @@
+Country Code,Full Name,First Name,Last Name,Age,Event
+ARG,Macarena CEBALLOS,Macarena,CEBALLOS,29,Women200Breast
+AUS,Ella RAMSAY,Ella,RAMSAY,20,Women200Breast
+AUS,Jenna STRAUCH,Jenna,STRAUCH,27,Women200Breast
+CAN,Sydney PICKREM,Sydney,PICKREM,27,Women200Breast
+CAN,Kelsey Lauren WOG,Kelsey Lauren,WOG,25,Women200Breast
+CHN,Shiwen YE,Shiwen,YE,28,Women200Breast
+CZE,Kristyna HORSKA,Kristyna,HORSKA,26,Women200Breast
+DEN,Thea BLOMSTERBERG,Thea,BLOMSTERBERG,22,Women200Breast
+ESP,Jessica VALL MONTERO,Jessica,VALL MONTERO,35,Women200Breast
+EST,Eneli JEFIMOVA,Eneli,JEFIMOVA,17,Women200Breast
+IRL,Mona MC SHARRY,Mona,MC SHARRY,23,Women200Breast
+ITA,Francesca FANGIO,Francesca,FANGIO,28,Women200Breast
+JPN,Satomi SUZUKI,Satomi,SUZUKI,33,Women200Breast
+LTU,Kotryna TETEREVKOVA,Kotryna,TETEREVKOVA,22,Women200Breast
+NED,Tes SCHOUTEN,Tes,SCHOUTEN,23,Women200Breast
+AIN,Alina ZMUSHKA,Alina,ZMUSHKA,27,Women200Breast
+RSA,Kaylene CORBETT,Kaylene,CORBETT,25,Women200Breast
+RSA,Tatjana SCHOENMAKER,Tatjana,SMITH,27,Women200Breast
+SGP,En Yi Letitia SIM,En Yi Letitia,SIM,21,Women200Breast
+SUI,Lisa MAMIE,Lisa,MAMIE,25,Women200Breast
+SWE,Sophie HANSSON,Sophie,HANSSON,25,Women200Breast
+USA,Kate DOUGLASS,Kate,DOUGLASS,22,Women200Breast
+USA,Lilly KING,Lilly,KING,27,Women200Breast

@@ -1,0 +1,176 @@
+1	7	
+ITAITA
+Thomas CECCON
+Thomas
+CECCON
+23	0.61	QUALIFIED52.58	-	945	
+Distance	Split Time	Cumulative Time
+ 50m
+25.46	25.46
+ 100m
+27.12	52.58
+2	3	
+FRAFRA
+Yohann NDOYE-BROUARD
+Yohann
+NDOYE-BROUARD
+23	0.55	QUALIFIED52.63	+00.05	942	
+Distance	Split Time	Cumulative Time
+ 50m
+25.65	25.65
+ 100m
+26.98	52.63
+2	4	
+RSARSA
+Pieter COETZE
+Pieter
+COETZE
+20	0.67	QUALIFIED52.63  +00.05	942	
+Distance	Split Time	Cumulative Time
+ 50m
+25.40	25.40
+ 100m
+27.23	52.63
+4	5	
+USAUSA
+Ryan MURPHY
+Ryan
+MURPHY
+29	0.52	QUALIFIED52.72	+00.14	937	
+Distance	Split Time	Cumulative Time
+ 50m
+25.49	25.49
+ 100m
+27.23	52.72
+5	1	
+ESPESP
+Hugo GONZALEZ
+Hugo
+GONZALEZ
+25	0.64	QUALIFIED52.95	+00.37	925	
+Distance	Split Time	Cumulative Time
+ 50m
+25.51	25.51
+ 100m
+27.44	52.95
+6	6	
+GREGRE
+Evangelos MAKRYGIANNIS
+Evangelos
+MAKRYGIANNIS
+24	0.56	QUALIFIED52.97	+00.39	924	
+Distance	Split Time	Cumulative Time
+ 50m
+25.48	25.48
+ 100m
+27.49	52.97
+7	2	
+CZECZE
+Miroslav KNEDLA
+Miroslav
+KNEDLA
+19	0.52	53.44	+00.86	900	
+Distance	Split Time	Cumulative Time
+ 50m
+25.37	25.37
+ 100m
+28.07	53.44
+8	8	
+GBRGBR
+Jonathon MARSHALL
+Jonathon
+MARSHALL
+19	0.60	53.46	+00.88	899	
+Distance	Split Time	Cumulative Time
+ 50m
+25.89	25.89
+ 100m
+27.57	53.46
+1	6	
+CHNCHN
+Jiayu XU
+Jiayu
+XU
+28	0.52	QUALIFIED52.02	-	975	
+Distance	Split Time	Cumulative Time
+ 50m
+24.89	24.89
+ 100m
+27.13	52.02
+2	5	
+GREGRE
+Apostolos CHRISTOU
+Apostolos
+CHRISTOU
+27	0.58	QUALIFIED52.77	+00.75	934	
+Distance	Split Time	Cumulative Time
+ 50m
+25.42	25.42
+ 100m
+27.35	52.77
+3	7	
+GBRGBR
+Oliver MORGAN
+Oliver
+MORGAN
+21	0.60	QUALIFIED52.85	+00.83	930	
+Distance	Split Time	Cumulative Time
+ 50m
+25.69	25.69
+ 100m
+27.16	52.85
+4	4	
+HUNHUN
+Hubert KOS
+Hubert
+KOS
+21	0.54	QUALIFIED52.98	+00.96	923	
+Distance	Split Time	Cumulative Time
+ 50m
+25.87	25.87
+ 100m
+27.11	52.98
+5	2	
+USAUSA
+Hunter ARMSTRONG
+Hunter
+ARMSTRONG
+23	0.66	53.11	+01.09	917	
+Distance	Split Time	Cumulative Time
+ 50m
+25.53	25.53
+ 100m
+27.58	53.11
+6	3	
+POLPOL
+Ksawery MASIUK
+Ksawery
+MASIUK
+19	0.61	53.44	+01.42	900	
+Distance	Split Time	Cumulative Time
+ 50m
+25.53	25.53
+ 100m
+27.91	53.44
+7	1	
+FRAFRA
+Mewen TOMAC
+Mewen
+TOMAC
+22	0.61	53.63	+01.61	890	
+Distance	Split Time	Cumulative Time
+ 50m
+25.81	25.81
+ 100m
+27.82	53.63
+8	8	
+CANCAN
+Blake TIERNEY
+Blake
+TIERNEY
+22	0.54	53.71	+01.69	886	
+Distance	Split Time	Cumulative Time
+ 50m
+26.06	26.06
+ 100m
+27.65	53.71

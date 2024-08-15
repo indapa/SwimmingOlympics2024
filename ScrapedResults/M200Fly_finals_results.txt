@@ -1,0 +1,120 @@
+1	5	
+FRAFRA
+Leon MARCHAND
+Leon
+MARCHAND
+22	0.67	1:51.21 -	976	
+Distance	Split Time	Cumulative Time
+ 50m
+24.96	24.96
+ 100m
+28.50	53.46
+ 150m
+28.78	01:22.24
+ 200m
+28.97	01:51.21
+2	4	
+HUNHUN
+Kristof MILAK
+Kristof
+MILAK
+24	0.67	1:51.75	+00.54	962	
+Distance	Split Time	Cumulative Time
+ 50m
+24.32	24.32
+ 100m
+28.54	52.86
+ 150m
+28.66	01:21.52
+ 200m
+30.23	01:51.75
+3	3	
+CANCAN
+Ilya KHARUN
+Ilya
+KHARUN
+19	0.67	1:52.80	+01.59	935	
+Distance	Split Time	Cumulative Time
+ 50m
+25.06	25.06
+ 100m
+28.61	53.67
+ 150m
+29.37	01:23.04
+ 200m
+29.76	01:52.80
+4	7	
+POLPOL
+Krzysztof CHMIELEWSKI
+Krzysztof
+CHMIELEWSKI
+20	0.61	1:53.90	+02.69	909	
+Distance	Split Time	Cumulative Time
+ 50m
+25.29	25.29
+ 100m
+29.11	54.40
+ 150m
+29.49	01:23.89
+ 200m
+30.01	01:53.90
+5	6	
+SUISUI
+Noe PONTI
+Noe
+PONTI
+23	0.63	1:54.14	+02.93	903	
+Distance	Split Time	Cumulative Time
+ 50m
+25.23	25.23
+ 100m
+29.03	54.26
+ 150m
+29.55	01:23.81
+ 200m
+30.33	01:54.14
+6	8	
+AUTAUT
+Martin ESPERNBERGER
+Martin
+ESPERNBERGER
+20	0.66	1:54.17	+02.96	902	
+Distance	Split Time	Cumulative Time
+ 50m
+25.79	25.79
+ 100m
+28.84	54.63
+ 150m
+29.91	01:24.54
+ 200m
+29.63	01:54.17
+7	2	
+ESTEST
+Kregor ZIRK
+Kregor
+ZIRK
+25	0.63	1:54.55	+03.34	893	
+Distance	Split Time	Cumulative Time
+ 50m
+25.39	25.39
+ 100m
+28.63	54.02
+ 150m
+29.74	01:23.76
+ 200m
+30.79	01:54.55
+8	1	
+ITAITA
+Alberto RAZZETTI
+Alberto
+RAZZETTI
+25	0.62	1:54.85	+03.64	886	
+Distance	Split Time	Cumulative Time
+ 50m
+25.23	25.23
+ 100m
+28.67	53.90
+ 150m
+29.69	01:23.59
+ 200m
+31.26	01:54.85

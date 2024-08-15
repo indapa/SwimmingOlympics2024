@@ -1,0 +1,88 @@
+1	7	
+SWESWE
+Sarah SJOESTROEM
+Sarah
+SJOESTROEM
+30	0.63	52.16	-	974	
+Distance	Split Time	Cumulative Time
+ 50m
+25.26	25.26
+ 100m
+26.90	52.16
+2	1	
+USAUSA
+Torri HUSKE
+Torri
+HUSKE
+21	0.63	52.29	+00.13	967	
+Distance	Split Time	Cumulative Time
+ 50m
+25.06	25.06
+ 100m
+27.23	52.29
+3	4	
+HKGHKG
+Siobhan Bernadette HAUGHEY
+Siobhan Bernadette
+HAUGHEY
+26	0.67	52.33	+00.17	964	
+Distance	Split Time	Cumulative Time
+ 50m
+25.09	25.09
+ 100m
+27.24	52.33
+4	3	
+AUSAUS
+Mollie O'CALLAGHAN
+Mollie
+O'CALLAGHAN
+20	0.69	52.34	+00.18	964	
+Distance	Split Time	Cumulative Time
+ 50m
+25.51	25.51
+ 100m
+26.83	52.34
+5	5	
+AUSAUS
+Shayna JACK
+Shayna
+JACK
+25	0.68	52.72	+00.56	943	
+Distance	Split Time	Cumulative Time
+ 50m
+25.29	25.29
+ 100m
+27.43	52.72
+6	6	
+CHNCHN
+Junxuan YANG
+Junxuan
+YANG
+22	0.69	52.82	+00.66	938	
+Distance	Split Time	Cumulative Time
+ 50m
+25.51	25.51
+ 100m
+27.31	52.82
+7	2	
+NEDNED
+Marrit STEENBERGEN
+Marrit
+STEENBERGEN
+24	0.74	52.83	+00.67	937	
+Distance	Split Time	Cumulative Time
+ 50m
+25.38	25.38
+ 100m
+27.45	52.83
+8	8	
+USAUSA
+Gretchen WALSH
+Gretchen
+WALSH
+21	0.74	53.04	+00.88	926	
+Distance	Split Time	Cumulative Time
+ 50m
+25.22	25.22
+ 100m
+27.82	53.04

@@ -1,0 +1,407 @@
+1	4	
+MASMAS
+Rouxin TAN
+Rouxin
+TAN
+18	0.67	1:12.50	-	692	
+Distance	Split Time	Cumulative Time
+ 50m
+33.70	33.70
+ 100m
+38.80	01:12.50
+2	5	
+MARMAR
+Imane Houda EL BARODI
+Imane Houda
+EL BARODI
+23	0.61	1:14.57	+02.07	636	
+Distance	Split Time	Cumulative Time
+ 50m
+33.70	33.70
+ 100m
+40.87	01:14.57
+3	3	
+ANTANT
+Ellie SHAW
+Ellie
+SHAW
+15	0.74	1:14.78	+02.28	630	
+Distance	Split Time	Cumulative Time
+ 50m
+34.34	34.34
+ 100m
+40.44	01:14.78
+4	6	
+GAMGAM
+Aminata Nia-Maria BARROW
+Aminata Nia-Maria
+BARROW
+20	0.75	1:15.12	+02.62	622	
+Distance	Split Time	Cumulative Time
+ 50m
+34.58	34.58
+ 100m
+40.54	01:15.12
+5	2	
+KUWKUW
+Lara DASHTI
+Lara
+DASHTI
+20	0.76	1:15.67	+03.17	608	
+Distance	Split Time	Cumulative Time
+ 50m
+34.64	34.64
+ 100m
+41.03	01:15.67
+1	4	
+AUSAUS
+Jenna STRAUCH
+Jenna
+STRAUCH
+27	0.72	1:07.27	-	866	
+Distance	Split Time	Cumulative Time
+ 50m
+31.58	31.58
+ 100m
+35.69	01:07.27
+2	3	
+FINFIN
+Ida HULKKO
+Ida
+HULKKO
+25	0.68	1:08.73	+01.46	812	
+Distance	Split Time	Cumulative Time
+ 50m
+31.77	31.77
+ 100m
+36.96	01:08.73
+3	5	
+ESPESP
+Jessica VALL MONTERO
+Jessica
+VALL MONTERO
+35	0.66	1:08.78	+01.51	810	
+Distance	Split Time	Cumulative Time
+ 50m
+32.34	32.34
+ 100m
+36.44	01:08.78
+4	6	
+CZECZE
+Kristyna HORSKA
+Kristyna
+HORSKA
+26	0.72	1:08.96	+01.69	804	
+Distance	Split Time	Cumulative Time
+ 50m
+32.60	32.60
+ 100m
+36.36	01:08.96
+5	2	
+COLCOL
+Stefania GOMEZ HURTADO
+Stefania
+GOMEZ HURTADO
+20	0.67	1:09.16	+01.89	797	
+Distance	Split Time	Cumulative Time
+ 50m
+31.99	31.99
+ 100m
+37.17	01:09.16
+6	7	
+PANPAN
+Emily EMILY SANTOS
+Emily
+EMILY SANTOS
+19	0.68	1:09.94	+02.67	770	
+Distance	Split Time	Cumulative Time
+ 50m
+32.62	32.62
+ 100m
+37.32	01:09.94
+7	1	
+LBNLBN
+Lynn EL HAJJ
+Lynn
+EL HAJJ
+17	0.70	1:10.27	+03.00	760	
+Distance	Split Time	Cumulative Time
+ 50m
+32.79	32.79
+ 100m
+37.48	01:10.27
+8	8	
+COKCOK
+Lanihei CONNOLLY
+Lanihei
+CONNOLLY
+18	0.75	1:10.45	+03.18	754	
+Distance	Split Time	Cumulative Time
+ 50m
+32.66	32.66
+ 100m
+37.79	01:10.45
+1	4	
+USAUSA
+Lilly KING
+Lilly
+KING
+27	0.65	QUALIFIED1:06.10	-	913	
+Distance	Split Time	Cumulative Time
+ 50m
+30.77	30.77
+ 100m
+35.33	01:06.10
+2	2	
+ISRISR
+Anastasia GORBENKO
+Anastasia
+GORBENKO
+20	0.68	QUALIFIED1:06.22	+00.12	908	
+Distance	Split Time	Cumulative Time
+ 50m
+30.92	30.92
+ 100m
+35.30	01:06.22
+3	6	
+ITAITA
+Lisa ANGIOLINI
+Lisa
+ANGIOLINI
+29	0.73	QUALIFIED1:06.27	+00.17	906	
+Distance	Split Time	Cumulative Time
+ 50m
+31.05	31.05
+ 100m
+35.22	01:06.27
+4	5	
+GBRGBR
+Angharad EVANS
+Angharad
+EVANS
+21	0.67	QUALIFIED1:06.38	+00.28	901	
+Distance	Split Time	Cumulative Time
+ 50m
+31.14	31.14
+ 100m
+35.24	01:06.38
+5	3	
+JPNJPN
+Reona AOKI
+Reona
+AOKI
+29	0.68	1:06.98	+00.88	877	
+Distance	Split Time	Cumulative Time
+ 50m
+31.09	31.09
+ 100m
+35.89	01:06.98
+6	1	
+GERGER
+Anna ELENDT
+Anna
+ELENDT
+22	0.68	1:07.00	+00.90	876	
+Distance	Split Time	Cumulative Time
+ 50m
+30.71	30.71
+ 100m
+36.29	01:07.00
+7	8	
+SUISUI
+Lisa MAMIE
+Lisa
+MAMIE
+25	0.69	1:07.65	+01.55	851	
+Distance	Split Time	Cumulative Time
+ 50m
+31.58	31.58
+ 100m
+36.07	01:07.65
+8	7	
+SGPSGP
+En Yi Letitia SIM
+En Yi Letitia
+SIM
+21	0.65	1:07.75	+01.65	848	
+Distance	Split Time	Cumulative Time
+ 50m
+31.72	31.72
+ 100m
+36.03	01:07.75
+1	5	
+RSARSA
+Tatjana SCHOENMAKER
+Tatjana
+SMITH
+27	0.65	QUALIFIED1:05.00	-	960	
+Distance	Split Time	Cumulative Time
+ 50m
+30.57	30.57
+ 100m
+34.43	01:05.00
+2	6	
+JPNJPN
+Satomi SUZUKI
+Satomi
+SUZUKI
+33	0.63	QUALIFIED1:06.04	+01.04	915	
+Distance	Split Time	Cumulative Time
+ 50m
+30.73	30.73
+ 100m
+35.31	01:06.04
+3	4	
+LTULTU
+Ruta MEILUTYTE
+Ruta
+MEILUTYTE
+27	0.59	QUALIFIED1:06.34	+01.34	903	
+Distance	Split Time	Cumulative Time
+ 50m
+30.18	30.18
+ 100m
+36.16	01:06.34
+4	1	
+AINAIN
+Alina ZMUSHKA
+Alina
+ZMUSHKA
+27	0.69	QUALIFIED1:06.37	+01.37	902	
+Distance	Split Time	Cumulative Time
+ 50m
+31.61	31.61
+ 100m
+34.76	01:06.37
+5	3	
+NEDNED
+Tes SCHOUTEN
+Tes
+SCHOUTEN
+23	0.67	QUALIFIED1:06.69	+01.69	889	
+Distance	Split Time	Cumulative Time
+ 50m
+31.54	31.54
+ 100m
+35.15	01:06.69
+6	8	
+ARGARG
+Macarena CEBALLOS
+Macarena
+CEBALLOS
+29	0.67	QUALIFIED1:06.89	+01.89	881	
+Distance	Split Time	Cumulative Time
+ 50m
+31.44	31.44
+ 100m
+35.45	01:06.89
+7	7	
+CHNCHN
+Chang YANG
+Chang
+YANG
+22	0.65	QUALIFIED1:06.91	+01.91	880	
+Distance	Split Time	Cumulative Time
+ 50m
+31.63	31.63
+ 100m
+35.28	01:06.91
+8	2	
+USAUSA
+Emma WEBER
+Emma
+WEBER
+20	0.73	1:07.65	+02.65	851	
+Distance	Split Time	Cumulative Time
+ 50m
+31.60	31.60
+ 100m
+36.05	01:07.65
+1	4	
+CHNCHN
+Qianting TANG
+Qianting
+TANG
+20	0.71	QUALIFIED1:05.63	-	932	
+Distance	Split Time	Cumulative Time
+ 50m
+30.45	30.45
+ 100m
+35.18	01:05.63
+2	3	
+IRLIRL
+Mona MC SHARRY
+Mona
+MC SHARRY
+23	0.68	QUALIFIED1:05.74	+00.11	928	
+Distance	Split Time	Cumulative Time
+ 50m
+30.82	30.82
+ 100m
+34.92	01:05.74
+3	5	
+ITAITA
+Benedetta PILATO
+Benedetta
+PILATO
+19	0.65	QUALIFIED1:06.19	+00.56	909	
+Distance	Split Time	Cumulative Time
+ 50m
+30.61	30.61
+ 100m
+35.58	01:06.19
+4	7	
+ESTEST
+Eneli JEFIMOVA
+Eneli
+JEFIMOVA
+17	0.65	QUALIFIED1:06.24	+00.61	907	
+Distance	Split Time	Cumulative Time
+ 50m
+31.05	31.05
+ 100m
+35.19	01:06.24
+5	6	
+SWESWE
+Sophie HANSSON
+Sophie
+HANSSON
+25	0.70	QUALIFIED1:06.66	+01.03	890	
+Distance	Split Time	Cumulative Time
+ 50m
+31.07	31.07
+ 100m
+35.59	01:06.66
+6	2	
+LTULTU
+Kotryna TETEREVKOVA
+Kotryna
+TETEREVKOVA
+22	0.68	QUALIFIED1:06.76	+01.13	886	
+Distance	Split Time	Cumulative Time
+ 50m
+31.20	31.20
+ 100m
+35.56	01:06.76
+7	8	
+CANCAN
+Sophie ANGUS
+Sophie
+ANGUS
+25	0.70	QUALIFIED1:06.93	+01.30	879	
+Distance	Split Time	Cumulative Time
+ 50m
+31.66	31.66
+ 100m
+35.27	01:06.93
+8	1	
+POLPOL
+Dominika SZTANDERA
+Dominika
+SZTANDERA
+27	0.65	1:07.22	+01.59	868	
+Distance	Split Time	Cumulative Time
+ 50m
+30.98	30.98
+ 100m
+36.24	01:07.22

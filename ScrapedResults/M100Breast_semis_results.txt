@@ -1,0 +1,176 @@
+1	2	
+CHNCHN
+Haiyang QIN
+Haiyang
+QIN
+25	0.64	QUALIFIED58.93	-	899	
+Distance	Split Time	Cumulative Time
+ 50m
+27.12	27.12
+ 100m
+31.81	58.93
+2	3	
+NEDNED
+Arno KAMMINGA
+Arno
+KAMMINGA
+28	0.68	QUALIFIED59.12	+00.19	890	
+Distance	Split Time	Cumulative Time
+ 50m
+27.64	27.64
+ 100m
+31.48	59.12
+3	4	
+NEDNED
+Caspar CORBEAU
+Caspar
+CORBEAU
+23	0.67	QUALIFIED59.24	+00.31	885	
+Distance	Split Time	Cumulative Time
+ 50m
+27.70	27.70
+ 100m
+31.54	59.24
+4	6	
+GERGER
+Melvin IMOUDU
+Melvin
+IMOUDU
+25	0.68	QUALIFIED59.38	+00.45	878	
+Distance	Split Time	Cumulative Time
+ 50m
+27.67	27.67
+ 100m
+31.71	59.38
+4	8	
+ITAITA
+Ludovico Blu Art VIBERTI
+Ludovico Blu Art
+VIBERTI
+22	0.66	QUALIFIED59.38	+00.45	878	
+Distance	Split Time	Cumulative Time
+ 50m
+28.18	28.18
+ 100m
+31.20	59.38
+6	5	
+AINAIN
+Ilya SHYMANOVICH
+Ilya
+SHYMANOVICH
+29	0.63	QUALIFIED59.45	+00.52	875	
+Distance	Split Time	Cumulative Time
+ 50m
+27.16	27.16
+ 100m
+32.29	59.45
+7	1	
+AINAIN
+Evgenii SOMOV
+Evgenii
+SOMOV
+25	0.77	1:00.00	+01.07	851	
+Distance	Split Time	Cumulative Time
+ 50m
+27.66	27.66
+ 100m
+32.34	01:00.00
+8	7	
+AUTAUT
+Bernhard REITSHAMMER
+Bernhard
+REITSHAMMER
+30	0.68	1:00.18	+01.25	844	
+Distance	Split Time	Cumulative Time
+ 50m
+27.79	27.79
+ 100m
+32.39	01:00.18
+1	4	
+GBRGBR
+Adam PEATY
+Adam
+PEATY
+29	0.63	QUALIFIED58.86	-	902	
+Distance	Split Time	Cumulative Time
+ 50m
+26.90	26.90
+ 100m
+31.96	58.86
+2	2	
+USAUSA
+Nic FINK
+Nic
+FINK
+31	0.68	QUALIFIED59.16	+00.30	888	
+Distance	Split Time	Cumulative Time
+ 50m
+27.44	27.44
+ 100m
+31.72	59.16
+3	5	
+ITAITA
+Nicolo MARTINENGHI
+Nicolo
+MARTINENGHI
+24	0.65	QUALIFIED59.28	+00.42	883	
+Distance	Split Time	Cumulative Time
+ 50m
+27.43	27.43
+ 100m
+31.85	59.28
+4	6	
+GERGER
+Lucas MATZERATH
+Lucas
+MATZERATH
+24	0.70	QUALIFIED59.31	+00.45	882	
+Distance	Split Time	Cumulative Time
+ 50m
+27.72	27.72
+ 100m
+31.59	59.31
+5	3	
+GBRGBR
+James WILBY
+James
+WILBY
+30	0.69	59.49	+00.63	874	
+Distance	Split Time	Cumulative Time
+ 50m
+27.91	27.91
+ 100m
+31.58	59.49
+6	7	
+AUSAUS
+Joshua YONG
+Joshua
+YONG
+23	0.65	59.64	+00.78	867	
+Distance	Split Time	Cumulative Time
+ 50m
+28.37	28.37
+ 100m
+31.27	59.64
+7	1	
+USAUSA
+Charlie SWANSON
+Charlie
+SWANSON
+26	0.68	1:00.16	+01.30	845	
+Distance	Split Time	Cumulative Time
+ 50m
+28.14	28.14
+ 100m
+32.02	01:00.16
+8	8	
+ISRISR
+Ron POLONSKY
+Ron
+POLONSKY
+23	0.72	1:00.37	+01.51	836	
+Distance	Split Time	Cumulative Time
+ 50m
+28.23	28.23
+ 100m
+32.14	01:00.37

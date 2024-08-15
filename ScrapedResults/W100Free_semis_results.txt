@@ -1,0 +1,176 @@
+1	4	
+HKGHKG
+Siobhan Bernadette HAUGHEY
+Siobhan Bernadette
+HAUGHEY
+26	0.68	Qualified52.64	-	947	
+Distance	Split Time	Cumulative Time
+ 50m
+25.50	25.50
+ 100m
+27.14	52.64
+2	3	
+AUSAUS
+Shayna JACK
+Shayna
+JACK
+25	0.69	Qualified52.72	+00.08	943	
+Distance	Split Time	Cumulative Time
+ 50m
+25.18	25.18
+ 100m
+27.54	52.72
+3	5	
+NEDNED
+Marrit STEENBERGEN
+Marrit
+STEENBERGEN
+24	0.75	Qualified52.86	+00.22	936	
+Distance	Split Time	Cumulative Time
+ 50m
+25.72	25.72
+ 100m
+27.14	52.86
+4	6	
+USAUSA
+Gretchen WALSH
+Gretchen
+WALSH
+21	0.72	Qualified53.18	+00.54	919	
+Distance	Split Time	Cumulative Time
+ 50m
+25.05	25.05
+ 100m
+28.13	53.18
+5	7	
+FRAFRA
+Marie WATTEL
+Marie
+WATTEL
+27	0.70	53.38	+00.74	909	
+Distance	Split Time	Cumulative Time
+ 50m
+25.68	25.68
+ 100m
+27.70	53.38
+6	2	
+GBRGBR
+Anna HOPKIN
+Anna
+HOPKIN
+28	0.68	53.74	+01.10	890	
+Distance	Split Time	Cumulative Time
+ 50m
+25.22	25.22
+ 100m
+28.52	53.74
+7	1	
+SWESWE
+Michelle COLEMAN
+Michelle
+COLEMAN
+30	0.68	53.75	+01.11	890	
+Distance	Split Time	Cumulative Time
+ 50m
+25.67	25.67
+ 100m
+28.08	53.75
+8	8	
+CZECZE
+Barbora SEEMANOVA
+Barbora
+SEEMANOVA
+24	0.63	53.94	+01.30	881	
+Distance	Split Time	Cumulative Time
+ 50m
+25.85	25.85
+ 100m
+28.09	53.94
+1	3	
+AUSAUS
+Mollie O'CALLAGHAN
+Mollie
+O'CALLAGHAN
+20	0.69	Qualified52.75	-	942	
+Distance	Split Time	Cumulative Time
+ 50m
+25.89	25.89
+ 100m
+26.86	52.75
+2	5	
+CHNCHN
+Junxuan YANG
+Junxuan
+YANG
+22	0.68	Qualified52.81	+00.06	938	
+Distance	Split Time	Cumulative Time
+ 50m
+25.40	25.40
+ 100m
+27.41	52.81
+3	4	
+SWESWE
+Sarah SJOESTROEM
+Sarah
+SJOESTROEM
+30	0.63	Qualified52.87	+00.12	935	
+Distance	Split Time	Cumulative Time
+ 50m
+25.31	25.31
+ 100m
+27.56	52.87
+4	6	
+USAUSA
+Torri HUSKE
+Torri
+HUSKE
+21	0.62	Qualified52.99	+00.24	929	
+Distance	Split Time	Cumulative Time
+ 50m
+25.24	25.24
+ 100m
+27.75	52.99
+5	1	
+CHNCHN
+Qingfeng WU
+Qingfeng
+WU
+21	0.68	53.34	+00.59	911	
+Distance	Split Time	Cumulative Time
+ 50m
+25.22	25.22
+ 100m
+28.12	53.34
+6	8	
+SLOSLO
+Neza KLANCAR
+Neza
+KLANCAR
+24	0.68	53.96	+01.21	880	
+Distance	Split Time	Cumulative Time
+ 50m
+25.88	25.88
+ 100m
+28.08	53.96
+7	7	
+PHIPHI
+Kayla SANCHEZ
+Kayla
+SANCHEZ
+23	0.68	54.21	+01.46	867	
+Distance	Split Time	Cumulative Time
+ 50m
+26.07	26.07
+ 100m
+28.14	54.21
+8	2	
+FRAFRA
+Beryl GASTALDELLO
+Beryl
+GASTALDELLO
+29	0.65	54.29	+01.54	864	
+Distance	Split Time	Cumulative Time
+ 50m
+26.28	26.28
+ 100m
+28.01	54.29

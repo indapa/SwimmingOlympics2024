@@ -1,0 +1,176 @@
+1	5	
+USAUSA
+Gretchen WALSH
+Gretchen
+WALSH
+21	0.76	QUALIFIED55.38  -	1005	
+Distance	Split Time	Cumulative Time
+ 50m
+25.29	25.29
+ 100m
+30.09	55.38
+2	3	
+GERGER
+Angelina KOHLER
+Angelina
+KOHLER
+23	0.74	QUALIFIED56.55	+01.17	944	
+Distance	Split Time	Cumulative Time
+ 50m
+26.38	26.38
+ 100m
+30.17	56.55
+3	4	
+JPNJPN
+Mizuki HIRAI
+Mizuki
+HIRAI
+17	0.59	QUALIFIED56.80	+01.42	931	
+Distance	Split Time	Cumulative Time
+ 50m
+26.12	26.12
+ 100m
+30.68	56.80
+4	7	
+SWESWE
+Louise HANSSON
+Louise
+HANSSON
+27	0.72	QUALIFIED56.93	+01.55	925	
+Distance	Split Time	Cumulative Time
+ 50m
+26.51	26.51
+ 100m
+30.42	56.93
+5	2	
+FRAFRA
+Marie WATTEL
+Marie
+WATTEL
+27	0.70	QUALIFIED57.24	+01.86	910	
+Distance	Split Time	Cumulative Time
+ 50m
+26.58	26.58
+ 100m
+30.66	57.24
+6	1	
+JPNJPN
+Rikako IKEE
+Rikako
+IKEE
+24	0.67	57.79	+02.41	884	
+Distance	Split Time	Cumulative Time
+ 50m
+26.36	26.36
+ 100m
+31.43	57.79
+7	6	
+AUSAUS
+Alexandria PERKINS
+Alexandria
+PERKINS
+24	0.69	57.84	+02.46	882	
+Distance	Split Time	Cumulative Time
+ 50m
+26.50	26.50
+ 100m
+31.34	57.84
+8	8	
+GBRGBR
+Keanna Louise MACINNES
+Keanna Louise
+MACINNES
+22	0.66	58.11	+02.73	870	
+Distance	Split Time	Cumulative Time
+ 50m
+27.18	27.18
+ 100m
+30.93	58.11
+1	5	
+USAUSA
+Torri HUSKE
+Torri
+HUSKE
+21	0.61	QUALIFIED56.00	-	972	
+Distance	Split Time	Cumulative Time
+ 50m
+25.69	25.69
+ 100m
+30.31	56.00
+2	4	
+CHNCHN
+Yufei ZHANG
+Yufei
+ZHANG
+26	0.63	QUALIFIED56.15	+00.15	964	
+Distance	Split Time	Cumulative Time
+ 50m
+25.81	25.81
+ 100m
+30.34	56.15
+3	6	
+CANCAN
+Margaret MACNEIL
+Margaret
+MACNEIL
+24	0.67	QUALIFIED56.55	+00.55	944	
+Distance	Split Time	Cumulative Time
+ 50m
+26.34	26.34
+ 100m
+30.21	56.55
+4	3	
+AUSAUS
+Emma MCKEON
+Emma
+MCKEON
+30	0.71	QUALIFIED56.74	+00.74	934	
+Distance	Split Time	Cumulative Time
+ 50m
+26.18	26.18
+ 100m
+30.56	56.74
+5	7	
+BELBEL
+Roos VANOTTERDIJK
+Roos
+VANOTTERDIJK
+19	0.66	QUALIFIED57.25	+01.25	910	
+Distance	Split Time	Cumulative Time
+ 50m
+26.48	26.48
+ 100m
+30.77	57.25
+6	2	
+CZECZE
+Barbora SEEMANOVA
+Barbora
+SEEMANOVA
+24	0.62	57.64	+01.64	891	
+Distance	Split Time	Cumulative Time
+ 50m
+26.35	26.35
+ 100m
+31.29	57.64
+7	1	
+RSARSA
+Erin GALLAGHER
+Erin
+GALLAGHER
+25	0.70	57.90	+01.90	879	
+Distance	Split Time	Cumulative Time
+ 50m
+26.62	26.62
+ 100m
+31.28	57.90
+8	8	
+NEDNED
+Tessa GIELE
+Tessa
+GIELE
+21	0.61	57.91	+01.91	879	
+Distance	Split Time	Cumulative Time
+ 50m
+26.43	26.43
+ 100m
+31.48	57.91

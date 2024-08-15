@@ -1,0 +1,88 @@
+1	5	
+AUSAUS
+Kaylee MCKEOWN
+Kaylee
+MCKEOWN
+23	0.55	57.33   -	1000	
+Distance	Split Time	Cumulative Time
+ 50m
+28.08	28.08
+ 100m
+29.25	57.33
+2	4	
+USAUSA
+Regan SMITH
+Regan
+SMITH
+22	0.53	57.66	+00.33	982	
+Distance	Split Time	Cumulative Time
+ 50m
+28.02	28.02
+ 100m
+29.64	57.66
+3	3	
+USAUSA
+Katharine BERKOFF
+Katharine
+BERKOFF
+23	0.63	57.98	+00.65	966	
+Distance	Split Time	Cumulative Time
+ 50m
+28.05	28.05
+ 100m
+29.93	57.98
+4	2	
+CANCAN
+Kylie MASSE
+Kylie
+MASSE
+28	0.55	58.29	+00.96	951	
+Distance	Split Time	Cumulative Time
+ 50m
+28.02	28.02
+ 100m
+30.27	58.29
+5	6	
+AUSAUS
+Iona ANDERSON
+Iona
+ANDERSON
+18	0.62	58.98	+01.65	918	
+Distance	Split Time	Cumulative Time
+ 50m
+28.47	28.47
+ 100m
+30.51	58.98
+6	7	
+CANCAN
+Ingrid WILM
+Ingrid
+WILM
+26	0.59	59.25	+01.92	905	
+Distance	Split Time	Cumulative Time
+ 50m
+28.69	28.69
+ 100m
+30.56	59.25
+7	8	
+FRAFRA
+Emma TEREBO
+Emma
+TEREBO
+26	0.61	59.40	+02.07	899	
+Distance	Split Time	Cumulative Time
+ 50m
+28.79	28.79
+ 100m
+30.61	59.40
+8	1	
+FRAFRA
+Beryl GASTALDELLO
+Beryl
+GASTALDELLO
+29	0.61	59.80	+02.47	881	
+Distance	Split Time	Cumulative Time
+ 50m
+28.80	28.80
+ 100m
+31.00	59.80

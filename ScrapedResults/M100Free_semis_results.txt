@@ -1,0 +1,176 @@
+1	3	
+AUSAUS
+Kyle CHALMERS
+Kyle
+CHALMERS
+26	0.65	Qualified47.58	-	955	
+Distance	Split Time	Cumulative Time
+ 50m
+22.91	22.91
+ 100m
+24.67	47.58
+2	5	
+HUNHUN
+Nandor NEMETH
+Nandor
+NEMETH
+24	0.63	Qualified47.61	+00.03	953	
+Distance	Split Time	Cumulative Time
+ 50m
+22.71	22.71
+ 100m
+24.90	47.61
+3	4	
+FRAFRA
+Maxime GROUSSET
+Maxime
+GROUSSET
+25	0.60	Qualified47.63	+00.05	952	
+Distance	Split Time	Cumulative Time
+ 50m
+22.57	22.57
+ 100m
+25.06	47.63
+4	6	
+USAUSA
+Chris GUILIANO
+Chris
+GUILIANO
+21	0.60	Qualified47.72	+00.14	946	
+Distance	Split Time	Cumulative Time
+ 50m
+22.97	22.97
+ 100m
+24.75	47.72
+5	7	
+BRABRA
+Guilherme SANTOS
+Guilherme
+SANTOS
+21	0.61	48.03	+00.45	928	
+Distance	Split Time	Cumulative Time
+ 50m
+22.94	22.94
+ 100m
+25.09	48.03
+6	1	
+GBRGBR
+Matthew RICHARDS
+Matthew
+RICHARDS
+21	0.60	48.09	+00.51	925	
+Distance	Split Time	Cumulative Time
+ 50m
+22.87	22.87
+ 100m
+25.22	48.09
+7	2	
+SRBSRB
+Andrej BARNA
+Andrej
+BARNA
+26	0.62	48.11	+00.53	924	
+Distance	Split Time	Cumulative Time
+ 50m
+23.01	23.01
+ 100m
+25.10	48.11
+8	8	
+AUSAUS
+William YANG
+William
+YANG
+25	0.68	48.42	+00.84	906	
+Distance	Split Time	Cumulative Time
+ 50m
+23.26	23.26
+ 100m
+25.16	48.42
+1	8	
+CHNCHN
+Zhanle PAN
+Zhanle
+PAN
+19	0.61	Qualified47.21	-	977	
+Distance	Split Time	Cumulative Time
+ 50m
+22.69	22.69
+ 100m
+24.52	47.21
+2	5	
+ROUROU
+David POPOVICI
+David
+POPOVICI
+19	0.62	Qualified47.66	+00.45	950	
+Distance	Split Time	Cumulative Time
+ 50m
+23.02	23.02
+ 100m
+24.64	47.66
+3	4	
+USAUSA
+Jack ALEXY
+Jack
+ALEXY
+21	0.72	Qualified47.68	+00.47	949	
+Distance	Split Time	Cumulative Time
+ 50m
+22.58	22.58
+ 100m
+25.10	47.68
+4	2	
+GERGER
+Josha SALCHOW
+Josha
+SALCHOW
+25	0.71	Qualified47.94	+00.73	933	
+Distance	Split Time	Cumulative Time
+ 50m
+22.99	22.99
+ 100m
+24.95	47.94
+5	6	
+ITAITA
+Alessandro MIRESSI
+Alessandro
+MIRESSI
+25	0.70	47.95	+00.74	933	
+Distance	Split Time	Cumulative Time
+ 50m
+22.85	22.85
+ 100m
+25.10	47.95
+6	7	
+CANCAN
+Josh LIENDO
+Josh
+LIENDO
+21	0.62	48.06	+00.85	926	
+Distance	Split Time	Cumulative Time
+ 50m
+22.91	22.91
+ 100m
+25.15	48.06
+7	3	
+CAYCAY
+Jordan CROOKS
+Jordan
+CROOKS
+22	0.63	48.10	+00.89	924	
+Distance	Split Time	Cumulative Time
+ 50m
+23.06	23.06
+ 100m
+25.04	48.10
+8	1	
+SRBSRB
+Velimir STJEPANOVIC
+Velimir
+STJEPANOVIC
+30	0.63	48.78	+01.57	886	
+Distance	Split Time	Cumulative Time
+ 50m
+23.52	23.52
+ 100m
+25.26	48.78

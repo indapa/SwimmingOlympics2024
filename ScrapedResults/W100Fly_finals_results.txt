@@ -1,0 +1,88 @@
+1	5	
+USAUSA
+Torri HUSKE
+Torri
+HUSKE
+21	0.63	55.59	-	994	
+Distance	Split Time	Cumulative Time
+ 50m
+25.61	25.61
+ 100m
+29.98	55.59
+2	4	
+USAUSA
+Gretchen WALSH
+Gretchen
+WALSH
+21	0.75	55.63	+00.04	991	
+Distance	Split Time	Cumulative Time
+ 50m
+25.40	25.40
+ 100m
+30.23	55.63
+3	3	
+CHNCHN
+Yufei ZHANG
+Yufei
+ZHANG
+26	0.66	56.21	+00.62	961	
+Distance	Split Time	Cumulative Time
+ 50m
+25.42	25.42
+ 100m
+30.79	56.21
+4	6	
+GERGER
+Angelina KOHLER
+Angelina
+KOEHLER
+23	0.72	56.42	+00.83	950	
+Distance	Split Time	Cumulative Time
+ 50m
+26.35	26.35
+ 100m
+30.07	56.42
+5	2	
+CANCAN
+Margaret MACNEIL
+Margaret
+MAC NEIL
+24	0.68	56.44	+00.85	949	
+Distance	Split Time	Cumulative Time
+ 50m
+25.94	25.94
+ 100m
+30.50	56.44
+6	7	
+AUSAUS
+Emma MCKEON
+Emma
+MCKEON
+30	0.71	56.93	+01.34	925	
+Distance	Split Time	Cumulative Time
+ 50m
+26.40	26.40
+ 100m
+30.53	56.93
+7	1	
+JPNJPN
+Mizuki HIRAI
+Mizuki
+HIRAI
+17	0.59	57.19	+01.60	912	
+Distance	Split Time	Cumulative Time
+ 50m
+26.66	26.66
+ 100m
+30.53	57.19
+8	8	
+SWESWE
+Louise HANSSON
+Louise
+HANSSON
+27	0.71	57.34	+01.75	905	
+Distance	Split Time	Cumulative Time
+ 50m
+26.61	26.61
+ 100m
+30.73	57.34

@@ -1,0 +1,79 @@
+Country Code,Full Name,First Name,Last Name,Age,Event
+ARU,Chloe FARRO,Chloe,FARRO,21,Women50Free
+AUS,Meg HARRIS,Meg,HARRIS,22,Women50Free
+AUS,Shayna JACK,Shayna,JACK,25,Women50Free
+AZE,Mariam SHEIKHALIZADEHKHANGHAH,Mariam,SHEIKHALIZADEHKHANGHAH,20,Women50Free
+BAH,Rhanishka GIBBS,Rhanishka,GIBBS,18,Women50Free
+BAN,Mst Sonia KHATUN,Mst Sonia,KHATUN,24,Women50Free
+BDI,Lois Eliora IRISHURA,Lois Eliora,IRISHURA,14,Women50Free
+BEL,Florine GASPARD,Florine,GASPARD,22,Women50Free
+BEN,Ionnah Eliane DOUILLET,Ionnah Eliane,DOUILLET,16,Women50Free
+BOL,Maria Jose RIBERA,Maria Jose,RIBERA,27,Women50Free
+BRU,Hayley WONG,Hayley,WONG,16,Women50Free
+BUR,Iman KOURAOGO,Iman,KOURAOGO,18,Women50Free
+CAF,Tracy Marine ANDET,Tracy Marine,ANDET,18,Women50Free
+CAM,Sakbun APSARA KATARINA,Sakbun,APSARA KATARINA,23,Women50Free
+CAN,Taylor RUCK,Taylor,RUCK,24,Women50Free
+CGO,Vanessa BOBIMBO,Vanessa,BOBIMBO,24,Women50Free
+CHN,Qingfeng WU,Qingfeng,WU,21,Women50Free
+CHN,Yufei ZHANG,Yufei,ZHANG,26,Women50Free
+CMR,Grace Manuela NGUELO'O,Grace Manuela,NGUELO'O,18,Women50Free
+COD,Divine MIANSADI MPOLO,Divine,MIANSADI MPOLO,19,Women50Free
+COM,Maesha SAADI,Maesha,SAADI,17,Women50Free
+CRO,Jana PAVALIC,Jana,PAVALIC,17,Women50Free
+DEN,Julie Kepp JENSEN,Julie Kepp,JENSEN,24,Women50Free
+DJI,Nina AMISON,Nina,AMISON,20,Women50Free
+DMA,Jasmine SCHOFIELD,Jasmine,SCHOFIELD,18,Women50Free
+ECU,Anicka DELGADO,Anicka,DELGADO,22,Women50Free
+ERI,Christina RACH,Christina,RACH,16,Women50Free
+ETH,Lina Alemayehu SELO,Lina Alemayehu,SELO,23,Women50Free
+FIJ,Anahira MCCUTCHEON,Anahira,MCCUTCHEON,14,Women50Free
+FRA,Beryl GASTALDELLO,Beryl,GASTALDELLO,29,Women50Free
+FRA,Melanie HENIQUE,Melanie,HENIQUE,31,Women50Free
+FSM,Kestra KIHLENG,Kestra,KIHLENG,20,Women50Free
+GAB,Noelie Annette LACOUR,Noelie Annette,LACOUR,17,Women50Free
+GBR,Anna HOPKIN,Anna,HOPKIN,28,Women50Free
+GHA,Joselle MENSAH,Joselle,MENSAH,20,Women50Free
+GRE,Theodora DRAKOU,Theodora,DRAKOU,32,Women50Free
+GUI,Djenabou Jolie BAH,Djenabou Jolie,BAH,14,Women50Free
+HAI,Mayah CHOULOUTE,Mayah,CHOULOUTE,14,Women50Free
+HUN,Petra SENANSZKY,Petra,SENANSZKY,30,Women50Free
+IRL,Danielle HILL,Danielle,HILL,24,Women50Free
+ITA,Sara CURTIS,Sara,CURTIS,17,Women50Free
+JAM,Sabrina LYN,Sabrina,LYN,20,Women50Free
+KEN,Maria BRUNLEHNER,Maria,BRUNLEHNER,24,Women50Free
+KGZ,Elizaveta ROGOZHNIKOVA,Elizaveta,PECHERSKIKH,19,Women50Free
+KOS,Hana BEIQI,Hana,BEIQI,15,Women50Free
+MAD,Antsa RABEJAONA,Antsa,RABEJAONA,22,Women50Free
+MAW,Tayamika CHANG'ANAMUNO,Tayamika,CHANGANAMUNO,24,Women50Free
+MDV,Aishath Ulya SHAIG,Aishath Ulya,SHAIG,21,Women50Free
+MHL,Kayla HEPLER,Kayla,HEPLER,22,Women50Free
+MLI,Aichata DIABATE,Aichata,DIABATE,18,Women50Free
+MNE,Jovana KULJACA,Jovana,KULJACA,20,Women50Free
+NED,Kim BUSCH,Kim,BUSCH,26,Women50Free
+NED,Valerie VAN ROON,Valerie,VAN ROON,25,Women50Free
+NGR,Adaku NWANDU,Adaku Nkem,NWANDU,16,Women50Free
+NIG,Salima AHMADOU YOUSSOUFOU,Salima,AHMADOU YOUSSOUFOU,20,Women50Free
+PLW,Yuri HOSEI,Yuri,HOSEI,19,Women50Free
+PNG,Georgia-Leigh VELE,Georgia-Leigh,VELE,25,Women50Free
+POL,Kornelia FIEDKIEWICZ,Kornelia,FIEDKIEWICZ,22,Women50Free
+POL,Katarzyna WASICK,Katarzyna,WASICK,32,Women50Free
+RWA,Lidwine UMUHOZA UWASE,Lidwine,UMUHOZA UWASE,25,Women50Free
+SAM,Kaiya BROWN,Kaiya,BROWN,20,Women50Free
+SEY,Khema ELIZABETH,Khema,ELIZABETH,19,Women50Free
+SLE,Olamide SAM,Olamide,SAM,24,Women50Free
+SLO,Neza KLANCAR,Neza,KLANCAR,24,Women50Free
+SUR,Kaelyn Ciara Suryanti DJOPARTO,Kaelyn Ciara Suryanti,DJOPARTO,18,Women50Free
+SWE,Michelle COLEMAN,Michelle,COLEMAN,30,Women50Free
+SWE,Sarah SJOESTROEM,Sarah,SJOESTROEM,30,Women50Free
+TAN,Sophia LATIFF,Sophia,LATIFF,17,Women50Free
+TGA,Noelani Malia DAY,Noelani Malia,DAY,21,Women50Free
+THA,Jenjira SRISA - ARD,Jenjira,SRISA-ARD,29,Women50Free
+TJK,Ekaterina BORDACHYOVA,Ekaterina,BORDACHYOVA,21,Women50Free
+TLS,Imelda XIMENES BELO,Imelda,XIMENES BELO,25,Women50Free
+TOG,Adele Sodalo Agnes GAITOU,Adele Sodalo Agnes,GAITOU,17,Women50Free
+USA,Simone MANUEL,Simone,MANUEL,28,Women50Free
+USA,Gretchen WALSH,Gretchen,WALSH,21,Women50Free
+VAN,Loane RUSSET,Loane,RUSSET,18,Women50Free
+VIN,Kennice Aphenie GREENE,Kennice Aphenie,GREENE,17,Women50Free
+ZAM,Mia PHIRI,Mia,PHIRI,21,Women50Free
