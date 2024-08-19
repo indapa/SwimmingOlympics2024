@@ -1,0 +1,345 @@
+1	4	
+RSARSA
+Tatjana SCHOENMAKER
+Tatjana
+SMITH
+27	0.67	Qualified2:21.57	-	917	
+Distance	Split Time	Cumulative Time
+ 50m
+31.69	31.69
+ 100m
+35.89	01:07.58
+ 150m
+36.59	01:44.17
+ 200m
+37.40	02:21.57
+2	6	
+RSARSA
+Kaylene CORBETT
+Kaylene
+CORBETT
+25	0.74	Qualified2:23.85	+02.28	874	
+Distance	Split Time	Cumulative Time
+ 50m
+32.54	32.54
+ 100m
+36.63	01:09.17
+ 150m
+36.59	01:45.76
+ 200m
+38.09	02:23.85
+3	5	
+IRLIRL
+Mona MC SHARRY
+Mona
+MC SHARRY
+23	0.69	Qualified2:23.98	+02.41	871	
+Distance	Split Time	Cumulative Time
+ 50m
+32.95	32.95
+ 100m
+36.11	01:09.06
+ 150m
+36.71	01:45.77
+ 200m
+38.21	02:23.98
+4	3	
+LTULTU
+Kotryna TETEREVKOVA
+Kotryna
+TETEREVKOVA
+22	0.70	Qualified2:24.59	+03.02	860	
+Distance	Split Time	Cumulative Time
+ 50m
+32.98	32.98
+ 100m
+36.75	01:09.73
+ 150m
+36.66	01:46.39
+ 200m
+38.20	02:24.59
+5	2	
+CZECZE
+Kristyna HORSKA
+Kristyna
+HORSKA
+26	0.75	Qualified2:26.28	+04.71	831	
+Distance	Split Time	Cumulative Time
+ 50m
+33.11	33.11
+ 100m
+37.07	01:10.18
+ 150m
+37.39	01:47.57
+ 200m
+38.71	02:26.28
+6	1	
+SWESWE
+Sophie HANSSON
+Sophie
+HANSSON
+25	0.74	2:28.10	+06.53	801	
+Distance	Split Time	Cumulative Time
+ 50m
+33.06	33.06
+ 100m
+37.60	01:10.66
+ 150m
+38.18	01:48.84
+ 200m
+39.26	02:28.10
+7	7	
+AINAIN
+Alina ZMUSHKA
+Alina
+ZMUSHKA
+27	0.67	2:28.19	+06.62	799	
+Distance	Split Time	Cumulative Time
+ 50m
+33.59	33.59
+ 100m
+36.70	01:10.29
+ 150m
+38.34	01:48.63
+ 200m
+39.56	02:28.19
+1	4	
+NEDNED
+Tes SCHOUTEN
+Tes
+SCHOUTEN
+23	0.67	Qualified2:23.08	-	888	
+Distance	Split Time	Cumulative Time
+ 50m
+32.04	32.04
+ 100m
+36.16	01:08.20
+ 150m
+37.31	01:45.51
+ 200m
+37.57	02:23.08
+2	3	
+AUSAUS
+Jenna STRAUCH
+Jenna
+STRAUCH
+27	0.72	Qualified2:24.38	+01.30	864	
+Distance	Split Time	Cumulative Time
+ 50m
+33.23	33.23
+ 100m
+36.48	01:09.71
+ 150m
+36.52	01:46.23
+ 200m
+38.15	02:24.38
+3	7	
+ESPESP
+Jessica VALL MONTERO
+Jessica
+VALL MONTERO
+35	0.69	Qualified2:24.52	+01.44	862	
+Distance	Split Time	Cumulative Time
+ 50m
+32.90	32.90
+ 100m
+36.59	01:09.49
+ 150m
+37.12	01:46.61
+ 200m
+37.91	02:24.52
+4	2	
+CANCAN
+Kelsey Lauren WOG
+Kelsey Lauren
+WOG
+25	0.65	Qualified2:25.11	+02.03	851	
+Distance	Split Time	Cumulative Time
+ 50m
+32.78	32.78
+ 100m
+36.98	01:09.76
+ 150m
+37.54	01:47.30
+ 200m
+37.81	02:25.11
+5	6	
+CANCAN
+Sydney PICKREM
+Sydney
+PICKREM
+27	0.74	Qualified2:25.45	+02.37	845	
+Distance	Split Time	Cumulative Time
+ 50m
+33.70	33.70
+ 100m
+37.43	01:11.13
+ 150m
+37.05	01:48.18
+ 200m
+37.27	02:25.45
+6	1	
+SUISUI
+Lisa MAMIE
+Lisa
+MAMIE
+25	0.74	2:26.39	+03.31	829	
+Distance	Split Time	Cumulative Time
+ 50m
+32.97	32.97
+ 100m
+37.28	01:10.25
+ 150m
+37.67	01:47.92
+ 200m
+38.47	02:26.39
+7	8	
+ARGARG
+Macarena CEBALLOS
+Macarena
+CEBALLOS
+29	0.66	2:26.55	+03.47	826	
+Distance	Split Time	Cumulative Time
+ 50m
+33.29	33.29
+ 100m
+37.00	01:10.29
+ 150m
+37.35	01:47.64
+ 200m
+38.91	02:26.55
+8	5	
+DENDEN
+Thea BLOMSTERBERG
+Thea
+BLOMSTERBERG
+22	0.75	2:27.81	+04.73	805	
+Distance	Split Time	Cumulative Time
+ 50m
+33.62	33.62
+ 100m
+36.93	01:10.55
+ 150m
+38.01	01:48.56
+ 200m
+39.25	02:27.81
+1	4	
+USAUSA
+Kate DOUGLASS
+Kate
+DOUGLASS
+22	0.69	Qualified2:23.44	-	881	
+Distance	Split Time	Cumulative Time
+ 50m
+32.79	32.79
+ 100m
+36.61	01:09.40
+ 150m
+36.93	01:46.33
+ 200m
+37.11	02:23.44
+2	3	
+CHNCHN
+Shiwen YE
+Shiwen
+YE
+28	0.68	Qualified2:23.67	+00.23	877	
+Distance	Split Time	Cumulative Time
+ 50m
+33.00	33.00
+ 100m
+36.36	01:09.36
+ 150m
+37.01	01:46.37
+ 200m
+37.30	02:23.67
+3	2	
+JPNJPN
+Satomi SUZUKI
+Satomi
+SUZUKI
+33	0.66	Qualified2:23.80	+00.36	875	
+Distance	Split Time	Cumulative Time
+ 50m
+32.62	32.62
+ 100m
+36.71	01:09.33
+ 150m
+36.93	01:46.26
+ 200m
+37.54	02:23.80
+4	5	
+USAUSA
+Lilly KING
+Lilly
+KING
+27	0.66	Qualified2:24.91	+01.47	855	
+Distance	Split Time	Cumulative Time
+ 50m
+32.42	32.42
+ 100m
+37.20	01:09.62
+ 150m
+37.98	01:47.60
+ 200m
+37.31	02:24.91
+5	6	
+AUSAUS
+Ella RAMSAY
+Ella
+RAMSAY
+20	0.67	Qualified2:25.61	+02.17	842	
+Distance	Split Time	Cumulative Time
+ 50m
+32.81	32.81
+ 100m
+37.23	01:10.04
+ 150m
+38.10	01:48.14
+ 200m
+37.47	02:25.61
+6	7	
+ITAITA
+Francesca FANGIO
+Francesca
+FANGIO
+28	0.67	Qualified2:25.85	+02.41	838	
+Distance	Split Time	Cumulative Time
+ 50m
+33.28	33.28
+ 100m
+36.53	01:09.81
+ 150m
+37.70	01:47.51
+ 200m
+38.34	02:25.85
+7	1	
+SGPSGP
+En Yi Letitia SIM
+En Yi Letitia
+SIM
+21	0.66	2:29.46	+06.02	779	
+Distance	Split Time	Cumulative Time
+ 50m
+32.87	32.87
+ 100m
+37.22	01:10.09
+ 150m
+38.45	01:48.54
+ 200m
+40.92	02:29.46
+8	8	
+ESTEST
+Eneli JEFIMOVA
+Eneli
+JEFIMOVA
+17	0.72	2:30.68	+07.24	760	
+Distance	Split Time	Cumulative Time
+ 50m
+33.09	33.09
+ 100m
+37.84	01:10.93
+ 150m
+39.38	01:50.31
+ 200m
+40.37	02:30.68

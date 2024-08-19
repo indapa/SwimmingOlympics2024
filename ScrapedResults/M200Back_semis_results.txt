@@ -1,0 +1,240 @@
+1	5	
+HUNHUN
+Hubert KOS
+Hubert
+KOS
+21	0.54	Qualified1:55.96	-	899	
+Distance	Split Time	Cumulative Time
+ 50m
+26.89	26.89
+ 100m
+28.99	55.88
+ 150m
+30.08	01:25.96
+ 200m
+30.00	01:55.96
+2	4	
+GERGER
+Lukas MARTENS
+Lukas
+MAERTENS
+22	0.61	Qualified1:56.33	+00.37	890	
+Distance	Split Time	Cumulative Time
+ 50m
+27.16	27.16
+ 100m
+29.39	56.55
+ 150m
+30.10	01:26.65
+ 200m
+29.68	01:56.33
+3	3	
+ESPESP
+Hugo GONZALEZ
+Hugo
+GONZALEZ
+25	0.61	Qualified1:56.52	+00.56	886	
+Distance	Split Time	Cumulative Time
+ 50m
+27.39	27.39
+ 100m
+29.54	56.93
+ 150m
+30.20	01:27.13
+ 200m
+29.39	01:56.52
+4	1	
+ITAITA
+Thomas CECCON
+Thomas
+CECCON
+23	0.64	1:56.59	+00.63	884	
+Distance	Split Time	Cumulative Time
+ 50m
+27.18	27.18
+ 100m
+29.91	57.09
+ 150m
+29.80	01:26.89
+ 200m
+29.70	01:56.59
+5	2	
+KORKOR
+Juho LEE
+Juho
+LEE
+29	0.58	1:56.76	+00.80	880	
+Distance	Split Time	Cumulative Time
+ 50m
+27.33	27.33
+ 100m
+29.73	57.06
+ 150m
+29.87	01:26.93
+ 200m
+29.83	01:56.76
+6	7	
+GBRGBR
+Oliver MORGAN
+Oliver
+MORGAN
+21	0.58	1:57.28	+01.32	869	
+Distance	Split Time	Cumulative Time
+ 50m
+27.08	27.08
+ 100m
+29.92	57.00
+ 150m
+31.05	01:28.05
+ 200m
+29.23	01:57.28
+7	8	
+HUNHUN
+Adam TELEGDY
+Adam
+TELEGDY
+28	0.67	1:57.58	+01.62	862	
+Distance	Split Time	Cumulative Time
+ 50m
+27.40	27.40
+ 100m
+29.79	57.19
+ 150m
+30.80	01:27.99
+ 200m
+29.59	01:57.58
+8	6	
+JPNJPN
+Hidekazu TAKEHARA
+Hidekazu
+TAKEHARA
+20	0.56	1:58.03	+02.07	852	
+Distance	Split Time	Cumulative Time
+ 50m
+27.37	27.37
+ 100m
+29.72	57.09
+ 150m
+30.55	01:27.64
+ 200m
+30.39	01:58.03
+1	4	
+SUISUI
+Roman MITYUKOV
+Roman
+MITYUKOV
+24	0.52	Qualified1:56.05	-	896	
+Distance	Split Time	Cumulative Time
+ 50m
+27.21	27.21
+ 100m
+29.53	56.74
+ 150m
+29.85	01:26.59
+ 200m
+29.46	01:56.05
+2	5	
+RSARSA
+Pieter COETZE
+Pieter
+COETZE
+20	0.65	Qualified1:56.09	+00.04	896	
+Distance	Split Time	Cumulative Time
+ 50m
+26.86	26.86
+ 100m
+29.76	56.62
+ 150m
+29.92	01:26.54
+ 200m
+29.55	01:56.09
+3	6	
+GREGRE
+Apostolos CHRISTOU
+Apostolos
+CHRISTOU
+27	0.59	Qualified1:56.33	+00.28	890	
+Distance	Split Time	Cumulative Time
+ 50m
+26.89	26.89
+ 100m
+29.60	56.49
+ 150m
+30.34	01:26.83
+ 200m
+29.50	01:56.33
+4	7	
+USAUSA
+Jackson JONES
+Jackson
+JONES
+19	0.64	Qualified1:56.39	+00.34	889	
+Distance	Split Time	Cumulative Time
+ 50m
+27.35	27.35
+ 100m
+29.49	56.84
+ 150m
+30.22	01:27.06
+ 200m
+29.33	01:56.39
+5	1	
+FRAFRA
+Mewen TOMAC
+Mewen
+TOMAC
+22	0.60	Qualified1:56.43	+00.38	888	
+Distance	Split Time	Cumulative Time
+ 50m
+26.88	26.88
+ 100m
+29.49	56.37
+ 150m
+30.09	01:26.46
+ 200m
+29.97	01:56.43
+6	3	
+USAUSA
+Ryan MURPHY
+Ryan
+MURPHY
+29	0.53	1:56.62	+00.57	883	
+Distance	Split Time	Cumulative Time
+ 50m
+27.16	27.16
+ 100m
+29.58	56.74
+ 150m
+30.11	01:26.85
+ 200m
+29.77	01:56.62
+7	2	
+GREGRE
+Apostolos SISKOS
+Apostolos
+SISKOS
+19	0.56	1:57.77	+01.72	858	
+Distance	Split Time	Cumulative Time
+ 50m
+27.34	27.34
+ 100m
+30.08	57.42
+ 150m
+30.49	01:27.91
+ 200m
+29.86	01:57.77
+8	8	
+FRAFRA
+Yohann NDOYE-BROUARD
+Yohann
+NDOYE-BROUARD
+23	0.54	1:58.65	+02.60	839	
+Distance	Split Time	Cumulative Time
+ 50m
+27.04	27.04
+ 100m
+30.45	57.49
+ 150m
+31.25	01:28.74
+ 200m
+29.91	01:58.65

@@ -1,0 +1,120 @@
+1	4	
+USAUSA
+Kate DOUGLASS
+Kate
+DOUGLASS
+22	0.68	2:19.24 -	964	
+Distance	Split Time	Cumulative Time
+ 50m
+31.83	31.83
+ 100m
+35.26	01:07.09
+ 150m
+35.81	01:42.90
+ 200m
+36.34	02:19.24
+2	5	
+RSARSA
+Tatjana SCHOENMAKER
+Tatjana
+SMITH
+27	0.65	2:19.60	+00.36	956	
+Distance	Split Time	Cumulative Time
+ 50m
+31.60	31.60
+ 100m
+35.61	01:07.21
+ 150m
+35.88	01:43.09
+ 200m
+36.51	02:19.60
+3	3	
+NEDNED
+Tes SCHOUTEN
+Tes
+SCHOUTEN
+23	0.68	2:21.05	+01.81	927	
+Distance	Split Time	Cumulative Time
+ 50m
+32.07	32.07
+ 100m
+35.50	01:07.57
+ 150m
+36.22	01:43.79
+ 200m
+37.26	02:21.05
+4	8	
+JPNJPN
+Satomi SUZUKI
+Satomi
+SUZUKI
+33	0.65	2:22.54	+03.30	898	
+Distance	Split Time	Cumulative Time
+ 50m
+32.15	32.15
+ 100m
+35.88	01:08.03
+ 150m
+37.16	01:45.19
+ 200m
+37.35	02:22.54
+5	1	
+LTULTU
+Kotryna TETEREVKOVA
+Kotryna
+TETEREVKOVA
+22	0.71	2:23.75	+04.51	876	
+Distance	Split Time	Cumulative Time
+ 50m
+32.80	32.80
+ 100m
+36.67	01:09.47
+ 150m
+36.81	01:46.28
+ 200m
+37.47	02:23.75
+6	2	
+CHNCHN
+Shiwen YE
+Shiwen
+YE
+28	0.69	2:24.31	+05.07	865	
+Distance	Split Time	Cumulative Time
+ 50m
+32.85	32.85
+ 100m
+36.41	01:09.26
+ 150m
+37.28	01:46.54
+ 200m
+37.77	02:24.31
+7	6	
+RSARSA
+Kaylene CORBETT
+Kaylene
+CORBETT
+25	0.79	2:24.46	+05.22	863	
+Distance	Split Time	Cumulative Time
+ 50m
+32.66	32.66
+ 100m
+36.29	01:08.95
+ 150m
+36.91	01:45.86
+ 200m
+38.60	02:24.46
+8	7	
+USAUSA
+Lilly KING
+Lilly
+KING
+27	0.65	2:25.91	+06.67	837	
+Distance	Split Time	Cumulative Time
+ 50m
+32.25	32.25
+ 100m
+36.37	01:08.62
+ 150m
+38.08	01:46.70
+ 200m
+39.21	02:25.91

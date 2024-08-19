@@ -1,375 +1,105 @@
-1	5	
-PANPAN
-Bernhard Tyler CHRISTIANSON
-Bernhard Tyler
-CHRISTIANSON
-22	0.58	2:15.62	-	792	
-Distance	Split Time	Cumulative Time
- 50m
-29.50	29.50
- 100m
-33.79	01:03.29
- 150m
-35.24	01:38.53
- 200m
-37.09	02:15.62
-2	4	
-HONHON
-Julio HORREGO
-Julio
-HORREGO
-25	0.73	2:18.91	+03.29	737	
-Distance	Split Time	Cumulative Time
- 50m
-30.36	30.36
- 100m
-34.45	01:04.81
- 150m
-35.84	01:40.65
- 200m
-38.26	02:18.91
-3	3	
-BRNBRN
-Saud GHALI
-Saud
-GHALI
-19	0.68	2:22.51	+06.89	682	
-Distance	Split Time	Cumulative Time
- 50m
-31.38	31.38
- 100m
-36.05	01:07.43
- 150m
-36.71	01:44.14
- 200m
-38.37	02:22.51
-1	5	
-JPNJPN
-Yu HANAGURUMA
-Yu
-HANAGURUMA
-24	0.64	Qualified2:10.35	-	892	
-Distance	Split Time	Cumulative Time
- 50m
-29.63	29.63
- 100m
-33.09	01:02.72
- 150m
-33.82	01:36.54
- 200m
-33.81	02:10.35
-2	4	
-USAUSA
-Matt FALLON
-Matt
-FALLON
-21	0.71	Qualified2:10.49	+00.14	889	
-Distance	Split Time	Cumulative Time
- 50m
-30.30	30.30
- 100m
-33.07	01:03.37
- 150m
-33.19	01:36.56
- 200m
-33.93	02:10.49
-3	2	
-BULBUL
-Lyubomir EPITROPOV
-Lyubomir
-EPITROPOV
-25	0.68	Qualified2:10.59	+00.24	887	
-Distance	Split Time	Cumulative Time
- 50m
-30.05	30.05
- 100m
-33.55	01:03.60
- 150m
-33.53	01:37.13
- 200m
-33.46	02:10.59
-4	3	
-AUSAUS
-Joshua YONG
-Joshua
-YONG
-23	0.72	Qualified2:10.68	+00.33	885	
-Distance	Split Time	Cumulative Time
- 50m
-30.22	30.22
- 100m
-33.64	01:03.86
- 150m
-33.57	01:37.43
- 200m
-33.25	02:10.68
-5	6	
-FINFIN
-Matti MATTSSON
-Matti
-MATTSSON
-30	0.69	2:11.18	+00.83	875	
-Distance	Split Time	Cumulative Time
- 50m
-29.49	29.49
- 100m
-32.49	01:01.98
- 150m
-34.34	01:36.32
- 200m
-34.86	02:11.18
-6	7	
-LTULTU
-Aleksas SAVICKAS
-Aleksas
-SAVICKAS
-21	0.65	2:11.53	+01.18	868	
-Distance	Split Time	Cumulative Time
- 50m
-29.39	29.39
- 100m
-32.73	01:02.12
- 150m
-34.18	01:36.30
- 200m
-35.23	02:11.53
-7	1	
-JORJOR
-Amro AL-WIR
-Amro
-AL-WIR
-23	0.68	2:15.78	+05.43	789	
-Distance	Split Time	Cumulative Time
- 50m
-30.61	30.61
- 100m
-34.46	01:05.07
- 150m
-34.91	01:39.98
- 200m
-35.80	02:15.78
 1	4	
-AUSAUS
-Zac STUBBLETY-COOK
-Zac
-STUBBLETY-COOK
-25	0.68	Qualified2:09.49	-	909	
+RSARSA
+Tatjana SCHOENMAKER
+Tatjana
+SMITH
+27	0.67	Qualified2:21.57	-	917	
 Distance	Split Time	Cumulative Time
  50m
-29.95	29.95
+31.69	31.69
  100m
-33.67	01:03.62
+35.89	01:07.58
  150m
-33.61	01:37.23
+36.59	01:44.17
  200m
-32.26	02:09.49
-2	3	
-NEDNED
-Caspar CORBEAU
-Caspar
-CORBEAU
-23	0.68	Qualified2:09.78	+00.29	903	
+37.40	02:21.57
+2	6	
+RSARSA
+Kaylene CORBETT
+Kaylene
+CORBETT
+25	0.74	Qualified2:23.85	+02.28	874	
 Distance	Split Time	Cumulative Time
  50m
-29.24	29.24
+32.54	32.54
  100m
-32.99	01:02.23
+36.63	01:09.17
  150m
-33.53	01:35.76
+36.59	01:45.76
  200m
-34.02	02:09.78
+38.09	02:23.85
 3	5	
-JPNJPN
-Ippei WATANABE
-Ippei
-WATANABE
-27	0.70	Qualified2:09.86	+00.37	902	
+IRLIRL
+Mona MC SHARRY
+Mona
+MC SHARRY
+23	0.69	Qualified2:23.98	+02.41	871	
 Distance	Split Time	Cumulative Time
  50m
-29.29	29.29
+32.95	32.95
  100m
-32.98	01:02.27
+36.11	01:09.06
  150m
-33.30	01:35.57
+36.71	01:45.77
  200m
-34.29	02:09.86
-4	2	
-SWESWE
-Erik PERSSON
-Erik
-PERSSON
-30	0.68	Qualified2:10.35	+00.86	892	
+38.21	02:23.98
+4	3	
+LTULTU
+Kotryna TETEREVKOVA
+Kotryna
+TETEREVKOVA
+22	0.70	Qualified2:24.59	+03.02	860	
 Distance	Split Time	Cumulative Time
  50m
-29.74	29.74
+32.98	32.98
  100m
-32.81	01:02.55
+36.75	01:09.73
  150m
-33.54	01:36.09
+36.66	01:46.39
  200m
-34.26	02:10.35
-5	6	
-USAUSA
-Josh MATHENY
-Josh
-MATHENY
-21	0.66	Qualified2:10.39	+00.90	891	
+38.20	02:24.59
+5	2	
+CZECZE
+Kristyna HORSKA
+Kristyna
+HORSKA
+26	0.75	Qualified2:26.28	+04.71	831	
 Distance	Split Time	Cumulative Time
  50m
-29.57	29.57
+33.11	33.11
  100m
-33.19	01:02.76
+37.07	01:10.18
  150m
-33.55	01:36.31
+37.39	01:47.57
  200m
-34.08	02:10.39
+38.71	02:26.28
 6	1	
-KGZKGZ
-Denis PETRASHOV
-Denis
-PETRASHOV
-24	0.77	Qualified2:10.99	+01.50	879	
+SWESWE
+Sophie HANSSON
+Sophie
+HANSSON
+25	0.74	2:28.10	+06.53	801	
 Distance	Split Time	Cumulative Time
  50m
-30.00	30.00
+33.06	33.06
  100m
-33.23	01:03.23
+37.60	01:10.66
  150m
-34.13	01:37.36
+38.18	01:48.84
  200m
-33.63	02:10.99
+39.26	02:28.10
 7	7	
-MEXMEX
-Miguel Alejandro DE LARA OJEDA
-Miguel Alejandro
-DE LARA OJEDA
-29	0.69	2:11.16	+01.67	875	
+AINAIN
+Alina ZMUSHKA
+Alina
+ZMUSHKA
+27	0.67	2:28.19	+06.62	799	
 Distance	Split Time	Cumulative Time
  50m
-29.37	29.37
+33.59	33.59
  100m
-32.98	01:02.35
+36.70	01:10.29
  150m
-34.46	01:36.81
+38.34	01:48.63
  200m
-34.35	02:11.16
-1	7	
-KORKOR
-Sung Jae CHO
-Sung Jae
-CHO
-23	0.69	Qualified2:09.45	-	910	
-Distance	Split Time	Cumulative Time
- 50m
-29.71	29.71
- 100m
-32.65	01:02.36
- 150m
-33.48	01:35.84
- 200m
-33.61	02:09.45
-2	5	
-FRAFRA
-Leon MARCHAND
-Leon
-MARCHAND
-22	0.63	Qualified2:09.55	+00.10	908	
-Distance	Split Time	Cumulative Time
- 50m
-28.33	28.33
- 100m
-32.64	01:00.97
- 150m
-33.81	01:34.78
- 200m
-34.77	02:09.55
-3	3	
-CHNCHN
-Zhihao DONG
-Zhihao
-DONG
-19	0.65	Qualified2:09.91	+00.46	901	
-Distance	Split Time	Cumulative Time
- 50m
-29.29	29.29
- 100m
-33.43	01:02.72
- 150m
-34.13	01:36.85
- 200m
-33.06	02:09.91
-4	2	
-ISLISL
-Anton MCKEE
-Anton
-MCKEE
-30	0.65	Qualified2:10.36	+00.91	891	
-Distance	Split Time	Cumulative Time
- 50m
-29.49	29.49
- 100m
-33.17	01:02.66
- 150m
-33.07	01:35.73
- 200m
-34.63	02:10.36
-5	6	
-NEDNED
-Arno KAMMINGA
-Arno
-KAMMINGA
-28	0.69	Qualified2:10.53	+01.08	888	
-Distance	Split Time	Cumulative Time
- 50m
-29.42	29.42
- 100m
-33.03	01:02.45
- 150m
-33.79	01:36.24
- 200m
-34.29	02:10.53
-6	4	
-CHNCHN
-Haiyang QIN
-Haiyang
-QIN
-25	0.63	Qualified2:10.98	+01.53	879	
-Distance	Split Time	Cumulative Time
- 50m
-28.96	28.96
- 100m
-33.17	01:02.13
- 150m
-34.00	01:36.13
- 200m
-34.85	02:10.98
-7	1	
-POLPOL
-Jan KALUSOWSKI
-Jan
-KALUSOWSKI
-24	0.70	2:11.87	+02.42	861	
-Distance	Split Time	Cumulative Time
- 50m
-29.71	29.71
- 100m
-33.00	01:02.71
- 150m
-34.21	01:36.92
- 200m
-34.95	02:11.87
-8	8	
-LATLAT
-Daniils BOBROVS
-Daniils
-BOBROVS
-26	0.72	2:13.66	+04.21	827	
-Distance	Split Time	Cumulative Time
- 50m
-30.49	30.49
- 100m
-33.97	01:04.46
- 150m
-34.70	01:39.16
- 200m
-34.50	02:13.66
+39.56	02:28.19
