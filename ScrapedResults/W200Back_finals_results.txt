@@ -1,0 +1,120 @@
+1	5	
+AUSAUS
+Kaylee MCKEOWN
+Kaylee
+MCKEOWN
+23	0.54	2:03.73 -	985	
+Distance	Split Time	Cumulative Time
+ 50m
+29.17	29.17
+ 100m
+31.35	01:00.52
+ 150m
+31.36	01:31.88
+ 200m
+31.85	02:03.73
+2	7	
+USAUSA
+Regan SMITH
+Regan
+SMITH
+22	0.54	2:04.26	+00.53	973	
+Distance	Split Time	Cumulative Time
+ 50m
+29.02	29.02
+ 100m
+30.88	59.90
+ 150m
+31.80	01:31.70
+ 200m
+32.56	02:04.26
+3	2	
+CANCAN
+Kylie MASSE
+Kylie
+MASSE
+28	0.56	2:05.57	+01.84	943	
+Distance	Split Time	Cumulative Time
+ 50m
+28.95	28.95
+ 100m
+31.42	01:00.37
+ 150m
+32.33	01:32.70
+ 200m
+32.87	02:05.57
+4	4	
+USAUSA
+Phoebe BACON
+Phoebe
+BACON
+21	0.62	2:05.61	+01.88	942	
+Distance	Split Time	Cumulative Time
+ 50m
+29.47	29.47
+ 100m
+31.30	01:00.77
+ 150m
+31.86	01:32.63
+ 200m
+32.98	02:05.61
+5	1	
+GBRGBR
+Katie SHANAHAN
+Katie
+SHANAHAN
+20	0.72	2:07.53	+03.80	900	
+Distance	Split Time	Cumulative Time
+ 50m
+30.18	30.18
+ 100m
+31.93	01:02.11
+ 150m
+32.86	01:34.97
+ 200m
+32.56	02:07.53
+6	6	
+CHNCHN
+Xuwei PENG
+Xuwei
+PENG
+21	0.59	2:07.96	+04.23	891	
+Distance	Split Time	Cumulative Time
+ 50m
+29.72	29.72
+ 100m
+31.75	01:01.47
+ 150m
+33.01	01:34.48
+ 200m
+33.48	02:07.96
+7	3	
+GBRGBR
+Honey OSRIN
+Honey
+OSRIN
+21	0.59	2:08.16	+04.43	887	
+Distance	Split Time	Cumulative Time
+ 50m
+29.91	29.91
+ 100m
+32.38	01:02.29
+ 150m
+32.41	01:34.70
+ 200m
+33.46	02:08.16
+8	8	
+AINAIN
+Anastasiya SHKURDAI
+Anastasiya
+SHKURDAI
+21	0.59	2:10.23	+06.50	845	
+Distance	Split Time	Cumulative Time
+ 50m
+30.34	30.34
+ 100m
+32.45	01:02.79
+ 150m
+33.32	01:36.11
+ 200m
+34.12	02:10.23

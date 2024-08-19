@@ -1,0 +1,72 @@
+1	5	
+AUSAUS
+Cameron MCEVOY
+Cameron
+MCEVOY
+30	0.56	21.25	-	952	
+Distance	Split Time	Cumulative Time
+ 50m
+21.25	21.25
+2	4	
+GBRGBR
+Benjamin PROUD
+Benjamin
+PROUD
+29	0.59	21.30	+00.05	946	
+Distance	Split Time	Cumulative Time
+ 50m
+21.30	21.30
+3	1	
+FRAFRA
+Florent MANAUDOU
+Florent
+MANAUDOU
+33	0.63	21.56	+00.31	912	
+Distance	Split Time	Cumulative Time
+ 50m
+21.56	21.56
+4	8	
+CANCAN
+Josh LIENDO
+Josh
+LIENDO
+21	0.64	21.58	+00.33	909	
+Distance	Split Time	Cumulative Time
+ 50m
+21.58	21.58
+5	7	
+GREGRE
+Kristian GKOLOMEEV
+Kristian
+GKOLOMEEV
+31	0.63	21.59	+00.34	908	
+Distance	Split Time	Cumulative Time
+ 50m
+21.59	21.59
+6	2	
+USAUSA
+Caeleb DRESSEL
+Caeleb
+DRESSEL
+27	0.63	21.61	+00.36	905	
+Distance	Split Time	Cumulative Time
+ 50m
+21.61	21.61
+7	3	
+ITAITA
+Leonardo DEPLANO
+Leonardo
+DEPLANO
+25	0.66	21.62	+00.37	904	
+Distance	Split Time	Cumulative Time
+ 50m
+21.62	21.62
+8	6	
+CAYCAY
+Jordan CROOKS
+Jordan
+CROOKS
+22	0.63	21.64	+00.39	902	
+Distance	Split Time	Cumulative Time
+ 50m
+21.64	21.64

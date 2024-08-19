@@ -1,0 +1,657 @@
+1	4	
+AUSAUS
+Cameron MCEVOY
+Cameron
+MCEVOY
+30	0.56	Qualified21.32	-	943	
+Distance	Split Time	Cumulative Time
+ 50m
+21.32	21.32
+2	7	
+CAYCAY
+Jordan CROOKS
+Jordan
+CROOKS
+22	0.64	Qualified21.51	+00.19	918	
+Distance	Split Time	Cumulative Time
+ 50m
+21.51	21.51
+3	5	
+FRAFRA
+Florent MANAUDOU
+Florent
+MANAUDOU
+33	0.66	Qualified21.54	+00.22	914	
+Distance	Split Time	Cumulative Time
+ 50m
+21.54	21.54
+4	1	
+ITAITA
+Lorenzo ZAZZERI
+Lorenzo
+ZAZZERI
+29	0.61	Qualified21.64	+00.32	902	
+Distance	Split Time	Cumulative Time
+ 50m
+21.64	21.64
+5	4	
+GBRGBR
+Benjamin PROUD
+Benjamin
+PROUD
+29	0.60	Qualified21.70	+00.38	894	
+Distance	Split Time	Cumulative Time
+ 50m
+21.70	21.70
+6	7	
+ITAITA
+Leonardo DEPLANO
+Leonardo
+DEPLANO
+25	0.66	Qualified21.79	+00.47	883	
+Distance	Split Time	Cumulative Time
+ 50m
+21.79	21.79
+6	7	
+IRLIRL
+Thomas FANNON
+Thomas
+FANNON
+26	0.64	Qualified21.79	+00.47	883	
+Distance	Split Time	Cumulative Time
+ 50m
+21.79	21.79
+8	8	
+AUSAUS
+Ben ARMBRUSTER
+Ben
+ARMBRUSTER
+22	0.66	Qualified21.86	+00.54	875	
+Distance	Split Time	Cumulative Time
+ 50m
+21.86	21.86
+8	2	
+GREGRE
+Kristian GKOLOMEEV
+Kristian
+GKOLOMEEV
+31	0.67	Qualified21.86	+00.54	875	
+Distance	Split Time	Cumulative Time
+ 50m
+21.86	21.86
+10	8	
+ISRISR
+Meiron Amir CHERUTI
+Meiron Amir
+CHERUTI
+26	0.63	Qualified21.88	+00.56	872	
+Distance	Split Time	Cumulative Time
+ 50m
+21.88	21.88
+11	4	
+UKRUKR
+Vladyslav BUKHOV
+Vladyslav
+BUKHOV
+22	0.68	Qualified21.89	+00.57	871	
+Distance	Split Time	Cumulative Time
+ 50m
+21.89	21.89
+11	6	
+MEXMEX
+Gabriel CASTANO GARCIA
+Gabriel
+CASTANO GARCIA
+26	0.59	Qualified21.89	+00.57	871	
+Distance	Split Time	Cumulative Time
+ 50m
+21.89	21.89
+13	5	
+USAUSA
+Caeleb DRESSEL
+Caeleb
+DRESSEL
+27	0.63	Qualified21.91	+00.59	869	
+Distance	Split Time	Cumulative Time
+ 50m
+21.91	21.91
+13	5	
+PORPOR
+Diogo MATOS RIBEIRO
+Diogo
+MATOS RIBEIRO
+19	0.62	Qualified21.91	+00.59	869	
+Distance	Split Time	Cumulative Time
+ 50m
+21.91	21.91
+15	5	
+CANCAN
+Josh LIENDO
+Josh
+LIENDO
+21	0.63	Qualified21.92	+00.60	868	
+Distance	Split Time	Cumulative Time
+ 50m
+21.92	21.92
+16	3	
+FRAFRA
+Maxime GROUSSET
+Maxime
+GROUSSET
+25	0.64	Qualified21.94	+00.62	865	
+Distance	Split Time	Cumulative Time
+ 50m
+21.94	21.94
+17	3	
+USAUSA
+Chris GUILIANO
+Chris
+GUILIANO
+21	0.62	21.97	+00.65	862	
+Distance	Split Time	Cumulative Time
+ 50m
+21.97	21.97
+18	7	
+GREGRE
+Stergios Marios BILAS
+Stergios Marios
+BILAS
+22	0.60	22.00	+00.68	858	
+Distance	Split Time	Cumulative Time
+ 50m
+22.00	22.00
+19	1	
+ISRISR
+Martin KARTAVI
+Martin
+KARTAVI
+20	0.60	22.01	+00.69	857	
+Distance	Split Time	Cumulative Time
+ 50m
+22.01	22.01
+19	4	
+NZLNZL
+Taiko TOREPE-ORMSBY
+Taiko
+TOREPE-ORMSBY
+20	0.63	22.01	+00.69	857	
+Distance	Split Time	Cumulative Time
+ 50m
+22.01	22.01
+21	1	
+VENVEN
+Alberto MESTRE
+Alberto
+MESTRE
+25	0.66	22.02	+00.70	856	
+Distance	Split Time	Cumulative Time
+ 50m
+22.02	22.02
+22	2	
+CROCRO
+Jere HRIBAR
+Jere
+HRIBAR
+20	0.69	22.08	+00.76	849	
+Distance	Split Time	Cumulative Time
+ 50m
+22.08	22.08
+23	3	
+NEDNED
+Renzo TJON-A-JOE
+Renzo
+TJON-A-JOE
+29	0.62	22.10	+00.78	847	
+Distance	Split Time	Cumulative Time
+ 50m
+22.10	22.10
+24	8	
+HKGHKG
+Ian Yentou HO
+Ian Yentou
+HO
+27	0.60	22.12	+00.80	844	
+Distance	Split Time	Cumulative Time
+ 50m
+22.12	22.12
+24	6	
+HUNHUN
+Szebasztian SZABO
+Szebasztian
+SZABO
+28	0.60	22.12	+00.80	844	
+Distance	Split Time	Cumulative Time
+ 50m
+22.12	22.12
+26	6	
+ARUARU
+Mikel SCHREUDERS
+Mikel
+SCHREUDERS
+25	0.65	22.14	+00.82	842	
+Distance	Split Time	Cumulative Time
+ 50m
+22.14	22.14
+27	2	
+NEDNED
+Kenzo SIMONS
+Kenzo
+SIMONS
+23	0.60	22.15	+00.83	841	
+Distance	Split Time	Cumulative Time
+ 50m
+22.15	22.15
+28	2	
+KORKOR
+Yuchan JI
+Yuchan
+JI
+21	0.56	22.16	+00.84	840	
+Distance	Split Time	Cumulative Time
+ 50m
+22.16	22.16
+29	6	
+TTOTTO
+Dylan CARTER
+Dylan
+CARTER
+28	0.65	22.18	+00.86	837	
+Distance	Split Time	Cumulative Time
+ 50m
+22.18	22.18
+30	2	
+SRBSRB
+Andrej BARNA
+Andrej
+BARNA
+26	0.61	22.19	+00.87	836	
+Distance	Split Time	Cumulative Time
+ 50m
+22.19	22.19
+31	3	
+SWESWE
+Bjoern SEELIGER
+Bjoern
+SEELIGER
+24	0.64	22.21	+00.89	834	
+Distance	Split Time	Cumulative Time
+ 50m
+22.21	22.21
+32	5	
+SGPSGP
+Jonathan Eu Jin TAN
+Jonathan Eu Jin
+TAN
+22	0.56	22.26	+00.94	828	
+Distance	Split Time	Cumulative Time
+ 50m
+22.26	22.26
+33	4	
+GBRGBR
+Alexander COHOON
+Alexander
+COHOON
+21	0.59	22.31	+00.99	823	
+Distance	Split Time	Cumulative Time
+ 50m
+22.31	22.31
+33	6	
+BRABRA
+Guilherme SANTOS
+Guilherme
+SANTOS
+21	0.60	22.31	+00.99	823	
+Distance	Split Time	Cumulative Time
+ 50m
+22.31	22.31
+35	7	
+POLPOL
+Piotr LUDWICZAK
+Piotr
+LUDWICZAK
+28	0.64	22.34	+01.02	819	
+Distance	Split Time	Cumulative Time
+ 50m
+22.34	22.34
+36	3	
+PORPOR
+Miguel NASCIMENTO
+Miguel
+NASCIMENTO
+29	0.58	22.49	+01.17	803	
+Distance	Split Time	Cumulative Time
+ 50m
+22.49	22.49
+37	1	
+NORNOR
+Nicholas LIA
+Nicholas
+LIA
+23	0.56	22.51	+01.19	801	
+Distance	Split Time	Cumulative Time
+ 50m
+22.51	22.51
+38	8	
+GERGER
+Artem SELIN
+Artem
+SELIN
+22	0.61	22.54	+01.22	798	
+Distance	Split Time	Cumulative Time
+ 50m
+22.54	22.54
+39	8	
+SVKSVK
+Matej DUSA
+Matej
+DUSA
+24	0.61	22.64	+01.32	787	
+Distance	Split Time	Cumulative Time
+ 50m
+22.64	22.64
+40	6	
+FIJFIJ
+David YOUNG
+David
+YOUNG
+19	0.61	22.71	+01.39	780	
+Distance	Split Time	Cumulative Time
+ 50m
+22.71	22.71
+41	5	
+MLTMLT
+Kyle MICALLEF
+Kyle
+MICALLEF
+23	0.60	22.89	+01.57	762	
+Distance	Split Time	Cumulative Time
+ 50m
+22.89	22.89
+42	2	
+SUISUI
+Thierry BOLLIN
+Thierry
+BOLLIN
+24	0.74	22.95	+01.63	756	
+Distance	Split Time	Cumulative Time
+ 50m
+22.95	22.95
+43	3	
+NGRNGR
+Oluwatobiloba Adeope SIJUADE
+Tobi
+SIJUADE
+22	0.59	23.34	+02.02	719	
+Distance	Split Time	Cumulative Time
+ 50m
+23.34	23.34
+44	4	
+AINAIN
+Evgenii SOMOV
+Evgenii
+SOMOV
+25	0.74	23.43	+02.11	710	
+Distance	Split Time	Cumulative Time
+ 50m
+23.43	23.43
+45	1	
+VINVIN
+Alex JOACHIM
+Alex
+JOACHIM
+21	0.64	23.59	+02.27	696	
+Distance	Split Time	Cumulative Time
+ 50m
+23.59	23.59
+46	5	
+BDIBDI
+Belly-Cresus GANIRA
+Belly-Cresus
+GANIRA
+24	0.64	23.80	+02.48	678	
+Distance	Split Time	Cumulative Time
+ 50m
+23.80	23.80
+47	2	
+EOREOR
+Alaa MASOO
+Alaa
+MASO
+24	0.68	23.90	+02.58	669	
+Distance	Split Time	Cumulative Time
+ 50m
+23.90	23.90
+48	7	
+ZAMZAM
+Damien SHAMAMBO
+Damien
+SHAMAMBO
+20	0.64	24.09	+02.77	653	
+Distance	Split Time	Cumulative Time
+ 50m
+24.09	24.09
+49	8	
+MAWMAW
+Filipe GOMES
+Filipe
+GOMES
+27	0.62	24.11	+02.79	652	
+Distance	Split Time	Cumulative Time
+ 50m
+24.11	24.11
+50	4	
+MDVMDV
+Mohamed Aan HUSSAIN
+Mohamed Aan
+HUSSAIN
+20	0.59	24.22	+02.90	643	
+Distance	Split Time	Cumulative Time
+ 50m
+24.22	24.22
+51	6	
+ERIERI
+Aaron Ghebre OWUSU
+Aaron Ghebre
+OWUSU
+17	0.67	24.25	+02.93	641	
+Distance	Split Time	Cumulative Time
+ 50m
+24.25	24.25
+52	3	
+DMADMA
+Warren Adam LAWRENCE
+Warren Adam
+LAWRENCE
+21	0.64	24.67	+03.35	608	
+Distance	Split Time	Cumulative Time
+ 50m
+24.67	24.67
+53	7	
+PLWPLW
+Jion HOSEI
+Jion
+HOSEI
+17	0.64	25.67	+04.35	540	
+Distance	Split Time	Cumulative Time
+ 50m
+25.67	25.67
+54	1	
+DJIDJI
+Houmed HOUSSEIN BARKAT
+Houmed
+HOUSSEIN BARKAT
+20	0.71	26.00	+04.68	520	
+Distance	Split Time	Cumulative Time
+ 50m
+26.00	26.00
+55	8	
+MTNMTN
+Camil DOUA
+Camil
+DOUA
+22	0.66	26.02	+04.70	518	
+Distance	Split Time	Cumulative Time
+ 50m
+26.02	26.02
+56	4	
+TJKTJK
+Fakhriddin MADKAMOV
+Fakhriddin
+MADKAMOV
+24	0.75	26.23	+04.91	506	
+Distance	Split Time	Cumulative Time
+ 50m
+26.23	26.23
+57	3	
+GUIGUI
+Elhadj N'gnane DIALLO
+Elhadj N'gnane
+DIALLO
+21	0.73	26.45	+05.13	494	
+Distance	Split Time	Cumulative Time
+ 50m
+26.45	26.45
+58	8	
+TOGTOG
+Magnim Jordano DAOU
+Magnim Jordano
+DAOU
+20	0.69	26.56	+05.24	487	
+Distance	Split Time	Cumulative Time
+ 50m
+26.56	26.56
+59	5	
+BURBUR
+Souleymane NAPARE
+Souleymane
+NAPARE
+21	0.63	26.66	+05.34	482	
+Distance	Split Time	Cumulative Time
+ 50m
+26.66	26.66
+59	6	
+CPVCPV
+Jose TATI
+Jose
+TATI
+16	0.70	26.66	+05.34	482	
+Distance	Split Time	Cumulative Time
+ 50m
+26.66	26.66
+61	2	
+GAMGAM
+Ousman JOBE
+Ousman
+JOBE
+18	0.70	26.97	+05.65	466	
+Distance	Split Time	Cumulative Time
+ 50m
+26.97	26.97
+62	7	
+SLESLE
+Joshua WYSE
+Joshua
+WYSE
+23	0.65	27.11	+05.79	458	
+Distance	Split Time	Cumulative Time
+ 50m
+27.11	27.11
+63	1	
+AFGAFG
+Fahim ANWARI
+Fahim
+ANWARI
+25	0.70	27.14	+05.82	457	
+Distance	Split Time	Cumulative Time
+ 50m
+27.14	27.14
+64	5	
+MHLMHL
+Phillip KINONO
+Phillip
+KINONO
+26	0.68	27.43	+06.11	442	
+Distance	Split Time	Cumulative Time
+ 50m
+27.43	27.43
+65	6	
+CGOCGO
+Freddy MAYALA
+Freddy
+MAYALA
+24	0.80	27.52	+06.20	438	
+Distance	Split Time	Cumulative Time
+ 50m
+27.52	27.52
+66	4	
+GBSGBS
+Pedro ROGERY
+Pedro
+ROGERY
+25	0.72	28.34	+07.02	401	
+Distance	Split Time	Cumulative Time
+ 50m
+28.34	28.34
+67	7	
+GEQGEQ
+Higinio NDONG OBAMA
+Higinio
+NDONG OBAMA
+25	0.65	28.42	+07.10	398	
+Distance	Split Time	Cumulative Time
+ 50m
+28.42	28.42
+68	3	
+GABGAB
+Adam MPALI
+Adam
+MPALI
+22	0.70	28.47	+07.15	396	
+Distance	Split Time	Cumulative Time
+ 50m
+28.47	28.47
+69	2	
+SKNSKN
+Troy NISBETT
+Troy
+NISBETT
+15	0.75	28.71	+07.39	386	
+Distance	Split Time	Cumulative Time
+ 50m
+28.71	28.71
+70	4	
+CODCOD
+Aristote NDOMBE IMPELENGA
+Aristote
+NDOMBE IMPELENGA
+22	0.72	29.04	+07.72	373	
+Distance	Split Time	Cumulative Time
+ 50m
+29.04	29.04
+71	1	
+TLSTLS
+Jolanio GUTERRES
+Jolanio
+GUTERRES
+19	0.68	30.04	+08.72	337	
+Distance	Split Time	Cumulative Time
+ 50m
+30.04	30.04
+72	3	
+NIGNIG
+Marouane MAMANE HAMISSOU ABBA
+Marouane
+MAMANE HAMISSOU ABBA
+15	0.77	30.66	+09.34	317	
+Distance	Split Time	Cumulative Time
+ 50m
+30.66	30.66
+73	5	
+CAFCAF
+Terence TENGUE
+Terence
+TENGUE
+18	0.82	30.96	+09.64	308	
+Distance	Split Time	Cumulative Time
+ 50m
+30.96	30.96
