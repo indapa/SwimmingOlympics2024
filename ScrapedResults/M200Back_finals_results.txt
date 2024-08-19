@@ -1,0 +1,120 @@
+1	4	
+HUNHUN
+Hubert KOS
+Hubert
+KOS
+21	0.54	1:54.26	-	939	
+Distance	Split Time	Cumulative Time
+ 50m
+27.06	27.06
+ 100m
+29.24	56.30
+ 150m
+29.08	01:25.38
+ 200m
+28.88	01:54.26
+2	2	
+GREGRE
+Apostolos CHRISTOU
+Apostolos
+CHRISTOU
+27	0.59	1:54.82	+00.56	926	
+Distance	Split Time	Cumulative Time
+ 50m
+26.39	26.39
+ 100m
+28.75	55.14
+ 150m
+29.22	01:24.36
+ 200m
+30.46	01:54.82
+3	5	
+SUISUI
+Roman MITYUKOV
+Roman
+MITYUKOV
+24	0.51	1:54.85	+00.59	925	
+Distance	Split Time	Cumulative Time
+ 50m
+27.16	27.16
+ 100m
+29.20	56.36
+ 150m
+29.39	01:25.75
+ 200m
+29.10	01:54.85
+4	1	
+FRAFRA
+Mewen TOMAC
+Mewen
+TOMAC
+22	0.61	1:55.38	+01.12	912	
+Distance	Split Time	Cumulative Time
+ 50m
+27.25	27.25
+ 100m
+29.31	56.56
+ 150m
+29.88	01:26.44
+ 200m
+28.94	01:55.38
+5	7	
+USAUSA
+Jackson JONES
+Jackson
+JONES
+19	0.68	1:55.39	+01.13	912	
+Distance	Split Time	Cumulative Time
+ 50m
+27.31	27.31
+ 100m
+29.09	56.40
+ 150m
+29.69	01:26.09
+ 200m
+29.30	01:55.39
+6	8	
+ESPESP
+Hugo GONZALEZ
+Hugo
+GONZALEZ
+25	0.59	1:55.47	+01.21	910	
+Distance	Split Time	Cumulative Time
+ 50m
+26.99	26.99
+ 100m
+28.90	55.89
+ 150m
+29.83	01:25.72
+ 200m
+29.75	01:55.47
+7	3	
+RSARSA
+Pieter COETZE
+Pieter
+COETZE
+20	0.66	1:55.60 +01.34	907	
+Distance	Split Time	Cumulative Time
+ 50m
+26.83	26.83
+ 100m
+29.70	56.53
+ 150m
+29.20	01:25.73
+ 200m
+29.87	01:55.60
+8	6	
+GERGER
+Lukas MARTENS
+Lukas
+MAERTENS
+22	0.61	1:55.97	+01.71	898	
+Distance	Split Time	Cumulative Time
+ 50m
+27.11	27.11
+ 100m
+29.49	56.60
+ 150m
+29.80	01:26.40
+ 200m
+29.57	01:55.97

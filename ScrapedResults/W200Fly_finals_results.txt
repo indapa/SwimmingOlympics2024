@@ -1,0 +1,120 @@
+1	4	
+CANCAN
+Summer MCINTOSH
+Summer
+MCINTOSH
+17	0.75	2:03.03 -	970	
+Distance	Split Time	Cumulative Time
+ 50m
+27.38	27.38
+ 100m
+31.59	58.97
+ 150m
+31.73	01:30.70
+ 200m
+32.33	02:03.03
+2	5	
+USAUSA
+Regan SMITH
+Regan
+SMITH
+22	0.67	2:03.84	+00.81	951	
+Distance	Split Time	Cumulative Time
+ 50m
+27.60	27.60
+ 100m
+31.76	59.36
+ 150m
+32.14	01:31.50
+ 200m
+32.34	02:03.84
+3	3	
+CHNCHN
+Yufei ZHANG
+Yufei
+ZHANG
+26	0.68	2:05.09	+02.06	923	
+Distance	Split Time	Cumulative Time
+ 50m
+27.08	27.08
+ 100m
+31.73	58.81
+ 150m
+32.62	01:31.43
+ 200m
+33.66	02:05.09
+4	6	
+AUSAUS
+Elizabeth DEKKERS
+Elizabeth
+DEKKERS
+20	0.76	2:07.11	+04.08	880	
+Distance	Split Time	Cumulative Time
+ 50m
+28.39	28.39
+ 100m
+31.73	01:00.12
+ 150m
+32.14	01:32.26
+ 200m
+34.85	02:07.11
+4	7	
+DENDEN
+Helena Rosendahl BACH
+Helena Rosendahl
+BACH
+24	0.77	2:07.11	+04.08	880	
+Distance	Split Time	Cumulative Time
+ 50m
+28.72	28.72
+ 100m
+31.83	01:00.55
+ 150m
+32.51	01:33.06
+ 200m
+34.05	02:07.11
+6	2	
+USAUSA
+Alex SHACKELL
+Alex
+SHACKELL
+17	0.69	2:07.73	+04.70	867	
+Distance	Split Time	Cumulative Time
+ 50m
+28.26	28.26
+ 100m
+31.71	59.97
+ 150m
+32.97	01:32.94
+ 200m
+34.79	02:07.73
+7	1	
+AUSAUS
+Abbey Lee CONNOR
+Abbey Lee
+CONNOR
+19	0.73	2:08.15	+05.12	858	
+Distance	Split Time	Cumulative Time
+ 50m
+28.67	28.67
+ 100m
+31.79	01:00.46
+ 150m
+33.66	01:34.12
+ 200m
+34.03	02:08.15
+8	8	
+GBRGBR
+Laura STEPHENS
+Laura
+STEPHENS
+25	0.71	2:08.82	+05.79	845	
+Distance	Split Time	Cumulative Time
+ 50m
+28.71	28.71
+ 100m
+32.14	01:00.85
+ 150m
+33.16	01:34.01
+ 200m
+34.81	02:08.82

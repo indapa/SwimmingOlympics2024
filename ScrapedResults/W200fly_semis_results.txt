@@ -1,0 +1,240 @@
+1	4	
+CHNCHN
+Yufei ZHANG
+Yufei
+ZHANG
+26	0.68	2:06.09	-	901	
+Distance	Split Time	Cumulative Time
+ 50m
+27.00	27.00
+ 100m
+32.12	59.12
+ 150m
+33.22	01:32.34
+ 200m
+33.75	02:06.09
+2	3	
+USAUSA
+Alex SHACKELL
+Alex
+SHACKELL
+17	0.71	2:06.46	+00.37	893	
+Distance	Split Time	Cumulative Time
+ 50m
+28.07	28.07
+ 100m
+31.95	01:00.02
+ 150m
+32.37	01:32.39
+ 200m
+34.07	02:06.46
+3	5	
+AUSAUS
+Abbey Lee CONNOR
+Abbey Lee
+CONNOR
+19	0.71	2:07.10	+01.01	880	
+Distance	Split Time	Cumulative Time
+ 50m
+28.04	28.04
+ 100m
+31.91	59.95
+ 150m
+32.64	01:32.59
+ 200m
+34.51	02:07.10
+4	6	
+GBRGBR
+Keanna Louise MACINNES
+Keanna Louise
+MACINNES
+22	0.68	2:08.04	+01.95	861	
+Distance	Split Time	Cumulative Time
+ 50m
+28.85	28.85
+ 100m
+32.86	01:01.71
+ 150m
+33.20	01:34.91
+ 200m
+33.13	02:08.04
+5	7	
+CHNCHN
+Luying CHEN
+Luying
+CHEN
+17	0.69	2:08.07	+01.98	860	
+Distance	Split Time	Cumulative Time
+ 50m
+28.65	28.65
+ 100m
+33.40	01:02.05
+ 150m
+33.24	01:35.29
+ 200m
+32.78	02:08.07
+6	2	
+JPNJPN
+Airi MITSUI
+Airi
+MITSUI
+20	0.68	2:08.71	+02.62	847	
+Distance	Split Time	Cumulative Time
+ 50m
+29.31	29.31
+ 100m
+32.87	01:02.18
+ 150m
+32.93	01:35.11
+ 200m
+33.60	02:08.71
+7	8	
+JPNJPN
+Hiroko MAKINO
+Hiroko
+MAKINO
+24	0.64	2:09.16	+03.07	838	
+Distance	Split Time	Cumulative Time
+ 50m
+28.74	28.74
+ 100m
+32.47	01:01.21
+ 150m
+33.93	01:35.14
+ 200m
+34.02	02:09.16
+8	1	
+GREGRE
+Georgia DAMASIOTI
+Georgia
+DAMASIOTI
+21	0.72	2:10.25	+04.16	817	
+Distance	Split Time	Cumulative Time
+ 50m
+29.15	29.15
+ 100m
+33.07	01:02.22
+ 150m
+34.14	01:36.36
+ 200m
+33.89	02:10.25
+1	3	
+CANCAN
+Summer MCINTOSH
+Summer
+MCINTOSH
+17	0.75	Qualified2:04.87	-	928	
+Distance	Split Time	Cumulative Time
+ 50m
+27.68	27.68
+ 100m
+31.64	59.32
+ 150m
+32.81	01:32.13
+ 200m
+32.74	02:04.87
+2	4	
+USAUSA
+Regan SMITH
+Regan
+SMITH
+22	0.69	Qualified2:05.39	+00.52	916	
+Distance	Split Time	Cumulative Time
+ 50m
+27.87	27.87
+ 100m
+31.88	59.75
+ 150m
+32.61	01:32.36
+ 200m
+33.03	02:05.39
+3	6	
+AUSAUS
+Elizabeth DEKKERS
+Elizabeth
+DEKKERS
+20	0.74	Qualified2:06.17	+01.30	899	
+Distance	Split Time	Cumulative Time
+ 50m
+28.81	28.81
+ 100m
+31.82	01:00.63
+ 150m
+32.27	01:32.90
+ 200m
+33.27	02:06.17
+4	5	
+DENDEN
+Helena Rosendahl BACH
+Helena Rosendahl
+BACH
+24	0.74	Qualified2:06.65	+01.78	889	
+Distance	Split Time	Cumulative Time
+ 50m
+28.30	28.30
+ 100m
+31.85	01:00.15
+ 150m
+32.90	01:33.05
+ 200m
+33.60	02:06.65
+5	1	
+GBRGBR
+Laura STEPHENS
+Laura
+STEPHENS
+25	0.68	Qualified2:07.53	+02.66	871	
+Distance	Split Time	Cumulative Time
+ 50m
+28.62	28.62
+ 100m
+32.45	01:01.07
+ 150m
+32.62	01:33.69
+ 200m
+33.84	02:07.53
+6	7	
+BIHBIH
+Lana PUDAR
+Lana
+PUDAR
+18	0.74	2:08.74	+03.87	847	
+Distance	Split Time	Cumulative Time
+ 50m
+28.41	28.41
+ 100m
+31.97	01:00.38
+ 150m
+33.54	01:33.92
+ 200m
+34.82	02:08.74
+7	2	
+HUNHUN
+Boglarka KAPAS
+Boglarka
+KAPAS
+31	0.72	2:09.23	+04.36	837	
+Distance	Split Time	Cumulative Time
+ 50m
+29.58	29.58
+ 100m
+33.00	01:02.58
+ 150m
+33.18	01:35.76
+ 200m
+33.47	02:09.23
+8	8	
+ESPESP
+Laura CABANES GARZAS
+Laura
+CABANES GARZAS
+18	0.67	2:10.60	+05.73	811	
+Distance	Split Time	Cumulative Time
+ 50m
+28.94	28.94
+ 100m
+32.43	01:01.37
+ 150m
+33.86	01:35.23
+ 200m
+35.37	02:10.60
