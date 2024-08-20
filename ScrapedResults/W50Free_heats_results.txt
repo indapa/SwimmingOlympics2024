@@ -1,0 +1,711 @@
+1	4	
+SWESWE
+Sarah SJOESTROEM
+Sarah
+SJOESTROEM
+30	0.64	Qualified23.85	-	970	
+Distance	Split Time	Cumulative Time
+ 50m
+23.85	23.85
+2	4	
+POLPOL
+Katarzyna WASICK
+Katarzyna
+WASICK
+32	0.64	Qualified24.27	+00.42	920	
+Distance	Split Time	Cumulative Time
+ 50m
+24.27	24.27
+3	5	
+USAUSA
+Gretchen WALSH
+Gretchen
+WALSH
+21	0.73	Qualified24.37	+00.52	909	
+Distance	Split Time	Cumulative Time
+ 50m
+24.37	24.37
+4	4	
+AUSAUS
+Shayna JACK
+Shayna
+JACK
+25	0.70	Qualified24.38	+00.53	908	
+Distance	Split Time	Cumulative Time
+ 50m
+24.38	24.38
+5	3	
+AUSAUS
+Meg HARRIS
+Meg
+HARRIS
+22	0.70	Qualified24.50	+00.65	894	
+Distance	Split Time	Cumulative Time
+ 50m
+24.50	24.50
+6	5	
+CHNCHN
+Yufei ZHANG
+Yufei
+ZHANG
+26	0.68	Qualified24.54	+00.69	890	
+Distance	Split Time	Cumulative Time
+ 50m
+24.54	24.54
+7	3	
+SWESWE
+Michelle COLEMAN
+Michelle
+COLEMAN
+30	0.68	Qualified24.55	+00.70	889	
+Distance	Split Time	Cumulative Time
+ 50m
+24.55	24.55
+8	6	
+CANCAN
+Taylor RUCK
+Taylor
+RUCK
+24	0.67	Qualified24.57	+00.72	887	
+Distance	Split Time	Cumulative Time
+ 50m
+24.57	24.57
+8	3	
+CHNCHN
+Qingfeng WU
+Qingfeng
+WU
+21	0.69	Qualified24.57	+00.72	887	
+Distance	Split Time	Cumulative Time
+ 50m
+24.57	24.57
+10	6	
+FRAFRA
+Beryl GASTALDELLO
+Beryl
+GASTALDELLO
+29	0.64	Qualified24.60	+00.75	884	
+Distance	Split Time	Cumulative Time
+ 50m
+24.60	24.60
+11	8	
+DENDEN
+Julie Kepp JENSEN
+Julie Kepp
+JENSEN
+24	0.65	Qualified24.64	+00.79	879	
+Distance	Split Time	Cumulative Time
+ 50m
+24.64	24.64
+11	8	
+SLOSLO
+Neza KLANCAR
+Neza
+KLANCAR
+24	0.68	Qualified24.64	+00.79	879	
+Distance	Split Time	Cumulative Time
+ 50m
+24.64	24.64
+13	2	
+ITAITA
+Sara CURTIS
+Sara
+CURTIS
+17	0.68	Qualified24.67	+00.82	876	
+Distance	Split Time	Cumulative Time
+ 50m
+24.67	24.67
+14	7	
+BELBEL
+Florine GASPARD
+Florine
+GASPARD
+22	0.70	Qualified24.69	+00.84	874	
+Distance	Split Time	Cumulative Time
+ 50m
+24.69	24.69
+15	6	
+GBRGBR
+Anna HOPKIN
+Anna
+HOPKIN
+28	0.68	Qualified24.72	+00.87	871	
+Distance	Split Time	Cumulative Time
+ 50m
+24.72	24.72
+15	7	
+NEDNED
+Valerie VAN ROON
+Valerie
+VAN ROON
+25	0.69	Qualified24.72	+00.87	871	
+Distance	Split Time	Cumulative Time
+ 50m
+24.72	24.72
+17	7	
+GREGRE
+Theodora DRAKOU
+Theodora
+DRAKOU
+32	0.62	24.80	+00.95	862	
+Distance	Split Time	Cumulative Time
+ 50m
+24.80	24.80
+18	1	
+NEDNED
+Kim BUSCH
+Kim
+BUSCH
+26	0.72	24.87	+01.02	855	
+Distance	Split Time	Cumulative Time
+ 50m
+24.87	24.87
+18	5	
+USAUSA
+Simone MANUEL
+Simone
+MANUEL
+28	0.68	24.87	+01.02	855	
+Distance	Split Time	Cumulative Time
+ 50m
+24.87	24.87
+20	8	
+POLPOL
+Kornelia FIEDKIEWICZ
+Kornelia
+FIEDKIEWICZ
+22	0.62	24.94	+01.09	848	
+Distance	Split Time	Cumulative Time
+ 50m
+24.94	24.94
+21	1	
+IRLIRL
+Danielle HILL
+Danielle
+HILL
+24	0.63	25.02	+01.17	840	
+Distance	Split Time	Cumulative Time
+ 50m
+25.02	25.02
+22	2	
+FRAFRA
+Melanie HENIQUE
+Melanie
+HENIQUE
+31	0.58	25.05	+01.20	837	
+Distance	Split Time	Cumulative Time
+ 50m
+25.05	25.05
+23	4	
+THATHA
+Jenjira SRISA - ARD
+Jenjira
+SRISA-ARD
+29	0.62	25.18	+01.33	824	
+Distance	Split Time	Cumulative Time
+ 50m
+25.18	25.18
+24	2	
+HUNHUN
+Petra SENANSZKY
+Petra
+SENANSZKY
+30	0.69	25.21	+01.36	821	
+Distance	Split Time	Cumulative Time
+ 50m
+25.21	25.21
+25	1	
+CROCRO
+Jana PAVALIC
+Jana
+PAVALIC
+17	0.67	25.24	+01.39	818	
+Distance	Split Time	Cumulative Time
+ 50m
+25.24	25.24
+26	5	
+ECUECU
+Anicka DELGADO
+Anicka
+DELGADO
+22	0.62	25.43	+01.58	800	
+Distance	Split Time	Cumulative Time
+ 50m
+25.43	25.43
+27	2	
+KENKEN
+Maria BRUNLEHNER
+Maria
+BRUNLEHNER
+24	0.70	25.82	+01.97	764	
+Distance	Split Time	Cumulative Time
+ 50m
+25.82	25.82
+28	3	
+BOLBOL
+Maria Jose RIBERA
+Maria Jose
+RIBERA
+27	0.62	26.07	+02.22	742	
+Distance	Split Time	Cumulative Time
+ 50m
+26.07	26.07
+29	6	
+JAMJAM
+Sabrina LYN
+Sabrina
+LYN
+20	0.65	26.08	+02.23	741	
+Distance	Split Time	Cumulative Time
+ 50m
+26.08	26.08
+30	7	
+KGZKGZ
+Elizaveta ROGOZHNIKOVA
+Elizaveta
+PECHERSKIKH
+19	0.76	26.26	+02.41	726	
+Distance	Split Time	Cumulative Time
+ 50m
+26.26	26.26
+31	7	
+BAHBAH
+Rhanishka GIBBS
+Rhanishka
+GIBBS
+18	0.58	26.27	+02.42	725	
+Distance	Split Time	Cumulative Time
+ 50m
+26.27	26.27
+32	8	
+ARUARU
+Chloe FARRO
+Chloe
+FARRO
+21	0.67	26.49	+02.64	708	
+Distance	Split Time	Cumulative Time
+ 50m
+26.49	26.49
+32	1	
+ZAMZAM
+Mia PHIRI
+Mia
+PHIRI
+21	0.66	26.49	+02.64	708	
+Distance	Split Time	Cumulative Time
+ 50m
+26.49	26.49
+34	1	
+NGRNGR
+Adaku NWANDU
+Adaku Nkem
+NWANDU
+16	0.68	26.62	+02.77	697	
+Distance	Split Time	Cumulative Time
+ 50m
+26.62	26.62
+35	5	
+AZEAZE
+Mariam SHEIKHALIZADEHKHANGHAH
+Mariam
+SHEIKHALIZADEHKHANGHAH
+20	0.75	26.76	+02.91	686	
+Distance	Split Time	Cumulative Time
+ 50m
+26.76	26.76
+36	3	
+GHAGHA
+Joselle MENSAH
+Joselle
+MENSAH
+20	0.69	26.81	+02.96	682	
+Distance	Split Time	Cumulative Time
+ 50m
+26.81	26.81
+37	2	
+FIJFIJ
+Anahira MCCUTCHEON
+Anahira
+MCCUTCHEON
+14	0.66	26.88	+03.03	677	
+Distance	Split Time	Cumulative Time
+ 50m
+26.88	26.88
+38	4	
+CAMCAM
+Sakbun APSARA KATARINA
+Apsara Katarina
+SAKBUN
+23	0.67	26.90	+03.05	676	
+Distance	Split Time	Cumulative Time
+ 50m
+26.90	26.90
+39	8	
+MADMAD
+Antsa RABEJAONA
+Antsa
+RABEJAONA
+22	0.63	27.12	+03.27	659	
+Distance	Split Time	Cumulative Time
+ 50m
+27.12	27.12
+40	3	
+MNEMNE
+Jovana KULJACA
+Jovana
+KULJACA
+20	0.68	27.19	+03.34	654	
+Distance	Split Time	Cumulative Time
+ 50m
+27.19	27.19
+41	7	
+ERIERI
+Christina RACH
+Christina
+RACH
+16	0.74	27.20	+03.35	654	
+Distance	Split Time	Cumulative Time
+ 50m
+27.20	27.20
+42	4	
+VINVIN
+Kennice Aphenie GREENE
+Kennice Aphenie
+GREENE
+17	0.66	27.23	+03.38	651	
+Distance	Split Time	Cumulative Time
+ 50m
+27.23	27.23
+43	6	
+KOSKOS
+Hana BEIQI
+Hana
+BEIQI
+15	0.71	27.34	+03.49	644	
+Distance	Split Time	Cumulative Time
+ 50m
+27.34	27.34
+44	5	
+PNGPNG
+Georgia-Leigh VELE
+Georgia-Leigh
+VELE
+25	0.78	27.61	+03.76	625	
+Distance	Split Time	Cumulative Time
+ 50m
+27.61	27.61
+45	2	
+BENBEN
+Ionnah Eliane DOUILLET
+Ionnah Eliane
+DOUILLET
+16	0.70	27.64	+03.79	623	
+Distance	Split Time	Cumulative Time
+ 50m
+27.64	27.64
+46	4	
+GABGAB
+Noelie Annette LACOUR
+Noelie Annette
+LACOUR
+17	0.68	27.68	+03.83	620	
+Distance	Split Time	Cumulative Time
+ 50m
+27.68	27.68
+47	6	
+SEYSEY
+Khema ELIZABETH
+Khema
+ELIZABETH
+19	0.73	28.18	+04.33	588	
+Distance	Split Time	Cumulative Time
+ 50m
+28.18	28.18
+48	1	
+SAMSAM
+Kaiya BROWN
+Kaiya
+BROWN
+20	0.71	28.31	+04.46	580	
+Distance	Split Time	Cumulative Time
+ 50m
+28.31	28.31
+49	8	
+TANTAN
+Sophia LATIFF
+Sophia
+LATIFF
+17	0.75	28.42	+04.57	573	
+Distance	Split Time	Cumulative Time
+ 50m
+28.42	28.42
+50	3	
+BRUBRU
+Hayley WONG
+Hayley
+WONG
+16	0.65	28.52	+04.67	567	
+Distance	Split Time	Cumulative Time
+ 50m
+28.52	28.52
+51	5	
+TGATGA
+Noelani Malia DAY
+Noelani Malia
+DAY
+21	0.73	28.60	+04.75	562	
+Distance	Split Time	Cumulative Time
+ 50m
+28.60	28.60
+52	6	
+FSMFSM
+Kestra KIHLENG
+Kestra
+KIHLENG
+20	0.61	28.81	+04.96	550	
+Distance	Split Time	Cumulative Time
+ 50m
+28.81	28.81
+53	2	
+TJKTJK
+Ekaterina BORDACHYOVA
+Ekaterina
+BORDACHYOVA
+21	0.67	28.85	+05.00	548	
+Distance	Split Time	Cumulative Time
+ 50m
+28.85	28.85
+54	8	
+VANVAN
+Loane RUSSET
+Loane
+RUSSET
+18	0.69	28.86	+05.01	547	
+Distance	Split Time	Cumulative Time
+ 50m
+28.86	28.86
+55	7	
+MAWMAW
+Tayamika CHANG'ANAMUNO
+Tayamika
+CHANGANAMUNO
+24	0.64	29.32	+05.47	522	
+Distance	Split Time	Cumulative Time
+ 50m
+29.32	29.32
+56	1	
+MDVMDV
+Aishath Ulya SHAIG
+Aishath Ulya
+SHAIG
+21	0.52	29.39	+05.54	518	
+Distance	Split Time	Cumulative Time
+ 50m
+29.39	29.39
+57	8	
+COMCOM
+Maesha SAADI
+Maesha
+SAADI
+17	0.69	29.60	+05.75	507	
+Distance	Split Time	Cumulative Time
+ 50m
+29.60	29.60
+58	4	
+BDIBDI
+Lois Eliora IRISHURA
+Lois Eliora
+IRISHURA
+14	0.67	29.63	+05.78	505	
+Distance	Split Time	Cumulative Time
+ 50m
+29.63	29.63
+59	3	
+HAIHAI
+Mayah CHOULOUTE
+Mayah
+CHOULOUTE
+14	0.66	29.78	+05.93	498	
+Distance	Split Time	Cumulative Time
+ 50m
+29.78	29.78
+60	1	
+DMADMA
+Jasmine SCHOFIELD
+Jasmine
+SCHOFIELD
+18	0.61	29.91	+06.06	491	
+Distance	Split Time	Cumulative Time
+ 50m
+29.91	29.91
+61	2	
+SURSUR
+Kaelyn Ciara Suryanti DJOPARTO
+Kaelyn Ciara Suryanti
+DJOPARTO
+18	0.64	29.99	+06.14	487	
+Distance	Split Time	Cumulative Time
+ 50m
+29.99	29.99
+62	4	
+MHLMHL
+Kayla HEPLER
+Kayla
+HEPLER
+22	0.63	30.33	+06.48	471	
+Distance	Split Time	Cumulative Time
+ 50m
+30.33	30.33
+62	7	
+BURBUR
+Iman KOURAOGO
+Iman
+KOURAOGO
+18	0.72	30.33	+06.48	471	
+Distance	Split Time	Cumulative Time
+ 50m
+30.33	30.33
+64	8	
+PLWPLW
+Yuri HOSEI
+Yuri
+HOSEI
+19	0.70	30.52	+06.67	462	
+Distance	Split Time	Cumulative Time
+ 50m
+30.52	30.52
+64	6	
+BANBAN
+Mst Sonia KHATUN
+Mst Sonia
+KHATUN
+24	0.70	30.52	+06.67	462	
+Distance	Split Time	Cumulative Time
+ 50m
+30.52	30.52
+66	6	
+CMRCMR
+Grace Manuela NGUELO'O
+Grace Manuela
+NGUELO'O
+18	0.77	30.98	+07.13	442	
+Distance	Split Time	Cumulative Time
+ 50m
+30.98	30.98
+67	5	
+SOLSOL
+Isabella MILLAR
+Isabella
+MILLAR
+16	0.68	31.32	+07.47	428	
+Distance	Split Time	Cumulative Time
+ 50m
+31.32	31.32
+68	5	
+ETHETH
+Lina Alemayehu SELO
+Lina Alemayehu
+SELO
+23	0.76	31.87	+08.02	406	
+Distance	Split Time	Cumulative Time
+ 50m
+31.87	31.87
+69	3	
+GUIGUI
+Djenabou Jolie BAH
+Djenabou Jolie
+BAH
+14	0.62	31.90	+08.05	405	
+Distance	Split Time	Cumulative Time
+ 50m
+31.90	31.90
+70	1	
+RWARWA
+Lidwine UMUHOZA UWASE
+Lidwine
+UMUHOZA UWASE
+25	0.71	32.03	+08.18	400	
+Distance	Split Time	Cumulative Time
+ 50m
+32.03	32.03
+71	7	
+TLSTLS
+Imelda XIMENES BELO
+Imelda
+XIMENES BELO
+25	0.68	32.48	+08.63	384	
+Distance	Split Time	Cumulative Time
+ 50m
+32.48	32.48
+72	2	
+TOGTOG
+Adele Sodalo Agnes GAITOU
+Adele Sodalo Agnes
+GAITOU
+17	0.83	32.50	+08.65	383	
+Distance	Split Time	Cumulative Time
+ 50m
+32.50	32.50
+73	3	
+CGOCGO
+Vanessa BOBIMBO
+Vanessa
+BOBIMBO
+24	0.99	33.01	+09.16	365	
+Distance	Split Time	Cumulative Time
+ 50m
+33.01	33.01
+74	5	
+NIGNIG
+Salima AHMADOU YOUSSOUFOU
+Salima
+AHMADOU YOUSSOUFOU
+20	0.68	33.66	+09.81	345	
+Distance	Split Time	Cumulative Time
+ 50m
+33.66	33.66
+75	4	
+DJIDJI
+Nina AMISON
+Nina
+AMISON
+20	0.75	33.69	+09.84	344	
+Distance	Split Time	Cumulative Time
+ 50m
+33.69	33.69
+76	6	
+CAFCAF
+Tracy Marine ANDET
+Tracy Marine
+ANDET
+18	0.74	34.95	+11.10	308	
+Distance	Split Time	Cumulative Time
+ 50m
+34.95	34.95
+77	2	
+MLIMLI
+Aichata DIABATE
+Aichata
+DIABATE
+18	0.84	37.55	+13.70	248	
+Distance	Split Time	Cumulative Time
+ 50m
+37.55	37.55
+78	7	
+SLESLE
+Olamide SAM
+Olamide
+SAM
+24	0.83	42.87	+19.02	167	
+Distance	Split Time	Cumulative Time
+ 50m
+42.87	42.87
+79	1	
+CODCOD
+Divine MIANSADI MPOLO
+Divine
+MIANSADI MPOLO
+19	0.76	44.10	+20.25	153	
+Distance	Split Time	Cumulative Time
+ 50m
+44.10	44.10

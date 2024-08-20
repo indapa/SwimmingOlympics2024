@@ -1,0 +1,72 @@
+1	4	
+SWESWE
+Sarah SJOESTROEM
+Sarah
+SJOESTROEM
+30	0.61	23.71	-	987	
+Distance	Split Time	Cumulative Time
+ 50m
+23.71	23.71
+2	7	
+AUSAUS
+Meg HARRIS
+Meg
+HARRIS
+22	0.68	23.97	+00.26	955	
+Distance	Split Time	Cumulative Time
+ 50m
+23.97	23.97
+3	6	
+CHNCHN
+Yufei ZHANG
+Yufei
+ZHANG
+26	0.65	24.20	+00.49	928	
+Distance	Split Time	Cumulative Time
+ 50m
+24.20	24.20
+4	5	
+USAUSA
+Gretchen WALSH
+Gretchen
+WALSH
+21	0.75	24.21	+00.50	927	
+Distance	Split Time	Cumulative Time
+ 50m
+24.21	24.21
+5	3	
+POLPOL
+Katarzyna WASICK
+Katarzyna
+WASICK
+32	0.67	24.33	+00.62	913	
+Distance	Split Time	Cumulative Time
+ 50m
+24.33	24.33
+6	8	
+SLOSLO
+Neza KLANCAR
+Neza
+KLANCAR
+24	0.68	24.35	+00.64	911	
+Distance	Split Time	Cumulative Time
+ 50m
+24.35	24.35
+7	1	
+CHNCHN
+Qingfeng WU
+Qingfeng
+WU
+21	0.66	24.37	+00.66	909	
+Distance	Split Time	Cumulative Time
+ 50m
+24.37	24.37
+8	2	
+AUSAUS
+Shayna JACK
+Shayna
+JACK
+25	0.71	24.39	+00.68	907	
+Distance	Split Time	Cumulative Time
+ 50m
+24.39	24.39

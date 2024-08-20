@@ -1,0 +1,144 @@
+1	4	
+SWESWE
+Sarah SJOESTROEM
+Sarah
+SJOESTROEM
+30	0.64	Qualified23.66  -	993	
+Distance	Split Time	Cumulative Time
+ 50m
+23.66	23.66
+2	5	
+USAUSA
+Gretchen WALSH
+Gretchen
+WALSH
+21	0.74	Qualified24.17	+00.51	932	
+Distance	Split Time	Cumulative Time
+ 50m
+24.17	24.17
+3	4	
+POLPOL
+Katarzyna WASICK
+Katarzyna
+WASICK
+32	0.66	Qualified24.23	+00.57	925	
+Distance	Split Time	Cumulative Time
+ 50m
+24.23	24.23
+4	3	
+CHNCHN
+Yufei ZHANG
+Yufei
+ZHANG
+26	0.67	Qualified24.24	+00.58	924	
+Distance	Split Time	Cumulative Time
+ 50m
+24.24	24.24
+5	5	
+AUSAUS
+Shayna JACK
+Shayna
+JACK
+25	0.70	Qualified24.29	+00.63	918	
+Distance	Split Time	Cumulative Time
+ 50m
+24.29	24.29
+6	3	
+AUSAUS
+Meg HARRIS
+Meg
+HARRIS
+22	0.70	Qualified24.33	+00.67	913	
+Distance	Split Time	Cumulative Time
+ 50m
+24.33	24.33
+7	7	
+SLOSLO
+Neza KLANCAR
+Neza
+KLANCAR
+24	0.67	Qualified24.40	+00.74	905	
+Distance	Split Time	Cumulative Time
+ 50m
+24.40	24.40
+7	6	
+CHNCHN
+Qingfeng WU
+Qingfeng
+WU
+21	0.70	Qualified24.40	+00.74	905	
+Distance	Split Time	Cumulative Time
+ 50m
+24.40	24.40
+9	6	
+SWESWE
+Michelle COLEMAN
+Michelle
+COLEMAN
+30	0.69	24.47	+00.81	898	
+Distance	Split Time	Cumulative Time
+ 50m
+24.47	24.47
+10	8	
+GBRGBR
+Anna HOPKIN
+Anna
+HOPKIN
+28	0.68	24.50	+00.84	894	
+Distance	Split Time	Cumulative Time
+ 50m
+24.50	24.50
+11	2	
+FRAFRA
+Beryl GASTALDELLO
+Beryl
+GASTALDELLO
+29	0.62	24.66	+01.00	877	
+Distance	Split Time	Cumulative Time
+ 50m
+24.66	24.66
+12	8	
+NEDNED
+Valerie VAN ROON
+Valerie
+VAN ROON
+25	0.71	24.67	+01.01	876	
+Distance	Split Time	Cumulative Time
+ 50m
+24.67	24.67
+13	2	
+CANCAN
+Taylor RUCK
+Taylor
+RUCK
+24	0.66	24.72	+01.06	871	
+Distance	Split Time	Cumulative Time
+ 50m
+24.72	24.72
+14	1	
+ITAITA
+Sara CURTIS
+Sara
+CURTIS
+17	0.68	24.77	+01.11	865	
+Distance	Split Time	Cumulative Time
+ 50m
+24.77	24.77
+15	1	
+BELBEL
+Florine GASPARD
+Florine
+GASPARD
+22	0.70	24.82	+01.16	860	
+Distance	Split Time	Cumulative Time
+ 50m
+24.82	24.82
+16	7	
+DENDEN
+Julie Kepp JENSEN
+Julie Kepp
+JENSEN
+24	0.66	24.98	+01.32	844	
+Distance	Split Time	Cumulative Time
+ 50m
+24.98	24.98
