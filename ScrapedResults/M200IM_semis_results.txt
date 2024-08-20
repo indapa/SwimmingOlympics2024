@@ -1,0 +1,240 @@
+1	5	
+FRAFRA
+Leon MARCHAND
+Leon
+MARCHAND
+22	0.65	Qualified1:56.31	-	941	
+Distance	Split Time	Cumulative Time
+ 50m
+24.79	24.79
+ 100m
+29.20	53.99
+ 150m
+33.21	01:27.20
+ 200m
+29.11	01:56.31
+2	2	
+USAUSA
+Carson FOSTER
+Carson
+FOSTER
+22	0.64	Qualified1:56.37	+00.06	940	
+Distance	Split Time	Cumulative Time
+ 50m
+24.92	24.92
+ 100m
+29.09	54.01
+ 150m
+34.14	01:28.15
+ 200m
+28.22	01:56.37
+3	4	
+GBRGBR
+Duncan SCOTT
+Duncan
+SCOTT
+27	0.65	Qualified1:56.49	+00.18	937	
+Distance	Split Time	Cumulative Time
+ 50m
+25.02	25.02
+ 100m
+29.80	54.82
+ 150m
+33.85	01:28.67
+ 200m
+27.82	01:56.49
+4	3	
+CHNCHN
+Shun WANG
+Shun
+WANG
+30	0.64	Qualified1:56.54	+00.23	936	
+Distance	Split Time	Cumulative Time
+ 50m
+24.70	24.70
+ 100m
+29.54	54.24
+ 150m
+33.99	01:28.23
+ 200m
+28.31	01:56.54
+5	4	
+JPNJPN
+Daiya SETO
+Daiya
+SETO
+30	0.61	Qualified1:56.59	+00.28	934	
+Distance	Split Time	Cumulative Time
+ 50m
+24.90	24.90
+ 100m
+29.90	54.80
+ 150m
+33.27	01:28.07
+ 200m
+28.52	01:56.59
+6	6	
+GBRGBR
+Tom DEAN
+Tom
+DEAN
+24	0.67	Qualified1:56.92	+00.61	926	
+Distance	Split Time	Cumulative Time
+ 50m
+25.27	25.27
+ 100m
+30.03	55.30
+ 150m
+33.83	01:29.13
+ 200m
+27.79	01:56.92
+7	5	
+ITAITA
+Alberto RAZZETTI
+Alberto
+RAZZETTI
+25	0.64	Qualified1:57.10	+00.79	922	
+Distance	Split Time	Cumulative Time
+ 50m
+24.95	24.95
+ 100m
+30.57	55.52
+ 150m
+33.45	01:28.97
+ 200m
+28.13	01:57.10
+8	1	
+CANCAN
+Finlay KNOX
+Finlay
+KNOX
+23	0.69	Qualified1:57.76	+01.45	907	
+Distance	Split Time	Cumulative Time
+ 50m
+24.78	24.78
+ 100m
+29.77	54.55
+ 150m
+34.63	01:29.18
+ 200m
+28.58	01:57.76
+9	3	
+USAUSA
+Shaine CASAS
+Shaine
+CASAS
+24	0.64	1:57.82	+01.51	905	
+Distance	Split Time	Cumulative Time
+ 50m
+24.43	24.43
+ 100m
+30.32	54.75
+ 150m
+34.08	01:28.83
+ 200m
+28.99	01:57.82
+10	7	
+AUSAUS
+William Campbell PETRIC
+William Campbell
+PETRIC
+19	0.65	1:58.13	+01.82	898	
+Distance	Split Time	Cumulative Time
+ 50m
+25.60	25.60
+ 100m
+30.53	56.13
+ 150m
+33.59	01:29.72
+ 200m
+28.41	01:58.13
+11	1	
+AUSAUS
+Thomas NEILL
+Thomas
+NEILL
+22	0.70	1:58.77	+02.46	884	
+Distance	Split Time	Cumulative Time
+ 50m
+25.48	25.48
+ 100m
+29.92	55.40
+ 150m
+35.11	01:30.51
+ 200m
+28.26	01:58.77
+12	6	
+ISRISR
+Ron POLONSKY
+Ron
+POLONSKY
+23	0.72	1:58.89	+02.58	881	
+Distance	Split Time	Cumulative Time
+ 50m
+25.86	25.86
+ 100m
+29.49	55.35
+ 150m
+33.80	01:29.15
+ 200m
+29.74	01:58.89
+13	2	
+SUISUI
+Jeremy DESPLANCHES
+Jeremy
+DESPLANCHES
+29	0.63	1:58.93	+02.62	880	
+Distance	Split Time	Cumulative Time
+ 50m
+24.99	24.99
+ 100m
+30.30	55.29
+ 150m
+33.60	01:28.89
+ 200m
+30.04	01:58.93
+14	7	
+NZLNZL
+Lewis CLAREBURT
+Lewis
+CLAREBURT
+25	0.70	2:00.06	+03.75	856	
+Distance	Split Time	Cumulative Time
+ 50m
+25.60	25.60
+ 100m
+30.04	55.64
+ 150m
+36.19	01:31.83
+ 200m
+28.23	02:00.06
+15	8	
+ALGALG
+Jaouad SYOUD
+Jaouad
+SYOUD
+24	0.77	2:00.13	+03.82	854	
+Distance	Split Time	Cumulative Time
+ 50m
+25.68	25.68
+ 100m
+30.44	56.12
+ 150m
+34.81	01:30.93
+ 200m
+29.20	02:00.13
+16	8	
+GREGRE
+Apostolos PAPASTAMOS
+Apostolos
+PAPASTAMOS
+23	0.68	2:01.02	+04.71	835	
+Distance	Split Time	Cumulative Time
+ 50m
+25.82	25.82
+ 100m
+30.47	56.29
+ 150m
+35.45	01:31.74
+ 200m
+29.28	02:01.02

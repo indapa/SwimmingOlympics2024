@@ -1,0 +1,90 @@
+1	5	
+CANCAN
+Summer MCINTOSH
+Summer
+MCINTOSH
+17	0.73	2:06.56 -	989	
+Distance	Split Time	Cumulative Time
+ 50m
+26.80	26.80
+ 100m
+31.80	58.60
+ 150m
+37.53	01:36.13
+ 200m
+30.43	02:06.56
+2	3	
+USAUSA
+Kate DOUGLASS
+Kate
+DOUGLASS
+22	0.68	2:06.92	+00.36	981	
+Distance	Split Time	Cumulative Time
+ 50m
+26.73	26.73
+ 100m
+34.32	01:01.05
+ 150m
+35.75	01:36.80
+ 200m
+30.12	02:06.92
+3	1	
+AUSAUS
+Kaylee MCKEOWN
+Kaylee
+MCKEOWN
+23	0.65	2:08.08	+01.52	954	
+Distance	Split Time	Cumulative Time
+ 50m
+27.59	27.59
+ 100m
+31.68	59.27
+ 150m
+37.77	01:37.04
+ 200m
+31.04	02:08.08
+4	7	
+CHNCHN
+Yiting YU
+Yiting
+YU
+18	0.67	2:08.49	+01.93	945	
+Distance	Split Time	Cumulative Time
+ 50m
+27.31	27.31
+ 100m
+32.74	01:00.05
+ 150m
+37.37	01:37.42
+ 200m
+31.07	02:08.49
+5	6	
+GBRGBR
+Abbie WOOD
+Abbie
+WOOD
+25	0.69	2:09.51	+02.95	923	
+Distance	Split Time	Cumulative Time
+ 50m
+27.43	27.43
+ 100m
+32.78	01:00.21
+ 150m
+37.87	01:38.08
+ 200m
+31.43	02:09.51
+6	2	
+CANCAN
+Sydney PICKREM
+Sydney
+PICKREM
+27	0.70	2:09.74	+03.18	918	
+Distance	Split Time	Cumulative Time
+ 50m
+27.89	27.89
+ 100m
+32.47	01:00.36
+ 150m
+37.19	01:37.55
+ 200m
+32.19	02:09.74

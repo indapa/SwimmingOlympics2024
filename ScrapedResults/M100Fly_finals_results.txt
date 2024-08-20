@@ -1,0 +1,88 @@
+1	4	
+HUNHUN
+Kristof MILAK
+Kristof
+MILAK
+24	0.65	49.90	-	973	
+Distance	Split Time	Cumulative Time
+ 50m
+23.40	23.40
+ 100m
+26.50	49.90
+2	3	
+CANCAN
+Josh LIENDO
+Josh
+LIENDO
+21	0.62	49.99	+00.09	967	
+Distance	Split Time	Cumulative Time
+ 50m
+23.24	23.24
+ 100m
+26.75	49.99
+3	7	
+CANCAN
+Ilya KHARUN
+Ilya
+KHARUN
+19	0.64	50.45	+00.55	941	
+Distance	Split Time	Cumulative Time
+ 50m
+23.73	23.73
+ 100m
+26.72	50.45
+4	2	
+SUISUI
+Noe PONTI
+Noe
+PONTI
+23	0.63	50.55	+00.65	936	
+Distance	Split Time	Cumulative Time
+ 50m
+23.70	23.70
+ 100m
+26.85	50.55
+5	5	
+FRAFRA
+Maxime GROUSSET
+Maxime
+GROUSSET
+25	0.61	50.75	+00.85	925	
+Distance	Split Time	Cumulative Time
+ 50m
+23.26	23.26
+ 100m
+27.49	50.75
+6	6	
+NEDNED
+Nyls KORSTANJE
+Nyls
+KORSTANJE
+25	0.61	50.83	+00.93	920	
+Distance	Split Time	Cumulative Time
+ 50m
+23.23	23.23
+ 100m
+27.60	50.83
+7	1	
+AUSAUS
+Matthew TEMPLE
+Matthew
+TEMPLE
+25	0.63	51.10	+01.20	906	
+Distance	Split Time	Cumulative Time
+ 50m
+23.59	23.59
+ 100m
+27.51	51.10
+8	8	
+JPNJPN
+Naoki MIZUNUMA
+Naoki
+MIZUNUMA
+27	0.68	51.11	+01.21	905	
+Distance	Split Time	Cumulative Time
+ 50m
+24.03	24.03
+ 100m
+27.08	51.11

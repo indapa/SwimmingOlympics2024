@@ -1,405 +1,440 @@
-1	4	
-BULBUL
-Petar Petrov MITSIN
-Petar Petrov
-MITSIN
-18	0.64	1:57.03	-	838	
-Distance	Split Time	Cumulative Time
- 50m
-26.08	26.08
- 100m
-29.58	55.66
- 150m
-30.14	01:25.80
- 200m
-31.23	01:57.03
-2	5	
-AZEAZE
-Ramil VALIZADE
-Ramil
-VALIZADA
-20	0.70	1:59.77	+02.74	781	
-Distance	Split Time	Cumulative Time
- 50m
-26.61	26.61
- 100m
-30.37	56.98
- 150m
-30.81	01:27.79
- 200m
-31.98	01:59.77
-3	3	
-EOREOR
-Matin BALSINI
-Matin
-BALSINI
-23	0.68	2:00.73	+03.70	763	
-Distance	Split Time	Cumulative Time
- 50m
-26.13	26.13
- 100m
-30.04	56.17
- 150m
-30.98	01:27.15
- 200m
-33.58	02:00.73
-4	6	
-NCANCA
-Gerald HERNANDEZ
-Gerald
-HERNANDEZ
-19	0.76	2:06.80	+09.77	658	
-Distance	Split Time	Cumulative Time
- 50m
-27.00	27.00
- 100m
-30.43	57.43
- 150m
-33.09	01:30.52
- 200m
-36.28	02:06.80
 1	5	
-CANCAN
-Ilya KHARUN
-Ilya
-KHARUN
-19	0.65	Qualified1:54.06	-	905	
-Distance	Split Time	Cumulative Time
- 50m
-25.19	25.19
- 100m
-29.03	54.22
- 150m
-29.92	01:24.14
- 200m
-29.92	01:54.06
-2	2	
-POLPOL
-Michal CHMIELEWSKI
-Michal
-CHMIELEWSKI
-20	0.64	Qualified1:55.28	+01.22	876	
-Distance	Split Time	Cumulative Time
- 50m
-26.14	26.14
- 100m
-29.43	55.57
- 150m
-29.52	01:25.09
- 200m
-30.19	01:55.28
-3	3	
-TPETPE
-Kuan-Hung WANG
-Kuan-Hung
-WANG
-22	0.62	Qualified1:55.32	+01.26	875	
-Distance	Split Time	Cumulative Time
- 50m
-25.45	25.45
- 100m
-29.45	54.90
- 150m
-29.80	01:24.70
- 200m
-30.62	01:55.32
-4	1	
-ESTEST
-Kregor ZIRK
-Kregor
-ZIRK
-25	0.64	Qualified1:55.52	+01.46	871	
-Distance	Split Time	Cumulative Time
- 50m
-25.85	25.85
- 100m
-28.99	54.84
- 150m
-29.92	01:24.76
- 200m
-30.76	01:55.52
-5	6	
-USAUSA
-Luca URLANDO
-Luca
-URLANDO
-22	0.67	1:56.18	+02.12	856	
-Distance	Split Time	Cumulative Time
- 50m
-25.59	25.59
- 100m
-28.34	53.93
- 150m
-29.84	01:23.77
- 200m
-32.41	01:56.18
-6	7	
-RSARSA
-Matthew SATES
-Matthew
-SATES
-21	0.65	1:57.04	+02.98	837	
-Distance	Split Time	Cumulative Time
- 50m
-25.87	25.87
- 100m
-29.33	55.20
- 150m
-30.17	01:25.37
- 200m
-31.67	01:57.04
-7	8	
-NZLNZL
-Lewis CLAREBURT
-Lewis
-CLAREBURT
-25	0.70	1:57.12	+03.06	836	
-Distance	Split Time	Cumulative Time
- 50m
-26.31	26.31
- 100m
-29.54	55.85
- 150m
-30.66	01:26.51
- 200m
-30.61	01:57.12
-8	4	
-JPNJPN
-Tomoru HONDA
-Tomoru
-HONDA
-22	0.65	1:57.30	+03.24	832	
-Distance	Split Time	Cumulative Time
- 50m
-25.77	25.77
- 100m
-29.75	55.52
- 150m
-30.59	01:26.11
- 200m
-31.19	01:57.30
-1	4	
 HUNHUN
 Kristof MILAK
 Kristof
 MILAK
-24	0.66	Qualified1:53.92	-	908	
+24	0.68	Qualified50.19	-	956	
 Distance	Split Time	Cumulative Time
  50m
-24.61	24.61
+23.57	23.57
  100m
-28.84	53.45
- 150m
-29.82	01:23.27
- 200m
-30.65	01:53.92
-2	6	
+26.62	50.19
+2	4	
+CANCAN
+Josh LIENDO
+Josh
+LIENDO
+21	0.63	Qualified50.55	+00.36	936	
+Distance	Split Time	Cumulative Time
+ 50m
+23.62	23.62
+ 100m
+26.93	50.55
+3	4	
+FRAFRA
+Maxime GROUSSET
+Maxime
+GROUSSET
+25	0.63	Qualified50.65	+00.46	930	
+Distance	Split Time	Cumulative Time
+ 50m
+23.27	23.27
+ 100m
+27.38	50.65
+3	4	
 SUISUI
 Noe PONTI
 Noe
 PONTI
-23	0.66	Qualified1:54.77	+00.85	888	
+23	0.66	Qualified50.65	+00.46	930	
 Distance	Split Time	Cumulative Time
  50m
-25.04	25.04
+23.98	23.98
  100m
-28.96	54.00
- 150m
-30.60	01:24.60
- 200m
-30.17	01:54.77
-3	2	
-AUTAUT
-Martin ESPERNBERGER
-Martin
-ESPERNBERGER
-20	0.70	Qualified1:55.19	+01.27	878	
+26.67	50.65
+5	2	
+CANCAN
+Ilya KHARUN
+Ilya
+KHARUN
+19	0.65	Qualified50.71	+00.52	927	
 Distance	Split Time	Cumulative Time
  50m
-25.74	25.74
+23.80	23.80
  100m
-29.30	55.04
- 150m
-29.61	01:24.65
- 200m
-30.54	01:55.19
-4	5	
+26.91	50.71
+6	5	
 USAUSA
-Thomas HEILMAN
-Thomas
-HEILMAN
-17	0.69	Qualified1:55.74	+01.82	866	
+Caeleb DRESSEL
+Caeleb
+DRESSEL
+27	0.66	Qualified50.83	+00.64	920	
 Distance	Split Time	Cumulative Time
  50m
-25.41	25.41
+23.75	23.75
  100m
-29.01	54.42
- 150m
-30.23	01:24.65
- 200m
-31.09	01:55.74
-5	3	
-ITAITA
-Giacomo CARINI
-Giacomo
-CARINI
-27	0.62	Qualified1:55.81	+01.89	864	
-Distance	Split Time	Cumulative Time
- 50m
-25.67	25.67
- 100m
-28.91	54.58
- 150m
-30.27	01:24.85
- 200m
-30.96	01:55.81
-6	7	
-ESPESP
-Arbidel GONZALEZ
-Arbidel
-GONZALEZ
-21	0.67	Qualified1:55.86	+01.94	863	
-Distance	Split Time	Cumulative Time
- 50m
-26.48	26.48
- 100m
-29.28	55.76
- 150m
-29.71	01:25.47
- 200m
-30.39	01:55.86
-7	1	
+27.08	50.83
+7	5	
 AUSAUS
 Matthew TEMPLE
 Matthew
 TEMPLE
-25	0.66	1:57.39	+03.47	830	
+25	0.63	Qualified50.89	+00.70	917	
 Distance	Split Time	Cumulative Time
  50m
-25.84	25.84
+23.91	23.91
  100m
-30.12	55.96
- 150m
-30.80	01:26.76
- 200m
-30.63	01:57.39
-8	8	
-UKRUKR
-Denys KESIL
-Denys
-KESIL
-23	0.67	1:57.72	+03.80	823	
+26.98	50.89
+8	3	
+NEDNED
+Nyls KORSTANJE
+Nyls
+KORSTANJE
+25	0.64	Qualified51.17	+00.98	902	
 Distance	Split Time	Cumulative Time
  50m
-25.91	25.91
+23.12	23.12
  100m
-29.74	55.65
- 150m
-30.54	01:26.19
- 200m
-31.53	01:57.72
-1	2	
-ITAITA
-Alberto RAZZETTI
-Alberto
-RAZZETTI
-25	0.64	Qualified1:54.78	-	888	
-Distance	Split Time	Cumulative Time
- 50m
-25.41	25.41
- 100m
-28.92	54.33
- 150m
-29.86	01:24.19
- 200m
-30.59	01:54.78
-2	4	
-FRAFRA
-Leon MARCHAND
-Leon
-MARCHAND
-22	0.66	Qualified1:55.26	+00.48	877	
-Distance	Split Time	Cumulative Time
- 50m
-25.23	25.23
- 100m
-29.25	54.48
- 150m
-30.01	01:24.49
- 200m
-30.77	01:55.26
-3	5	
+28.05	51.17
+9	6	
 POLPOL
-Krzysztof CHMIELEWSKI
-Krzysztof
-CHMIELEWSKI
-20	0.63	Qualified1:55.42	+00.64	873	
+Jakub MAJERSKI
+Jakub
+MAJERSKI
+23	0.68	Qualified51.18	+00.99	901	
 Distance	Split Time	Cumulative Time
  50m
-25.63	25.63
+23.84	23.84
  100m
-29.28	54.91
- 150m
-29.79	01:24.70
- 200m
-30.72	01:55.42
-4	3	
+27.34	51.18
+10	6	
+ISRISR
+Gal COHEN GROUMI
+Gal
+COHEN GROUMI
+22	0.60	Qualified51.30	+01.11	895	
+Distance	Split Time	Cumulative Time
+ 50m
+24.07	24.07
+ 100m
+27.23	51.30
+11	1	
+AUSAUS
+Ben ARMBRUSTER
+Ben
+ARMBRUSTER
+22	0.64	Qualified51.33	+01.14	894	
+Distance	Split Time	Cumulative Time
+ 50m
+23.66	23.66
+ 100m
+27.67	51.33
+12	6	
 JPNJPN
-Genki TERAKADO
-Genki
-TERAKADO
-21	0.63	Qualified1:55.82	+01.04	864	
+Katsuhiro MATSUMOTO
+Katsuhiro
+MATSUMOTO
+27	0.67	Qualified51.43	+01.24	888	
 Distance	Split Time	Cumulative Time
  50m
-25.48	25.48
+24.18	24.18
  100m
-29.01	54.49
- 150m
-30.14	01:24.63
- 200m
-31.19	01:55.82
-5	7	
-KORKOR
-Minseop KIM
-Minseop
-KIM
-20	0.60	Qualified1:56.02	+01.24	860	
+27.25	51.43
+13	7	
+AUTAUT
+Simon BUCHER
+Simon
+BUCHER
+24	0.60	Qualified51.55	+01.36	882	
 Distance	Split Time	Cumulative Time
  50m
-25.41	25.41
+23.84	23.84
  100m
-29.16	54.57
- 150m
-29.97	01:24.54
- 200m
-31.48	01:56.02
-6	6	
+27.71	51.55
+14	3	
 HUNHUN
-Richard MARTON
-Richard
-MARTON
-24	0.61	Qualified1:56.03	+01.25	859	
+Hubert KOS
+Hubert
+KOS
+21	0.61	Qualified51.58	+01.39	881	
+Distance	Split Time	Cumulative Time
+ 50m
+24.16	24.16
+ 100m
+27.42	51.58
+15	1	
+JPNJPN
+Naoki MIZUNUMA
+Naoki
+MIZUNUMA
+27	0.68	Qualified51.62	+01.43	879	
+Distance	Split Time	Cumulative Time
+ 50m
+24.20	24.20
+ 100m
+27.42	51.62
+15	7	
+FRAFRA
+Clement SECCHI
+Clement
+SECCHI
+24	0.58	Qualified51.62	+01.43	879	
+Distance	Split Time	Cumulative Time
+ 50m
+23.83	23.83
+ 100m
+27.79	51.62
+17	8	
+BULBUL
+Josif MILADINOV
+Josif
+MILADINOV
+21	0.65	51.77	+01.58	871	
+Distance	Split Time	Cumulative Time
+ 50m
+23.95	23.95
+ 100m
+27.82	51.77
+18	3	
+USAUSA
+Thomas HEILMAN
+Thomas
+HEILMAN
+17	0.66	51.82	+01.63	868	
+Distance	Split Time	Cumulative Time
+ 50m
+24.26	24.26
+ 100m
+27.56	51.82
+19	6	
+CHNCHN
+Jiajun SUN
+Jiajun
+SUN
+24	0.61	51.85	+01.66	867	
+Distance	Split Time	Cumulative Time
+ 50m
+23.97	23.97
+ 100m
+27.88	51.85
+20	2	
+PORPOR
+Diogo MATOS RIBEIRO
+Diogo
+MATOS RIBEIRO
+19	0.64	51.90	+01.71	864	
+Distance	Split Time	Cumulative Time
+ 50m
+24.08	24.08
+ 100m
+27.82	51.90
+21	2	
+ISRISR
+Tomer FRANKEL
+Tomer
+FRANKEL
+23	0.59	51.94	+01.75	862	
+Distance	Split Time	Cumulative Time
+ 50m
+24.16	24.16
+ 100m
+27.78	51.94
+22	8	
+BRABRA
+Kayky MOTA
+Kayky
+MOTA
+25	0.63	52.11	+01.92	854	
+Distance	Split Time	Cumulative Time
+ 50m
+24.24	24.24
+ 100m
+27.87	52.11
+23	8	
+GBRGBR
+James GUY
+James
+GUY
+28	0.60	52.23	+02.04	848	
+Distance	Split Time	Cumulative Time
+ 50m
+24.05	24.05
+ 100m
+28.18	52.23
+24	5	
+RSARSA
+Chad LE CLOS
+Chad
+LE CLOS
+32	0.60	52.24	+02.05	848	
+Distance	Split Time	Cumulative Time
+ 50m
+24.50	24.50
+ 100m
+27.74	52.24
+25	4	
+ESPESP
+Mario MOLLA YANES
+Mario
+MOLLA YANES
+22	0.63	52.27	+02.08	846	
+Distance	Split Time	Cumulative Time
+ 50m
+24.15	24.15
+ 100m
+28.12	52.27
+26	7	
+CHNCHN
+Changhao WANG
+Changhao
+WANG
+22	0.62	52.37	+02.18	841	
+Distance	Split Time	Cumulative Time
+ 50m
+24.21	24.21
+ 100m
+28.16	52.37
+27	1	
+CZECZE
+Daniel GRACIK
+Daniel
+GRACIK
+19	0.61	52.61	+02.42	830	
+Distance	Split Time	Cumulative Time
+ 50m
+24.44	24.44
+ 100m
+28.17	52.61
+28	3	
+GERGER
+Kaii WINKLER
+Kaii
+WINKLER
+18	0.65	52.64	+02.45	828	
+Distance	Split Time	Cumulative Time
+ 50m
+24.31	24.31
+ 100m
+28.33	52.64
+29	7	
+KAZKAZ
+Adilbek MUSSIN
+Adilbek
+MUSSIN
+24	0.65	52.74	+02.55	824	
+Distance	Split Time	Cumulative Time
+ 50m
+24.67	24.67
+ 100m
+28.07	52.74
+30	2	
+CROCRO
+Nikola MILJENIC
+Nikola
+MILJENIC
+26	0.66	53.32	+03.13	797	
+Distance	Split Time	Cumulative Time
+ 50m
+24.15	24.15
+ 100m
+29.17	53.32
+31	3	
+UGAUGA
+Jesse Ssuubi SSENGONZI
+Jesse Ssuubi
+SSENGONZI
+21	0.60	53.76	+03.57	778	
+Distance	Split Time	Cumulative Time
+ 50m
+25.28	25.28
+ 100m
+28.48	53.76
+32	1	
+NZLNZL
+Cameron GRAY
+Cameron
+GRAY
+20	0.68	53.83	+03.64	775	
+Distance	Split Time	Cumulative Time
+ 50m
+24.43	24.43
+ 100m
+29.40	53.83
+33	5	
+INAINA
+Joe Aditya Wijaya KURNIAWAN
+Joe
+KURNIAWAN
+23	0.66	53.95	+03.76	770	
+Distance	Split Time	Cumulative Time
+ 50m
+25.04	25.04
+ 100m
+28.91	53.95
+34	4	
+MNEMNE
+Milos MILENKOVIC
+Milos
+MILENKOVIC
+19	0.65	54.26	+04.07	756	
+Distance	Split Time	Cumulative Time
+ 50m
+24.89	24.89
+ 100m
+29.37	54.26
+35	2	
+RSARSA
+Matthew SATES
+Matthew
+SATES
+21	0.68	54.53	+04.34	745	
+Distance	Split Time	Cumulative Time
+ 50m
+25.25	25.25
+ 100m
+29.28	54.53
+36	8	
+PHIPHI
+Jarod HATCH
+Jarod
+HATCH
+25	0.67	54.66	+04.47	740	
+Distance	Split Time	Cumulative Time
+ 50m
+25.27	25.27
+ 100m
+29.39	54.66
+36	6	
+JAMJAM
+Josh KIRLEW
+Josh
+KIRLEW
+24	0.68	54.66	+04.47	740	
 Distance	Split Time	Cumulative Time
  50m
 25.35	25.35
  100m
-29.37	54.72
- 150m
-30.36	01:25.08
- 200m
-30.95	01:56.03
-7	8	
-BRABRA
-Nicolas ALBIERO
-Nicolas
-ALBIERO
-25	0.65	1:56.49	+01.71	849	
+29.31	54.66
+38	7	
+RWARWA
+Oscar Cyusa PEYRE MITILLA
+Oscar Cyusa
+PEYRE MITILLA
+19	0.72	58.77	+08.58	595	
 Distance	Split Time	Cumulative Time
  50m
-25.63	25.63
+26.24	26.24
  100m
-28.88	54.51
- 150m
-30.05	01:24.56
- 200m
-31.93	01:56.49
+32.53	58.77
+39	1	
+IRQIRQ
+Hasan Ali Khaleel AL-ZINKEE
+Hasan Ali Khaleel
+AL-ZINKEE
+20	0.69	1:00.23	+10.04	553	
+Distance	Split Time	Cumulative Time
+ 50m
+27.06	27.06
+ 100m
+33.17	01:00.23
+40	8	
+YEMYEM
+Yusuf Marwan Abdullah NASSER
+Yusuf Marwan Abdullah
+NASSER
+16	0.72	1:08.72	+18.53	372	
+Distance	Split Time	Cumulative Time
+ 50m
+31.13	31.13
+ 100m
+37.59	01:08.72
