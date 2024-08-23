@@ -1,234 +1,9 @@
 1	4	
-INDIND
-Dhinidhi DESINGHU
-Dhinidhi
-DESINGHU
-14	0.70	2:06.96	-	702	
-Distance	Split Time	Cumulative Time
- 50m
-29.68	29.68
- 100m
-32.07	01:01.75
- 150m
-32.71	01:34.46
- 200m
-32.50	02:06.96
-2	5	
-LAOLAO
-Ariana Southa DIRKZWAGER
-Ariana Southa
-DIRKZWAGER
-20	0.70	2:07.22	+00.26	697	
-Distance	Split Time	Cumulative Time
- 50m
-29.47	29.47
- 100m
-31.90	01:01.37
- 150m
-33.12	01:34.49
- 200m
-32.73	02:07.22
-3	3	
-PAKPAK
-Jehanara NABI
-Jehanara
-NABI
-20	0.73	2:10.69	+03.73	643	
-Distance	Split Time	Cumulative Time
- 50m
-29.80	29.80
- 100m
-32.49	01:02.29
- 150m
-33.80	01:36.09
- 200m
-34.60	02:10.69
-4	6	
-ALBALB
-Kaltra MECA
-Kaltra
-MECA
-16	0.76	2:12.21	+05.25	621	
-Distance	Split Time	Cumulative Time
- 50m
-30.19	30.19
- 100m
-32.67	01:02.86
- 150m
-34.93	01:37.79
- 200m
-34.42	02:12.21
-5	7	
-UAEUAE
-Maha ALSHEHHI
-Maha
-ALSHEHHI
-18	0.66	2:17.17	+10.21	556	
-Distance	Split Time	Cumulative Time
- 50m
-31.23	31.23
- 100m
-34.12	01:05.35
- 150m
-35.58	01:40.93
- 200m
-36.24	02:17.17
-6	1	
-KSAKSA
-Mashael Meshari A ALAYED
-Mashael Meshari A
-ALAYED
-17	0.75	2:19.61	+12.65	528	
-Distance	Split Time	Cumulative Time
- 50m
-33.26	33.26
- 100m
-35.00	01:08.26
- 150m
-35.15	01:43.41
- 200m
-36.20	02:19.61
-7	2	
-NEPNEP
-Duana LAMA
-Duana
-LAMA
-18	0.67	2:20.74	+13.78	515	
-Distance	Split Time	Cumulative Time
- 50m
-31.67	31.67
- 100m
-35.14	01:06.81
- 150m
-36.87	01:43.68
- 200m
-37.06	02:20.74
-1	3	
-CHNCHN
-Bingjie LI
-Bingjie
-LI
-22	0.67	QUALIFIED1:56.28	-	914	
-Distance	Split Time	Cumulative Time
- 50m
-27.67	27.67
- 100m
-29.44	57.11
- 150m
-29.83	01:26.94
- 200m
-29.34	01:56.28
-2	4	
-HKGHKG
-Siobhan Bernadette HAUGHEY
-Siobhan Bernadette
-HAUGHEY
-26	0.70	QUALIFIED1:56.38	+00.10	911	
-Distance	Split Time	Cumulative Time
- 50m
-27.02	27.02
- 100m
-29.57	56.59
- 150m
-29.98	01:26.57
- 200m
-29.81	01:56.38
-3	5	
-USAUSA
-Claire WEINSTEIN
-Claire
-WEINSTEIN
-17	0.75	QUALIFIED1:56.48	+00.20	909	
-Distance	Split Time	Cumulative Time
- 50m
-27.49	27.49
- 100m
-29.41	56.90
- 150m
-29.95	01:26.85
- 200m
-29.63	01:56.48
-4	6	
-BRABRA
-Maria Fernanda DE OLIVEIRA DA SILVA COSTA
-Maria Fernanda
-DE OLIVEIRA DA SILVA COSTA
-21	0.72	QUALIFIED1:56.65	+00.37	905	
-Distance	Split Time	Cumulative Time
- 50m
-27.62	27.62
- 100m
-29.44	57.06
- 150m
-30.00	01:27.06
- 200m
-29.59	01:56.65
-5	2	
-HUNHUN
-Lilla Minna ABRAHAM
-Lilla Minna
-ABRAHAM
-18	0.70	QUALIFIED1:57.77	+01.49	879	
-Distance	Split Time	Cumulative Time
- 50m
-28.04	28.04
- 100m
-30.01	58.05
- 150m
-29.98	01:28.03
- 200m
-29.74	01:57.77
-6	1	
-MGLMGL
-Enkhkhuslen BATBAYAR
-Enkhkhuslen
-BATBAYAR
-22	0.71	QUALIFIED1:59.94	+03.66	832	
-Distance	Split Time	Cumulative Time
- 50m
-28.14	28.14
- 100m
-30.32	58.46
- 150m
-30.75	01:29.21
- 200m
-30.73	01:59.94
-7	7	
-ISRISR
-Lea POLONSKY
-Lea
-POLONSKY
-22	0.66	2:00.38	+04.10	823	
-Distance	Split Time	Cumulative Time
- 50m
-28.42	28.42
- 100m
-30.15	58.57
- 150m
-30.63	01:29.20
- 200m
-31.18	02:00.38
-8	8	
-EGYEGY
-Lojine ABDALLA SALAH
-Lojine
-ABDALLA SALAH
-19	0.72	2:07.19	+10.91	698	
-Distance	Split Time	Cumulative Time
- 50m
-30.17	30.17
- 100m
-31.50	01:01.67
- 150m
-32.80	01:34.47
- 200m
-32.72	02:07.19
-1	4	
 AUSAUS
 Mollie O'CALLAGHAN
 Mollie
 O'CALLAGHAN
-20	0.71	QUALIFIED1:55.79	-	925	
+20	0.71	Qualified1:55.79	-	925	
 Distance	Split Time	Cumulative Time
  50m
 27.48	27.48
@@ -239,11 +14,86 @@ Distance	Split Time	Cumulative Time
  200m
 28.51	01:55.79
 2	3	
+CANCAN
+Mary-Sophie HARVEY
+Mary-Sophie
+HARVEY
+24	0.72	Qualified1:56.21	+00.42	915	
+Distance	Split Time	Cumulative Time
+ 50m
+27.85	27.85
+ 100m
+30.01	57.86
+ 150m
+29.05	01:26.91
+ 200m
+29.30	01:56.21
+3	4	
+AUSAUS
+Ariarne TITMUS
+Ariarne
+TITMUS
+23	0.76	Qualified1:56.23	+00.44	915	
+Distance	Split Time	Cumulative Time
+ 50m
+27.19	27.19
+ 100m
+29.39	56.58
+ 150m
+30.14	01:26.72
+ 200m
+29.51	01:56.23
+4	3	
+CHNCHN
+Bingjie LI
+Bingjie
+LI
+22	0.67	Qualified1:56.28	+00.49	914	
+Distance	Split Time	Cumulative Time
+ 50m
+27.67	27.67
+ 100m
+29.44	57.11
+ 150m
+29.83	01:26.94
+ 200m
+29.34	01:56.28
+5	4	
+HKGHKG
+Siobhan Bernadette HAUGHEY
+Siobhan Bernadette
+HAUGHEY
+26	0.70	Qualified1:56.38	+00.59	911	
+Distance	Split Time	Cumulative Time
+ 50m
+27.02	27.02
+ 100m
+29.57	56.59
+ 150m
+29.98	01:26.57
+ 200m
+29.81	01:56.38
+6	5	
+USAUSA
+Claire WEINSTEIN
+Claire
+WEINSTEIN
+17	0.75	Qualified1:56.48	+00.69	909	
+Distance	Split Time	Cumulative Time
+ 50m
+27.49	27.49
+ 100m
+29.41	56.90
+ 150m
+29.95	01:26.85
+ 200m
+29.63	01:56.48
+7	3	
 NZLNZL
 Erika FAIRWEATHER
 Erika
 FAIRWEATHER
-20	0.76	QUALIFIED1:56.54	+00.75	907	
+20	0.76	Qualified1:56.54	+00.75	907	
 Distance	Split Time	Cumulative Time
  50m
 27.57	27.57
@@ -253,12 +103,42 @@ Distance	Split Time	Cumulative Time
 30.05	01:27.14
  200m
 29.40	01:56.54
-3	5	
+8	6	
+BRABRA
+Maria Fernanda DE OLIVEIRA DA SILVA COSTA
+Maria Fernanda
+DE OLIVEIRA DA SILVA COSTA
+21	0.72	Qualified1:56.65	+00.86	905	
+Distance	Split Time	Cumulative Time
+ 50m
+27.62	27.62
+ 100m
+29.44	57.06
+ 150m
+30.00	01:27.06
+ 200m
+29.59	01:56.65
+9	5	
+CHNCHN
+Junxuan YANG
+Junxuan
+YANG
+22	0.68	Qualified1:56.83	+01.04	901	
+Distance	Split Time	Cumulative Time
+ 50m
+26.99	26.99
+ 100m
+29.92	56.91
+ 150m
+30.30	01:27.21
+ 200m
+29.62	01:56.83
+10	5	
 CZECZE
 Barbora SEEMANOVA
 Barbora
 SEEMANOVA
-24	0.64	QUALIFIED1:57.02	+01.23	896	
+24	0.64	Qualified1:57.02	+01.23	896	
 Distance	Split Time	Cumulative Time
  50m
 27.17	27.17
@@ -268,12 +148,27 @@ Distance	Split Time	Cumulative Time
 30.31	01:27.37
  200m
 29.65	01:57.02
-4	2	
+11	6	
+USAUSA
+Erin GEMMELL
+Erin
+GEMMELL
+19	0.76	Qualified1:57.23	+01.44	892	
+Distance	Split Time	Cumulative Time
+ 50m
+27.16	27.16
+ 100m
+29.61	56.77
+ 150m
+30.22	01:26.99
+ 200m
+30.24	01:57.23
+12	2	
 BELBEL
 Valentine DUMONT
 Valentine
 DUMONT
-24	0.69	QUALIFIED1:57.50	+01.71	885	
+24	0.69	Qualified1:57.50	+01.71	885	
 Distance	Split Time	Cumulative Time
  50m
 27.74	27.74
@@ -283,12 +178,42 @@ Distance	Split Time	Cumulative Time
 30.14	01:27.47
  200m
 30.03	01:57.50
-5	7	
+13	2	
+HUNHUN
+Lilla Minna ABRAHAM
+Lilla Minna
+ABRAHAM
+18	0.70	Qualified1:57.77	+01.98	879	
+Distance	Split Time	Cumulative Time
+ 50m
+28.04	28.04
+ 100m
+30.01	58.05
+ 150m
+29.98	01:28.03
+ 200m
+29.74	01:57.77
+14	2	
+RSARSA
+Aimee CANNY
+Aimee
+CANNY
+20	0.75	Qualified1:57.81	+02.02	878	
+Distance	Split Time	Cumulative Time
+ 50m
+27.52	27.52
+ 100m
+29.78	57.30
+ 150m
+30.17	01:27.47
+ 200m
+30.34	01:57.81
+15	7	
 ISLISL
 Snaefridur Sol JORUNNARDOTTIR
 Snaefridur Sol
 JORUNNARDOTTIR
-23	0.73	QUALIFIED1:58.32	+02.53	867	
+23	0.73	Qualified1:58.32	+02.53	867	
 Distance	Split Time	Cumulative Time
  50m
 27.96	27.96
@@ -298,7 +223,67 @@ Distance	Split Time	Cumulative Time
 29.70	01:27.51
  200m
 30.81	01:58.32
-6	1	
+16	1	
+ROUROU
+Rebecca-Aimee DIACONESCU
+Rebecca-Aimee
+DIACONESCU
+18	0.74	Qualified1:59.29	+03.50	846	
+Distance	Split Time	Cumulative Time
+ 50m
+27.82	27.82
+ 100m
+30.36	58.18
+ 150m
+31.01	01:29.19
+ 200m
+30.10	01:59.29
+17	7	
+GERGER
+Julia MROZINSKI
+Julia
+MROZINSKI
+24	0.70	1:59.87	+04.08	834	
+Distance	Split Time	Cumulative Time
+ 50m
+27.82	27.82
+ 100m
+30.22	58.04
+ 150m
+31.01	01:29.05
+ 200m
+30.82	01:59.87
+18	1	
+MGLMGL
+Enkhkhuslen BATBAYAR
+Enkhkhuslen
+BATBAYAR
+22	0.71	1:59.94	+04.15	832	
+Distance	Split Time	Cumulative Time
+ 50m
+28.14	28.14
+ 100m
+30.32	58.46
+ 150m
+30.75	01:29.21
+ 200m
+30.73	01:59.94
+19	7	
+ISRISR
+Lea POLONSKY
+Lea
+POLONSKY
+22	0.66	2:00.38	+04.59	823	
+Distance	Split Time	Cumulative Time
+ 50m
+28.42	28.42
+ 100m
+30.15	58.57
+ 150m
+30.63	01:29.20
+ 200m
+31.18	02:00.38
+20	1	
 VENVEN
 Maria Victoria YEGRES COTTIN
 Maria Victoria
@@ -313,7 +298,22 @@ Distance	Split Time	Cumulative Time
 30.83	01:29.15
  200m
 31.51	02:00.66
-7	8	
+21	8	
+CUBCUB
+Andrea BECALI
+Andrea
+BECALI
+20	0.73	2:03.38	+07.59	765	
+Distance	Split Time	Cumulative Time
+ 50m
+28.45	28.45
+ 100m
+30.65	59.10
+ 150m
+31.94	01:31.04
+ 200m
+32.34	02:03.38
+22	8	
 HONHON
 Julimar AVILA MANCIA
 Julimar
@@ -328,123 +328,123 @@ Distance	Split Time	Cumulative Time
 32.67	01:32.72
  200m
 32.16	02:04.88
-1	3	
-CANCAN
-Mary-Sophie HARVEY
-Mary-Sophie
-HARVEY
-24	0.72	QUALIFIED1:56.21	-	915	
+23	4	
+INDIND
+Dhinidhi DESINGHU
+Dhinidhi
+DESINGHU
+14	0.70	2:06.96	+11.17	702	
 Distance	Split Time	Cumulative Time
  50m
-27.85	27.85
+29.68	29.68
  100m
-30.01	57.86
+32.07	01:01.75
  150m
-29.05	01:26.91
+32.71	01:34.46
  200m
-29.30	01:56.21
-2	4	
-AUSAUS
-Ariarne TITMUS
-Ariarne
-TITMUS
-23	0.76	QUALIFIED1:56.23	+00.02	915	
+32.50	02:06.96
+24	8	
+EGYEGY
+Lojine ABDALLA SALAH
+Lojine
+ABDALLA SALAH
+19	0.72	2:07.19	+11.40	698	
 Distance	Split Time	Cumulative Time
  50m
-27.19	27.19
+30.17	30.17
  100m
-29.39	56.58
+31.50	01:01.67
  150m
-30.14	01:26.72
+32.80	01:34.47
  200m
-29.51	01:56.23
-3	5	
-CHNCHN
-Junxuan YANG
-Junxuan
-YANG
-22	0.68	QUALIFIED1:56.83	+00.62	901	
+32.72	02:07.19
+25	5	
+LAOLAO
+Ariana Southa DIRKZWAGER
+Ariana Southa
+DIRKZWAGER
+20	0.70	2:07.22	+11.43	697	
 Distance	Split Time	Cumulative Time
  50m
-26.99	26.99
+29.47	29.47
  100m
-29.92	56.91
+31.90	01:01.37
  150m
-30.30	01:27.21
+33.12	01:34.49
  200m
-29.62	01:56.83
-4	6	
-USAUSA
-Erin GEMMELL
-Erin
-GEMMELL
-19	0.76	QUALIFIED1:57.23	+01.02	892	
+32.73	02:07.22
+26	3	
+PAKPAK
+Jehanara NABI
+Jehanara
+NABI
+20	0.73	2:10.69	+14.90	643	
 Distance	Split Time	Cumulative Time
  50m
-27.16	27.16
+29.80	29.80
  100m
-29.61	56.77
+32.49	01:02.29
  150m
-30.22	01:26.99
+33.80	01:36.09
  200m
-30.24	01:57.23
-5	2	
-RSARSA
-Aimee CANNY
-Aimee
-CANNY
-20	0.75	QUALIFIED1:57.81	+01.60	878	
+34.60	02:10.69
+27	6	
+ALBALB
+Kaltra MECA
+Kaltra
+MECA
+16	0.76	2:12.21	+16.42	621	
 Distance	Split Time	Cumulative Time
  50m
-27.52	27.52
+30.19	30.19
  100m
-29.78	57.30
+32.67	01:02.86
  150m
-30.17	01:27.47
+34.93	01:37.79
  200m
-30.34	01:57.81
-6	1	
-ROUROU
-Rebecca-Aimee DIACONESCU
-Rebecca-Aimee
-DIACONESCU
-18	0.74	QUALIFIED1:59.29	+03.08	846	
+34.42	02:12.21
+28	7	
+UAEUAE
+Maha ALSHEHHI
+Maha
+ALSHEHHI
+18	0.66	2:17.17	+21.38	556	
 Distance	Split Time	Cumulative Time
  50m
-27.82	27.82
+31.23	31.23
  100m
-30.36	58.18
+34.12	01:05.35
  150m
-31.01	01:29.19
+35.58	01:40.93
  200m
-30.10	01:59.29
-7	7	
-GERGER
-Julia MROZINSKI
-Julia
-MROZINSKI
-24	0.70	QUALIFIED1:59.87	+03.66	834	
+36.24	02:17.17
+29	1	
+KSAKSA
+Mashael Meshari A ALAYED
+Mashael Meshari A
+ALAYED
+17	0.75	2:19.61	+23.82	528	
 Distance	Split Time	Cumulative Time
  50m
-27.82	27.82
+33.26	33.26
  100m
-30.22	58.04
+35.00	01:08.26
  150m
-31.01	01:29.05
+35.15	01:43.41
  200m
-30.82	01:59.87
-8	8	
-CUBCUB
-Andrea BECALI
-Andrea
-BECALI
-20	0.73	2:03.38	+07.17	765	
+36.20	02:19.61
+30	2	
+NEPNEP
+Duana LAMA
+Duana
+LAMA
+18	0.67	2:20.74	+24.95	515	
 Distance	Split Time	Cumulative Time
  50m
-28.45	28.45
+31.67	31.67
  100m
-30.65	59.10
+35.14	01:06.81
  150m
-31.94	01:31.04
+36.87	01:43.68
  200m
-32.34	02:03.38
+37.06	02:20.74
